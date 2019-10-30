@@ -40,16 +40,16 @@ author:
   avatar    : /avatar.png # path or url of avatar image (square)
   bio       : Ant Studio CEO
   email     : AntJun_2016@outlook.com
-  facebook  : https://www.facebook.com/ant.akira.940 # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : https://twitter.com/AntCN16 # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  facebook  : ant.akira.940 # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  twitter   : AntCN16 # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
-  zhihu     : https://www.zhihu.com/people/akira_ant # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
+  zhihu     : akira_ant # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
-  github    : https://github.com/AntJun # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : AntJun # "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
@@ -151,9 +151,9 @@ pageview:
 
   ## Leancloud
   leancloud:
-    app_id    : # LeanCloud App id
-    app_key   : # LeanCloud App key
-    app_class : # LeanCloud App class
+    app_id    : 0zwiAfTY7tqTi8MY51ps6fn1-gzGzoHsz # LeanCloud App id
+    app_key   : W4REnyr8bvIQmlXkXomGst9X # LeanCloud App key
+    app_class : AntJun # LeanCloud App class
 
 
 ## => Search
