@@ -1,4 +1,13 @@
-source "https://rubygems.org"
+source "http://rubygems.org"
+
+
+gem "jekyll"
+gem "jekyll-paginate"
+gem "jekyll-sitemap"
+gem "jekyll-gist"
+gem "jemoji"
+# gem "jekyll-archives"
+
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -23,8 +32,6 @@ end
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
   gem "tzinfo", "~> 1.2"
   gem "tzinfo-data"
-  gem "jekyll"
-  gem "jekyll-paginate" 
 end
 
 # Performance-booster for watching directories on Windows
