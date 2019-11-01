@@ -108,7 +108,7 @@ sources: # bootcdn (default), unpkg
 ## => Sharing
 ##############################
 sharing:
-  provider: addthis # false (default), "addtoany", "addthis", "custom"
+  provider: false # false (default), "addtoany", "addthis", "custom"
 
   ## AddThis
   addthis:
@@ -140,7 +140,7 @@ comments:
     app_id      : 0zwiAfTY7tqTi8MY51ps6fn1-gzGzoHsz # LeanCloud App id
     app_key     : W4REnyr8bvIQmlXkXomGst9X # LeanCloud App key
     placeholder : '在这里写评论' # Prompt information
-    visitor     : # false (default)
+    visitor     : true # false (default)
     meta        : # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
 
 
@@ -153,7 +153,7 @@ pageview:
   leancloud:
     app_id    : 0zwiAfTY7tqTi8MY51ps6fn1-gzGzoHsz # LeanCloud App id
     app_key   : W4REnyr8bvIQmlXkXomGst9X # LeanCloud App key
-    app_class : AntJun # LeanCloud App class
+    app_class : # LeanCloud App class
 
 
 ## => Search
