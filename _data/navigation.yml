@@ -124,22 +124,68 @@ header:
       # @end locale config
     url: /sponsor.html
     
-docs-en:
+docs-zh:
   - title:      开始
     children:
       - title:  快速开始
-        url:    /docs/en/quick-start
+        url:    /
       - title:  索引
-        url:    /docs/en/structure
+        url:    /
         
-  - title:      Customization
+  - title:      扩展
     children:
-      - title:  Configuration
-        url:    /docs/en/configuration
-      - title:  Navigation
-        url:    /docs/en/navigation
+      - title:  音乐
+        url:    /
+      - title:  视频
+        url:    /
         
   - title:      其他语言
     children:
-      - title:  简体中文
+      - title:  英语
         url:    /
+      - title:  简体中文
+        url:    /     
+        
+docs-en:
+  - title:      Start
+    children:
+      - title:  Quick start
+        url:    /
+      - title:  Index
+        url:    /
+        
+  - title:      Expansion
+    children:
+      - title:  Music
+        url:    /
+      - title:  Videos
+        url:    /
+        
+  - title:      Languages
+    children:
+      - title:  English
+        url:    /
+      - title:  Simplified Chinese
+        url:    /     
+        
+home-zh:
+  - title:      开始
+    children:
+      - title:  快速开始
+        url:    /
+      - title:  索引
+        url:    /
+        
+  - title:      扩展
+    children:
+      - title:  音乐
+        url:    /
+      - title:  视频
+        url:    /
+        
+  - title:      其他语言
+    children:
+      - title:  英语
+        url:    /
+      - title:  简体中文
+        url:    /        

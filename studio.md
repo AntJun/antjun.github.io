@@ -2,28 +2,28 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About Me
+  en      : &EN       Studio
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于我
+  zh-Hans : &ZH_HANS  工作室
   zh      : *ZH_HANS
   zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於我
+  zh-Hant : &ZH_HANT  工作室
   zh-TW   : *ZH_HANT
   zh-HK   : *ZH_HANT
-  ko      : &KO       소개
+  ko      : &KO       스튜디오
   ko-KR   : *KO
-  fr      : &KO       À propos
+  fr      : &KO       Studio
   fr-BE   : *FR
   fr-CA   : *FR
   fr-CH   : *FR
   fr-FR   : *FR
-  fr-LU   : *FR
+  fr-LU   : *FR 
   # @end locale config
-key: page-about
+key: page-sponsor
 mode: immersive
 header:
   theme: light
@@ -33,36 +33,22 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /images/city.jpg
+    src: /images/AntStudio.jpg
 aside:
   toc: true
 ---
 
-
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
-<br/> 这里是Ant Jun的个人介绍，您在这可以了解到我本人的详细信息
+<br/> 这里是个人工作室页面，您在这可以了解到关于Ant Studio的信息
 
-<br/> 本网站采用TeXt主题，借助Jekyll搭建。
-<br/> 本站一切权利归属于本人，如果您在本站发现侵权现象请及时与我沟通，我将会第一时间处理
+关于Ant Studio（蚂蚁工作室）的信息
 
+## 创建
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
-
-## 生活
-
-- 24岁，是学生
-- 现住中国河北省廊坊市
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
+- 所有赞助都视为无偿捐赠
+- 赞助后一般情况下不给予退还
+- 请勿以赞助为理由来索取本人信息
 - Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
 - Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
 - Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
@@ -70,24 +56,17 @@ aside:
 - Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
 - RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
 
-## 性格
+## 工作
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+共有6种赞助方式
 
-| `default` | `dark` | `forest` |
+| `支付宝` | `微信` | `PayPal` |
 | --- |  --- | --- |
 | ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
 
 | `ocean` | `chocolate` | `orange` |
 | --- |  --- | --- |
 | ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
-
-## 成就 
-
-- “2008感动中国” 特别奖
-
-- 2006年《时代周刊》年度风云人物
-
 
 ## 联系我
 
