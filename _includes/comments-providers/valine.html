@@ -31,7 +31,7 @@
     {%- endif -%}
     {%- assign _page_lang_slice =  page.lang | slice: 0, 2 -%}
     {%- if _page_lang_slice != 'zh'  -%}
-      _config.lang = 'en';
+      _config.lang = 'zh-cn';
     {%- endif -%}  
     {%- if _VALINE_VISITOR -%}
       _config.visitor = 'true';
