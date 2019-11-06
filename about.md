@@ -42,7 +42,7 @@ aside:
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
-> <span style="font-size:20px;">If you can quit, then quit. If you can't quit,you're a writer.
+> <span style="font-size:20px;">If you can quit, then quit. If you can't quit, you're a writer.
 <br/>--R.A.Salvatore</span>
 
 这里是`Ant Jun`的个人及关于本站的介绍，您在这可以了解到我本人的详细信息
