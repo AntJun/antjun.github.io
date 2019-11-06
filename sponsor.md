@@ -46,15 +46,10 @@ aside:
 
 ## 赞助声明
 
-- 所有赞助都视为无偿捐赠
+- 一般情况下所有赞助都视为无偿捐赠
 - 赞助后一般情况下不给予退还
-- 请勿以赞助为理由来索取本人信息
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+- 请勿以赞助为理由来索取本人其他信息
+- 若有其他目的向我捐助，需先与我联系，否则都将视为无偿捐赠
 
 ## 赞助方式
 
@@ -64,13 +59,6 @@ aside:
 | --- |  --- | --- |
 | ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
 
-| `ocean` | `chocolate` | `orange` |
+| `易联` | `花呗` | `QQ钱包` |
 | --- |  --- | --- |
 | ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
-
-## 联系我
-
-<br/> 这里暂不提供QQ和微信，可以通过其他渠道联络我
-<br/> 出于某些原因本人不会及时回复消息尊请谅解(其实主要看我心情)。对于长时间不冒泡的现象不一定是我死了，也可能只是暂时隐退
-
-<br/>部分联系方式位于页面尾部，点击图标即可跳转 

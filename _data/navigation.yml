@@ -128,15 +128,15 @@ docs-zh:
   - title:      公告
     children:
       - title:  祝你有一天能和重要的人重逢 ——《可塑性记忆》
-        url:    https://www.bilibili.com/bangumi/play/ss1552/
+        url:    https://www.bilibili.com/bangumi/play/ep28924
         
   - title:      扩展
     children:
       - title:  音乐
-        url:    /
+        url:    /music
       - title:  视频
-        url:    /
-      - title:  索引
+        url:    /videos
+      - title:  归档
         url:    /archive.html
         
   - title:      其他语言

@@ -42,35 +42,82 @@ aside:
 
 <br/> 这里是个人工作室页面，您在这可以了解到关于Ant Studio的信息
 
-关于Ant Studio（蚂蚁工作室）的信息
+> <span style="font-size:18px;color:red">**注：该工作室已凉！本页面只作为本人的回忆录！**</span>
 
 ## 创建
 
-- 所有赞助都视为无偿捐赠
-- 赞助后一般情况下不给予退还
-- 请勿以赞助为理由来索取本人信息
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+本工作室于2016年，本人将其名为Ant Studio（蚂蚁工作室）
 
 ## 工作
 
-共有6种赞助方式
+Ant Studio最初为MC的讨论群，目的只是为了在自身娱乐的同时娱乐大家。除此之外还有MC的服务器工作将由Ant Studio承担。
+<br/> 工作室现面向多方面领域，如视频、动画、服务器等等。但自从2017年7月之后该工作室杳无消息，此工作室出于休眠状态（其实就是完了）。
+<br/> 2016-2017年期间做过许多团队协作任务，如
 
-| `支付宝` | `微信` | `PayPal` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+## 经历
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+- 2015年9月29日，
+   - Ant讨论组首次创建
+      - 这是AntJun首次搭建MC讨论群，为MC爱好者的准备交流地，当时本人作为Minecraft玩家制作并发布了许多自己的作品，在2016年首次获得不少喜爱者后
+	  通过创建本群组来聚集更多的玩家
 
-## 联系我
+- 2016年
+   - Ant讨论组改名为Ant Studio（蚂蚁工作室）
+      - 由于当时本人急于扩大团队人数，因而以Ant Studio来作为组织的名称。直至今日该工作室仍是一个娱乐和非盈利性组织，
+	  工作室人员少，规模小并没有经过法律认证
+   - 本工作室开始于其他工作室进行合作
 
-<br/> 这里暂不提供QQ和微信，可以通过其他渠道联络我
-<br/> 出于某些原因本人不会及时回复消息尊请谅解(其实主要看我心情)。对于长时间不冒泡的现象不一定是我死了，也可能只是暂时隐退
+- 2016年10月1日
+   - MC服务器(Ant Server)开始运营
+      - `MC Ant Server`又称MC落日的低谷服务器，是工作室组员共同搭建的Minecraft中小型公益服。采用阿里云服务器，Ant Skin支持。
+	  在开服期间持续有组内成员更新及维护。半年多后因经费不足被迫停服。
+	  
 
-<br/>部分联系方式位于页面尾部，点击图标即可跳转 
+- 2017年1月1日
+   - Ant Skin搭建
+      - Ant Skin是Dz_Paji与Ant_Jun合作搭建的MC皮肤站，由Blessing Skin驱动。后因主机使用时间到期无人续费关闭。
+
+- 2017年7月
+   - 工作室进入休眠状态（死了）
+      - 关于2017年6月26日及之后的事情我会抽时间发Blog详细说明。
+
+- 2018-2019年
+   - 无重大消息
+
+
+## 人员介绍
+
+对于人员的介绍可能isn't clear，某些是来了就走，某些是长期隐退，某些只是短暂的合作者。
+但此处将会列出所有加入过及合作过的人员名单，以此纪念在这广袤的世界中能如此有缘见面的朋友们，祝各位能一路顺利。
+> <span style="font-size:18px;">**See You Again!**</span>
+
+## 人员名单
+
+> <span style="font-size:18px;">**顺序不分先后！！**</span>
+
+- Ant_Jun
+   - 本人。工作室创建者（但其实是个什么都不会的废物）
+- Dz_Paji
+   - 现于Honoka TEC LTD
+- 舞晗坤
+   - 本人最早认识的同行
+- Star_leap繁星飞跃
+- Xin_Ruan
+- 安素
+- 神琦
+   - 现于岸光
+- 小谎言
+- 梦知
+- 特有风范
+- Dark炎麟君
+- 史努比游览
+   - 三维动画行业
+- 金秋
+- 松田陆风
+- dy冷子
+- 豆比金领
+- 黄昏
+
+> <span style="font-size:18px;">**感谢各位的陪伴，愿有缘再见！**</span>
+
+## 其他
