@@ -40,25 +40,28 @@ aside:
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
-<br/> 这里是Ant Jun的赞助页，您在这可以找到向我赞助的方式
+<br/> 这里是Ant Jun的赞助页，您在这可以找到向我赞助的方式。
 
 <br/> 赞助前请务必阅读赞助声明！
 
 ## 赞助声明
 
-- 一般情况下所有赞助都视为无偿捐赠
-- 赞助后一般情况下不给予退还
-- 请勿以赞助为理由来索取本人其他信息
-- 若有其他目的向我捐助，需先与我联系，否则都将视为无偿捐赠
+- 一般情况下所有赞助都视为无偿捐赠。
+- 赞助后一般情况下不给予退还。
+- 请勿以赞助为理由来索取本人其他信息。
+- 若有其他目的向我捐助，需先与我联系，否则都将视为无偿捐赠。
+- 支付时请认真核对信息后再支付，避免受骗。
 
 ## 赞助方式
 
 共有6种赞助方式
+<br/>推荐使用银联
+> <span style="font-size:18px;">**点击链接或扫二维码进行支付**</span>
 
 | `支付宝` | `微信` | `PayPal` |
 | --- |  --- | --- |
 | ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
 
-| `易联` | `花呗` | `QQ钱包` |
+| `银联` | `花呗` | `QQ钱包` |
 | --- |  --- | --- |
 | ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
