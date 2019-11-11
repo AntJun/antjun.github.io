@@ -1,7 +1,7 @@
 ## 关于本站
 
-AntJun's Blog借助[Jekyll](http://jekyllcn.com/)，使用[Text](https://tianqi.name/jekyll-TeXt-theme/)主题搭建
-<br/>网站使用 <span style="color:red;">[BootCDN](https://www.bootcdn.cn/)</span>作为网站的CDN源来加快载入速度
+Blog借助[Jekyll](http://jekyllcn.com/)，使用[Text](https://tianqi.name/jekyll-TeXt-theme/)主题搭建
+<br/>原作者： <span style="color:red;">[@kitian616](https://github.com/kitian616)</span>
 <br/>[<span style="color:red;">AntJun's Blog安全链接</span>](https://www.antjun.com/)
 #### Demo Pages
 | Name | Description |
