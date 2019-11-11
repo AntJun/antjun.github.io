@@ -1,5 +1,6 @@
 ---
 layout: article
+sharing: true
 titles:
   # @start locale config
   en      : &EN       Sponsor
@@ -38,11 +39,13 @@ aside:
   toc: true
 ---
 
+---
+
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
 <br/> 这里是Ant Jun的赞助页，您在这可以找到向我赞助的方式。
-
 <br/> 赞助前请务必阅读赞助声明！
+<br/> 若有问题请通过[「关于」](/about)页面或页面底部提供的联系方式与我联系。
 
 ## 赞助声明
 
@@ -54,14 +57,15 @@ aside:
 
 ## 赞助方式
 
-共有6种赞助方式
-<br/>推荐使用银联
-> <span style="font-size:18px;">**点击链接或扫二维码进行支付**</span>
+支持5种赞助方式
+> <span style="font-size:18px;">**点击文字链接或扫二维码进行支付**</span>
 
 | `支付宝` | `微信` | `PayPal` |
 | --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+| ![支付宝](/images/Pay/Alipay.png) | ![微信](/images/Pay/WeChat.png) | ![PayPal](/images/Pay/PayPal.png) |
 
-| `银联` | `花呗` | `QQ钱包` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+| `银联` | `QQ钱包` |
+| --- | --- |
+| ![银联](/images/Pay/UnionPay.png) | ![QQ](/images/Pay/QQ.png) |
+
+---

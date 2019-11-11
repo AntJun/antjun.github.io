@@ -1,5 +1,6 @@
 ---
 layout: article
+sharing: true
 titles:
   # @start locale config
   en      : &EN       Studio
@@ -36,6 +37,8 @@ article_header:
     src: /images/AntStudio.jpg
 aside:
   toc: true
+---
+
 ---
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
@@ -123,3 +126,5 @@ Ant Studio最初为MC的讨论群，目的只是为了在自身娱乐的同时�
 > <span style="font-size:18px;">**感谢各位的陪伴，愿有缘再见！**</span>
 
 ## 其他
+
+---
