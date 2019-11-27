@@ -22,7 +22,7 @@ With the help of extensions, you can easily add **audios**, **videos**, **slides
 
 Available in Chinese mainland.
 
-<div>{%- include extensions/netease-cloud-music.html id='413812448' -%}</div>
+<div>{%- include extensions/netease-cloud-music.html id='523658880' -%}</div>
 
 ## Video
 

@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: AntJun/antjun.blog
 repository_tree: master
 
 
@@ -147,13 +147,12 @@ comments:
 ## => Pageview
 ##############################
 pageview:
-  provider: leancloud # false (default), "leancloud", "custom"
-
+  provider: leancloud # false (default), "leancloud", "custom"  provider: leancloud
   ## Leancloud
   leancloud:
     app_id    : 0zwiAfTY7tqTi8MY51ps6fn1-gzGzoHsz # LeanCloud App id
     app_key   : W4REnyr8bvIQmlXkXomGst9X # LeanCloud App key
-    app_class : # LeanCloud App class
+    app_class : AntJun # LeanCloud App class
 
 
 ## => Search

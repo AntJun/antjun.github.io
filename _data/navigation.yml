@@ -147,28 +147,28 @@ docs-zh:
         url:    /     
         
 docs-en:
-  - title:      Start
+  - title:      Announcement
     children:
-      - title:  Quick start
-        url:    /
-      - title:  Index
-        url:    /
+      - title:  I wish you one day you can reunite with your important people - "Plasticity Memory"
+        url:    ttps://www.bilibili.com/bangumi/play/ep28924
         
   - title:      Expansion
     children:
       - title:  Music
-        url:    /
+        url:    /music
       - title:  Videos
-        url:    /
+        url:    /videos
+      - title:  Archive
+        url:    /archive.html
         
   - title:      Languages
     children:
       - title:  English
-        url:    /
+        url:    /en/
       - title:  Simplified Chinese
-        url:    /     
+        url:    /
         
-home-zh:
+about-zh:
   - title:      公告
     children:
       - title:  快速开始

@@ -34,18 +34,19 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /images/AntStudio.jpg
+    src: /images/AntStudio01.jpg
 aside:
   toc: true
 ---
 
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+这里是个人工作室页面，您在这可以了解到关于Ant Studio的信息。
 
-<br/> 这里是个人工作室页面，您在这可以了解到关于Ant Studio的信息。
+<span style="font-size:18px;color:red">**注：该工作室已凉！本页面只作为本人的回忆录！**</span>
+{:.warning}
 
-> <span style="font-size:18px;color:red">**注：该工作室已凉！本页面只作为本人的回忆录！**</span>
+![Ant Studio](/images/AntStudio02.jpg){:.border.rounded}
 
 ## 创建
 
@@ -55,7 +56,8 @@ aside:
 
 Ant Studio最初为MC的讨论群，目的只是为了在自身娱乐的同时娱乐大家。除此之外还有MC的服务器工作将由Ant Studio承担。
 <br/> 工作室现面向多方面领域，如视频、动画、服务器等等。但自从2017年7月之后该工作室杳无消息，此工作室出于休眠状态（其实就是完了）。
-<br/> 2016-2017年期间做过许多团队协作任务，如
+<br/> 2016-2017年期间做过许多团队协作任务，如服务器项目，网站项目，MC地图规划项目等。同时致力向多方面、
+多领域的方面进展，而不仅仅是MC。
 
 ## 经历
 
@@ -69,7 +71,7 @@ Ant Studio最初为MC的讨论群，目的只是为了在自身娱乐的同时�
       - 由于当时本人急于扩大团队人数，因而以Ant Studio来作为组织的名称。直至今日该工作室仍是一个娱乐和非盈利性组织，
 	  工作室人员少，规模小并无法律认证。
    - 工作室合作
-      - 工作室开始与其他MC工作室进行合作，如幻影工作室、炎麟工作室等。但无双方正式作业的情况，只进行了小范围的交流讨论。
+      - 工作室开始与其他MC工作室进行合作，如眩凌翼工作室、炎麟工作室、幻影工作室等。但无双方正式作业的情况，只进行了小范围的交流讨论。
 
 - 2016年10月1日
    - Ant Server开始运营
@@ -95,8 +97,7 @@ Ant Studio最初为MC的讨论群，目的只是为了在自身娱乐的同时�
 但此处将会列出所有加入过及合作过的人员名单，以此纪念在这广袤的世界中能如此有缘见面的朋友们，祝各位一路顺利。
 > <span style="font-size:18px;">**See You Again!**</span>
 
-## 人员名单
-
+### 人员名单
 > <span style="font-size:18px;">**顺序不分先后！！**</span>
 
 - Ant_Jun
@@ -121,10 +122,18 @@ Ant Studio最初为MC的讨论群，目的只是为了在自身娱乐的同时�
 - dy冷子
 - 豆比金领
 - 黄昏
-- LSP
+- LSP建筑
 
 > <span style="font-size:18px;">**感谢各位的陪伴，愿有缘再见！**</span>
 
-## 其他
+## 后记   
+
+感谢Minecraft给了我创造的机会。我发现它不仅仅是一个游戏，它跨越了我们与屏幕间的隔离，给了我这个去创造、创新的机会。
+它的高自由度让我在不少领域有所成就，从地图存档分享到动画制作，从游戏指令控制到编写程序，从个体到集体、从小组到工作室，
+给了我少年时代最深刻的回忆，我怎能不承认它的地位之高呢。
+
+自从网易代理MC后我对游戏的热衷度不断下降，我很遗憾看到这个辉煌了6年的游戏最后毁于这位商人手中手中。
+而我也在继续生活，新游戏、新伙伴再不断出现在我的电脑，我也不断不断寻找着更多给我带来乐趣的事物……
+> <span style="font-size:18px;">**最是人间留不住，朱颜辞镜花辞树。**</span>
 
 ---

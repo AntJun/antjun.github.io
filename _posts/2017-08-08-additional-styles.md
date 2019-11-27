@@ -1,5 +1,6 @@
 ---
 title: TeXt - Additional Styles
+lightbox: true
 key: 20170808
 tags: TeXt
 ---

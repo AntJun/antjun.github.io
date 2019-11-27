@@ -1,6 +1,7 @@
 ---
 layout: article
 sharing: true
+lightbox: true
 titles:
   # @start locale config
   en      : &EN       Sponsor
@@ -34,16 +35,14 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /images/AR-HOME.jpg
+    src: /images/city02.jpg
 aside:
   toc: true
 ---
 
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
-
-<br/> 这里是Ant Jun的赞助页，您在这可以找到向我赞助的方式。
+这里是Ant Jun的赞助页，您在这可以找到向我赞助的方式。
 <br/> 赞助前请务必阅读赞助声明！
 <br/> 若有问题请通过[「关于」](/about)页面或页面底部提供的联系方式与我联系。
 
@@ -57,15 +56,15 @@ aside:
 
 ## 赞助方式
 
-支持5种赞助方式
+支持4种赞助方式
 > <span style="font-size:18px;">**点击文字链接或扫二维码进行支付**</span>
 
-| `支付宝` | `微信` | `PayPal` |
-| --- |  --- | --- |
-| ![支付宝](/images/Pay/Alipay.png) | ![微信](/images/Pay/WeChat.png) | ![PayPal](/images/Pay/PayPal.png) |
+| `支付宝` | `微信` |
+| --- |  --- |
+| ![Alipay](/images/Pay/Alipay01.png) | ![WeChat](/images/Pay/WeChat01.png) |
 
-| `银联` | `QQ钱包` |
+| `PayPal` | `QQ钱包` |
 | --- | --- |
-| ![银联](/images/Pay/UnionPay.png) | ![QQ](/images/Pay/QQ.png) |
+| ![PayPal](/images/Pay/PayPal01.png) | ![QQ](/images/Pay/QQ01.png) |
 
 ---
