@@ -168,13 +168,10 @@ docs-en:
       - title:  Simplified Chinese
         url:    /
         
-about-zh:
-  - title:      公告
+recommend-zh:
+  - title:      推荐文章
     children:
-      - title:  快速开始
-        url:    /
-      - title:  索引
-        url:    /
+      - title:  无
         
   - title:      扩展
     children:

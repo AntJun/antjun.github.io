@@ -43,7 +43,7 @@ aside:
 
 这里是个人工作室页面，您在这可以了解到关于Ant Studio的信息。
 
-<span style="font-size:18px;color:red">**注：该工作室已凉！本页面只作为本人的回忆录！**</span>
+<span style="font-size:18px;color:red">**注意：该工作室已凉！本页面只作为本人的回忆录！**</span>
 {:.warning}
 
 ![Ant Studio](/images/AntStudio02.jpg){:.border.rounded}
