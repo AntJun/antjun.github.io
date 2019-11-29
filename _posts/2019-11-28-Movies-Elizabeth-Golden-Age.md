@@ -7,6 +7,7 @@ pageview: true
 ---
 
 ## Introduction
+<!--more-->
 - An Introduction
    - The ugly duckling becomes a white swan.
    - After the death of Queen Mary I of England in 1858, 

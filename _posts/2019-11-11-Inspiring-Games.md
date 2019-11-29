@@ -2,6 +2,7 @@
 title: Inspiring Games - Doki Doki Lierature Club
 tags: ["Blog", "Game"]
 cover: /images/cover-default.jpg
+pageview: true
 sidebar:
   nav: docs-zh
 ---
@@ -49,6 +50,9 @@ DDLC在Steam上的宣传有面带着和善笑容的四个可爱女孩子，粉�
 可以说是游戏的精华部分之一。
 <br/>在游戏中我们是通过选择词语写诗来增进与其它社员的感情，而不是给自己看的。
 每当你选择词语的时候，喜欢这个词语类型的人就会蹦起来。
+![Poems](path-to-image){:.shadow}
+<br/>还挺可爱的，啊哈哈。
+<br/>但奇怪的是左下角只有三个人，每次写诗时都会少Monika。问我为什么，那我只能回答：这是设定的一部分。
 
 ## Your Reality
 
