@@ -1,12 +1,10 @@
 ---
 title: Inspiring Games - Doki Doki Lierature Club
+key: 20191111
 tags: ["Blog", "Game"]
-mermaid: true
 cover: /images/cover-default.jpg
-sharing: true
 pageview: true
-sidebar:
-  nav: docs-zh
+mermaid: true
 ---
 
 ---
@@ -51,22 +49,22 @@ DDLC在Steam上的宣传有面带着和善笑容的四个可爱女孩子，粉�
 
 一些我收集到关于此游戏的深层内容及隐藏文件等（部分来源已注明）。
 
-### 关于结局
+### 结局
 
-结局一共分为三个，我分别称它们为普通结局、完美结局及直接结局
+我目前玩到的结局一共分为三个，我分别称它们为普通结局、完美结局及直接结局
 
 #### 达成条件
 
 ```mermaid
 graph TB;
-    A[玩家是否在游戏开始前删除了Monika.chr或Sayori.chr文件?]
-    B[玩家是否在Sayori自杀前利用读取存档的方式收集了9张立绘？]
-	C[打开游戏直接跳转到"晴天娃娃"场景]
-	D[在完成二周目后进入Monika个人空间后删除Monika.chr文件]
-	E[在完成二周目后进入Monika个人空间后删除Monika.chr文件]
-	X[直接结局]
-	Y[普通结局]
-	Z[完美结局]
+    A["玩家是否在游戏开始前删除了Monika.chr或Sayori.chr文件?"]
+    B["玩家是否在Sayori自杀前利用读取存档的方式收集了9张CG立绘？"]
+	C["打开游戏直接跳转到Sayori上吊场景"]
+	D["完成三周目"]
+	E["完成三周目"]
+	X["直接结局"]
+	Y["普通结局"]
+	Z["完美结局"]
     A--no-->B;
     A--yes-->C;
     B--no-->D;
@@ -74,16 +72,6 @@ graph TB;
 	C-->X;
 	D-->Y;
 	E-->Z;
-```
-```mermaid
-graph TB;
-    A[Do you have a problem in your life?]
-    B[Then don't worry]
-    C[Can you do something about it?]
-    A--no-->B;
-    A--yes-->C;
-    C--no-->B;
-    C--yes-->B;
 ```
 
 ### 诗
@@ -159,7 +147,7 @@ Yuri | ![Poems](path-to-image){:.shadow} | 这首诗的表意不明
 
 这是在游戏最后删除`Monika.chr`文件后的播放的一段音乐。
 
-顺便一提，在完美结局中最后播放的视频不会删除角色立绘，并且在最后会得到Monika给你写的信。
+顺便一提，在完美结局中最后播放的视频不会删除角色立绘，并且在最后会得到Team Salvato给你写的信。
 
 <div>{%- include extensions/netease-cloud-music.html id='523658880' -%}</div>
 
