@@ -1,7 +1,7 @@
 ---
 title: Valine 评论系统已上线
 tag: ["Valine", "Update"]
-key: W4REnyr8bvIQmlXkXomGst9X
+key: 20191101
 pageview: true
 cover: https://pic3.superbed.cn/item/5de8e4acf1f6f81c50ccbe4e.png
 ---
@@ -52,7 +52,7 @@ Valine 目前使用的是 [Gravatar](http://cn.gravatar.com/) 作为评论列表
 [官方联系方式](https://valine.js.org/contact.html)
 
 ## 参考
-[^valine]: [Valine评论系统](https://valine.js.org/)
-[^avatar]: [Valine头像配置](https://valine.js.org/avatar.html)
+[^valine]: [Valine 评论系统](https://valine.js.org/)
+[^avatar]: [Valine 头像配置](https://valine.js.org/avatar.html)
 
 ---
