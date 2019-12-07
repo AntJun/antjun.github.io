@@ -1,7 +1,7 @@
 ---
 title: Valine 评论系统已上线
 tag: ["Valine", "Update"]
-key: 0001
+key: 100001
 pageview: true
 cover: https://pic3.superbed.cn/item/5de8e4acf1f6f81c50ccbe4e.png
 ---

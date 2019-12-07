@@ -1,7 +1,7 @@
 ---
 title: Inspiring Games - Doki Doki Lierature Club
 tags: ["Blog", "Game"]
-key: 0002
+key: 100002
 cover: https://pic3.superbed.cn/item/5de8e41ef1f6f81c50cca06a.png
 pageview: true
 mermaid: true
