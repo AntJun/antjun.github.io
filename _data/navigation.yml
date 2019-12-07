@@ -1,0 +1,188 @@
+header:
+  - titles:
+      # @start locale config
+      en      : &EN       Home
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  主页
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  主頁
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       홈페이지
+      ko-KR   : *KO
+      fr      : &KO       Page d'accueil
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      # @end locale config
+    url: /
+    
+  - titles:
+      # @start locale config
+      en      : &EN       Archive
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  文章索引
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  歸檔
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       아카이브
+      ko-KR   : *KO
+      fr      : &FR       Archives
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      # @end locale config
+    url: /archive.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       About
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  关于
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  關於
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       소개
+      ko-KR   : *KO
+      fr      : &KO       À propos
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      # @end locale config
+    url: /about.html
+    
+  - titles:
+      # @start locale config
+      en      : &EN       Studio
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  工作室
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  工作室
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       스튜디오
+      ko-KR   : *KO
+      fr      : &KO       Studio
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      # @end locale config
+    url: /studio.html
+    
+  - titles:
+      # @start locale config
+      en      : &EN       Sponsor
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  赞助
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  贊助
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       후원
+      ko-KR   : *KO
+      fr      : &KO       Commandite
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      # @end locale config
+    url: /sponsor.html
+    
+docs-zh:
+  - title:      公告
+    children:
+      - title:  祝你有一天能和重要的人重逢 ——《可塑性记忆》
+        url:    https://www.bilibili.com/bangumi/play/ep28924
+        
+  - title:      扩展
+    children:
+      - title:  音乐
+        url:    /music
+      - title:  视频
+        url:    /videos
+      - title:  归档
+        url:    /archive.html
+        
+  - title:      其他语言
+    children:
+      - title:  英语
+        url:    /en/
+      - title:  简体中文
+        url:    /     
+        
+docs-en:
+  - title:      Announcement
+    children:
+      - title:  I wish you one day you can reunite with your important people - "Plasticity Memory"
+        url:    ttps://www.bilibili.com/bangumi/play/ep28924
+        
+  - title:      Expansion
+    children:
+      - title:  Music
+        url:    /music
+      - title:  Videos
+        url:    /videos
+      - title:  Archive
+        url:    /archive.html
+        
+  - title:      Languages
+    children:
+      - title:  English
+        url:    /en/
+      - title:  Simplified Chinese
+        url:    /
+        
+recommend-zh:
+  - title:      推荐文章
+    children:
+      - title:  无
+        
+  - title:      扩展
+    children:
+      - title:  音乐
+        url:    /
+      - title:  视频
+        url:    /
+        
+  - title:      其他语言
+    children:
+      - title:  英语
+        url:    /
+      - title:  简体中文
+        url:    /        
