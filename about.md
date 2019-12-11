@@ -58,7 +58,6 @@ aside:
 
 AntJun's Blog（以下简称本站）借助 [Jekyll](http://jekyllcn.com/)，使用 [Text](https://tianqi.name/jekyll-TeXt-theme/) 主题搭建
 <br/> 网站使用 <span style="color:red;">[BootCDN](https://www.bootcdn.cn/)</span> 作为网站的 CDN 源来加快载入速度
-<br/> [<span style="color:red;">AntJun's Blog安全链接</span>](https://www.antjun.com/)
 
 作者本人曾在 2017 年创建过个人 Blog，之后由于个人个人原因抛弃了 Blog。
 本站于 2019 年 10 月独自搭建，因本人喜欢 LoveLive 和咖啡所以将该站命名为`音乃木坂 COFFEE HOUSE`。
@@ -71,7 +70,6 @@ AntJun's Blog（以下简称本站）借助 [Jekyll](http://jekyllcn.com/)，使
 本站包含转载自其它作品的内容。对于转载内容，本站尊重原创者劳动，已注明原作品名称及出处。
 但由于人为因素的限制，难免有疏忽、失误和遗漏，或者内容来源无法查明。
 如果出现类似这些情况，不管是被转载内容的原作者，还是读者，请及时联系我，以确保第一时间予以修正。
-<br/> 在每个图片及文字上都表明出处非常麻烦，如有疏忽尊请各位谅解！
 
 所有文章均遵守 [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) 许可协议。  
 
@@ -116,6 +114,7 @@ AntJun's Blog（以下简称本站）借助 [Jekyll](http://jekyllcn.com/)，使
 其实我自己也不好评价自己的性格，感觉怎么说都感觉描述不了真实的自我，因此这里就不论真实性随便写写了。
 
 个人比较内向，现实中就喜欢沉默不语，但我在网络上也不会重拳出击，而只是在能找到共同话题的地方瞎插几句话罢了，如果你跟我混熟了的话应该没有什么大问题。
+
 不善于交往，在语言表达能力方面有欠缺，~~不会大吼大叫~~。
 <br/> 个人偏悲观现实主义。
 
@@ -127,7 +126,7 @@ AntJun's Blog（以下简称本站）借助 [Jekyll](http://jekyllcn.com/)，使
 
 - 2017 年 1 月 1 日 Ant Skin 创建
 
-- 2016 年 10 月搭建 MC 公益服--落日的低谷
+- 2016 年 10 月搭建 MC 公益服
 
 - 2016 年创建 Ant Studio
 
