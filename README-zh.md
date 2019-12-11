@@ -4,7 +4,7 @@ Blog 借助 [Jekyll](http://jekyllcn.com/)，使用 [Text](https://tianqi.name/j
 <br/>原作者： <span style="color:red;">[@kitian616](https://github.com/kitian616)</span>
 <br/>[<span style="color:red;">AntJun's Blog 安全链接</span>](https://www.antjun.com/)
 
-**[更新日志](https://github.com/AntJun/antjun.blog/blob/master/CHANGELOG.md)** | **[中文](https://github.com/AntJun/antjun.blog/blob/master/README-ZH.md)**
+**[更新日志](https://github.com/AntJun/antjun.blog/blob/master/CHANGELOG.md)** | **[English](https://github.com/AntJun/antjun.blog/blob/master/README.md)**
 
 ### 演示页
 
