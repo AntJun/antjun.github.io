@@ -14,8 +14,8 @@ cover: https://pic3.superbed.cn/item/5de8e4acf1f6f81c50ccbe4e.png
 
 ## 为什么选择 Valine
 
-- 安全、快速
-- 简洁且高效
+- 安全、简洁
+- 快速且高效
 - 开源，自定义程度高
 - 无后端实现
 - Emoji 支持 🎅
@@ -31,10 +31,10 @@ Valine 与 [LeanCloud](https://www.leancloud.cn/) 结合使用。
 
 ### 获取 APP ID 和 APP KEY
 
-首先[注册](https://leancloud.cn/dashboard/login.html#/signup)或[登录](https://leancloud.cn/dashboard/login.html#/signup)到 [LeanCloud](https://leancloud.cn/)，打开[控制台](https://leancloud.cn/dashboard/applist.html#/apps)。
+首先[注册](https://leancloud.cn/dashboard/login.html#/signup)或[登录](https://leancloud.cn/dashboard/login.html#/signin)到 [LeanCloud](https://leancloud.cn/)，打开[控制台](https://leancloud.cn/dashboard/applist.html#/apps)。
 
 点击[创建应用](https://leancloud.cn/dashboard/applist.html#/newapp)新建一个应用。
-<br/> 填写您的应用名字；个人博客的评论量不会很大，因此`计价方案`选择`开发版`即可（有钱随意）。
+<br/> 填写您的应用名字。个人博客的评论量不会很大，因此`计价方案`选择`开发版`即可（有钱随意）。
 
 ![创建应用](https://i.loli.net/2019/12/09/zUkGZQN5d26APxB.png)
 
@@ -47,7 +47,8 @@ Valine 与 [LeanCloud](https://www.leancloud.cn/) 结合使用。
 > 为了您的数据安全，请填写`应用` > `设置` > `安全设置`中的 Web 安全域名。
 
 由于 App ID 和 App Key 是完全暴露的，任何人都可以访问我们的资源。为了防止他人使用，我们需要配置 Web 安全域名，只有添加的域名才可以使用资源。
-<br/> 在`应用` > `设置` > `安全设置`中`Web 安全域名`一栏填写我们站点的域名后点击保存即可。
+
+在`应用` > `设置` > `安全设置`中`Web 安全域名`一栏填写我们站点的域名后点击保存即可。
 
 ![设置安全域名](https://i.loli.net/2019/12/09/ZemSnpCirl5A7PD.png)
 
@@ -56,7 +57,7 @@ Valine 与 [LeanCloud](https://www.leancloud.cn/) 结合使用。
 
 ![403 error](https://i.loli.net/2019/12/11/xFIKP4BenOtyrid.png)
 
-<br/><span style="color:red;"> **1. 检查填写的安全域名是否正确，或者可以考虑放弃安全域名。** </span>
+<span style="color:red;"> **1. 检查填写的安全域名是否正确，或者可以考虑放弃安全域名。** </span>
 <br/><span style="color:red;"> **2. 检查并修改`存储` > `Class` 中因设置了相应权限导致无法访问的权限设置。** </span>
 {:.warning}
 
@@ -127,7 +128,7 @@ new Valine({
 
 <a class="button button--primary button--rounded" href="https://valine.js.org/configuration.html">查看详情配置</a>
 
-如要对配置更多修改，请在刚才填写 APP ID 与 APP KEY 的地方加入并修改相应的配置项。
+如要对配置进行更多修改，请在刚才填写 APP ID 与 APP KEY 的地方加入并修改相应的配置项。
 <br/> 如下，我添加了`notify` `verify` `avatar` 和 `placeholder` 这四个配置项。
 ```html
 <script>
@@ -135,7 +136,7 @@ new Valine({
         el: '#vcomments' ,
         appId: '<APP_ID>',
         appKey: '<APP_KEY>',
-        notify: false, 
+        notify: true, 
         verify: true, 
         avatar: 'mp', 
         placeholder: '在此处填写评论' 
@@ -186,11 +187,11 @@ new Valine({
 
 在未输入昵称时发送的消息将以 `Anonymous` 的代名发送消息。
 <br/> 未输入昵称时将只显示默认头像，同时不会受到评论回复邮件通知。
-<br/> 输入了网址后点击昵称将跳转到此网址。
+<br/> 输入了网址后点击昵称将跳转到网址。
 
 ### 使用 Markdown 语法
 
-本评论系统支持 Markdown，您可以使用 Markdown 语法输入您想发表的评论（具体请参考 [Markdown详细语法教程](https://segmentfault.com/markdown)）。同时，您可以点击「预览」按钮来查看实时效果。
+本评论系统支持 Markdown，您可以使用 Markdown 语法输入您想发表的评论（具体请参考 [Markdown 详细语法教程](https://segmentfault.com/markdown)）。同时，您可以点击「预览」按钮来查看实时效果。
 
 ### 配置个人头像
 
@@ -206,7 +207,7 @@ Valine 目前使用的是 [Gravatar](http://cn.gravatar.com/) 作为评论列表
 
 > 感谢 `gravatar.cat.net` 提供的补充服务。
 
-**注意：因 gravatar.cat.net 有七天的缓存期，修改头像后请耐心等待更新**
+**注意：因 gravatar.cat.net 有七天的缓存期，修改头像后请耐心等待更新。**
 {:.warning}
 
 ## 部分内容参考
