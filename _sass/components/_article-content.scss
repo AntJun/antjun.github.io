@@ -23,7 +23,7 @@
       visibility: hidden;
       opacity: 0;
       & > i {
-        font-size: map-get($base, font-size-sm);
+        font-size: map-get($base, font-size);
       }
     }
     @include hover() {
@@ -44,7 +44,7 @@
   }
   blockquote {
     padding-left: map-get($spacers, 3);
-    font-size: map-get($base, font-size-sm);
+    font-size: map-get($base, font-size);
     color: $text-color-l;
     @include split-line(left, 4px, $border-color);
     p {
