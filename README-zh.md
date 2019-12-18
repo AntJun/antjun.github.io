@@ -1,8 +1,8 @@
 ## 关于本站
 
 Blog 借助 [Jekyll](http://jekyllcn.com/)，使用 [Text](https://tianqi.name/jekyll-TeXt-theme/) 主题搭建。
-<br/>原作者： <span style="color:red;">[@kitian616](https://github.com/kitian616)</span>
-<br/>[<span style="color:red;">AntJun's Blog 安全链接</span>](https://www.antjun.com/)
+<br/> 原作者： <span style="color:red;">[@kitian616](https://github.com/kitian616)</span>
+<br/> [<span style="color:red;">AntJun's Blog 安全链接</span>](https://www.antjun.com/)
 
 **[更新日志](https://github.com/AntJun/antjun.blog/blob/master/CHANGELOG.md)** | **[English](https://github.com/AntJun/antjun.blog/blob/master/README.md)**
 
