@@ -6,11 +6,10 @@ pageview: true
 cover: https://pic3.superbed.cn/item/5de8e4acf1f6f81c50ccbe4e.png
 ---
 
----
-
 欢迎使用 Valine 评论系统！
-<br/> 本站采用 Valine 评论系统，一款基于 [LeanCloud](https://leancloud.cn/) 的快速、简洁且高效的无后端评论系统。
+<br/> 本站采用 Valine 评论系统，一款基于 LeanCloud 的快速、简洁且高效的无后端评论系统。
 <!--more-->
+{:.info}
 
 ## 为什么选择 Valine
 
@@ -25,7 +24,7 @@ cover: https://pic3.superbed.cn/item/5de8e4acf1f6f81c50ccbe4e.png
 
 ## 在你的网站上使用 Valine
 
-Valine 与 [LeanCloud](https://www.leancloud.cn/) 结合使用。
+[Valine](https://leancloud.cn/) 与 [LeanCloud](https://www.leancloud.cn/) 结合使用。
 
 > LeanCloud 是行业领先的一站式后端云服务提供商，专注于为开发者提供一流的工具、平台和服务。 自 2013 年 9 月发布以来，LeanCloud 已经服务超过 22 万开发团队，其中既包括大量创业公司，也有大型商业项目。
 
@@ -48,17 +47,17 @@ Valine 与 [LeanCloud](https://www.leancloud.cn/) 结合使用。
 
 由于 App ID 和 App Key 是完全暴露的，任何人都可以访问我们的资源。为了防止他人使用，我们需要配置 Web 安全域名，只有添加的域名才可以使用资源。
 
-在`应用` > `设置` > `安全设置`中`Web 安全域名`一栏填写我们站点的域名后点击保存即可。
+在`应用` > `设置` > `安全设置`中 `Web 安全域名`一栏填写我们站点的域名后点击保存即可。
 
 ![设置安全域名](https://i.loli.net/2019/12/09/ZemSnpCirl5A7PD.png)
 
 **注意：如在网站调试过程中出现关于调用 [api.leancloud.cn](api.leancloud.cn) 的 403 报错，说明服务器理解客户的请求，但拒绝处理它，这是由于服务器上文件或目录的权限设置导致的 WEB 访问错误。**
 {:.warning}
 
-![403 error](https://i.loli.net/2019/12/11/xFIKP4BenOtyrid.png)
+![403 error](https://i.loli.net/2019/12/15/GmM6lFXsNrDYZ7z.png)
 
 <span style="color:red;"> **1. 检查填写的安全域名是否正确，或者可以考虑放弃安全域名。** </span>
-<br/><span style="color:red;"> **2. 检查并修改`存储` > `Class` 中因设置了相应权限导致无法访问的权限设置。** </span>
+<br/> <span style="color:red;"> **2. 检查并修改`存储` > `Class` 中因设置了相应权限导致无法访问的权限设置。** </span>
 {:.warning}
 
 ### 添加 Html 片段
@@ -92,7 +91,7 @@ Valine 与 [LeanCloud](https://www.leancloud.cn/) 结合使用。
 
 <a class="button button--primary button--rounded" href="https://www.npmjs.com/package/valine">在 npm 上查看 Valine</a>
 
-如果你需要，你可以通过使用 npm 安装 Valine 。安装后直接将上方你添加的 HTML片段中的 `//unpkg.com/valine` 改为`你托管的 Valine 路径`即可。
+如果你需要，你可以通过使用 npm 安装 Valine 。安装后直接将上方你添加的 HTML 片段中的 `//unpkg.com/valine` 改为`你托管的 Valine 路径`便可食用。
 
 新版 Node.js 集成了 npm，前往官方[下载最新版本](https://nodejs.org/en/)。
 安装完 Node.js 后，通过在`命令提示符`中输入 `npm -v` 检查 npm 版本号。
@@ -153,7 +152,7 @@ new Valine({
 
 评论数据都会存储在名为 `Comment` 的 Class 中，需要自行登陆 `LeanCloud 应用` 管理。
 
-进入你的`应用` > `存储` > `Comment`，然后你可以对所有评论进行操作。
+进入你的`应用` > `存储` > `Comment`，之后你可以对所有评论进行操作。
 
 ![评论数据管理](https://i.loli.net/2019/12/09/CYMLD9ePidywu4v.png)
 
@@ -199,21 +198,16 @@ Valine 目前使用的是 [Gravatar](http://cn.gravatar.com/) 作为评论列表
 
 请自行登录或注册 [Gravatar](http://cn.gravatar.com/)，然后修改自己的头像。
 
-![Gravatar 01](https://i.loli.net/2019/12/11/79LM4kNdnVf8YEs.png)
+![Gravatar 01](https://i.loli.net/2019/12/15/HDgcjo314YaOSbt.png)
 
-![Gravatar 02](https://i.loli.net/2019/12/11/NmcxJ83OAYEtguS.png)
+![Gravatar 02](https://i.loli.net/2019/12/15/vkon2GqYMSN1DE6.png)
 
 评论的时候，留下在 [Gravatar](http://cn.gravatar.com/) 注册时所使用的邮箱即可。
-
-> 感谢 `gravatar.cat.net` 提供的补充服务。
 
 **注意：因 gravatar.cat.net 有七天的缓存期，修改头像后请耐心等待更新。**
 {:.warning}
 
 ## 部分内容参考
-
 1. [Valine - 快速开始](https://valine.js.org/quickstart.html "快速开始 - Valine")
-2. [Valine：独立博客评论系统](https://deserts.io/diy-a-comment-system/ "Valine：独立博客评论系统")
-3. [TeXt Theme 配置 - Valine](https://tianqi.name/jekyll-TeXt-theme/docs/en/configuration#valine "TeXt Valine + LeanCloud")
-
----
+1. [Valine：独立博客评论系统](https://deserts.io/diy-a-comment-system/ "Valine：独立博客评论系统")
+1. [TeXt Theme 配置 - Valine](https://tianqi.name/jekyll-TeXt-theme/docs/en/configuration#valine "TeXt Valine + LeanCloud")

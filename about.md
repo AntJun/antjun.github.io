@@ -41,23 +41,21 @@ aside:
    
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
-
 > <span style="font-size:20px;">If you can quit, then quit. If you can't quit, you're a writer.
 <br/> --R.A.Salvatore</span>
 
 这里是介绍页面，您在这可以了解到我本人及本站的详细信息
 <br/> 我没有希望有多少人能看到我写的文章，也不封锁自己的文章，毕竟创建了 Blog，寻思着能分享下自己的同时认识新伙伴，也并不算一件可耻的事。
-写博客的目的在于不断认识自己，写些自己所思所想，分享自己的故事，承认真实的自己，同时学习知识，而不是追求讨好者。
+因为写博客的目的在于不断认识自己，写些自己所思所想，分享自己的故事，承认真实的自己，同时学习知识，而不是一昧追求讨好者。
 
 ```javascript
-(() => console.log('WELCOME!'))();
+(() => console.log('WELCOME TO MY BLOG!'))();
 ```
 
 ## 关于本站
 
-AntJun's Blog（以下简称本站）借助 [Jekyll](http://jekyllcn.com/)，使用 [Text](https://tianqi.name/jekyll-TeXt-theme/) 主题搭建
-<br/> 网站使用 <span style="color:red;">[BootCDN](https://www.bootcdn.cn/)</span> 作为网站的 CDN 源来加快载入速度
+AntJun's Blog（以下简称本站）借助 [Jekyll](http://jekyllcn.com/)，使用 [Text](https://tianqi.name/jekyll-TeXt-theme/) 主题搭建。
+<br/> 网站使用 <span style="color:red;">[BootCDN](https://www.bootcdn.cn/)</span> 作为网站的 CDN 源来加快载入速度。
 
 作者本人曾在 2017 年创建过个人 Blog，之后由于个人个人原因抛弃了 Blog。
 本站于 2019 年 10 月独自搭建，因本人喜欢 LoveLive 和咖啡所以将该站命名为`音乃木坂 COFFEE HOUSE`。
@@ -65,7 +63,7 @@ AntJun's Blog（以下简称本站）借助 [Jekyll](http://jekyllcn.com/)，使
 <br/> 本网站将不销售，不索要任何数据及钱财。
 <br/> 博客除非特殊情况外都将会不定时更新。
 
-#### 关于版权：
+### 关于版权：
 
 本站包含转载自其它作品的内容。对于转载内容，本站尊重原创者劳动，已注明原作品名称及出处。
 但由于人为因素的限制，难免有疏忽、失误和遗漏，或者内容来源无法查明。
@@ -76,7 +74,9 @@ AntJun's Blog（以下简称本站）借助 [Jekyll](http://jekyllcn.com/)，使
 ## 称呼
 
 `Ant Jun` 真名姓赵，常用 `Ant Jun` 作为网名。`Akira` 是自取的英文名（其实只是个罗马音）本人也用 `Akira Kotori`、`Akira Ant` 作为 ID。
-#### 称呼来源
+
+### 称呼来源
+
 `Ant`是我曾（2014 年）在网络游戏中首次加入的玩家组织名，其一直延用至今。
 <br/> `Akira` 我也忘了怎么来的了……（貌似是一动漫人物名？）。
 <br/> `Kotori` 是我南小鸟的名字 (￣▽￣)"。
@@ -107,7 +107,7 @@ AntJun's Blog（以下简称本站）借助 [Jekyll](http://jekyllcn.com/)，使
 - 整服务器
    - 没整好过
 
-但在各方面都比较逊，并没有擅长的东西.
+但在各方面都比较逊，并没有擅长的东西。
 
 ## 性格
 
@@ -135,24 +135,30 @@ AntJun's Blog（以下简称本站）借助 [Jekyll](http://jekyllcn.com/)，使
 ## 联系我
 
 可通过以下方式联系我
-#### 即时通讯
+
+### 即时通讯
+
    - QQ <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=3204395854&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:3204395854:52" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
    - WeChat
    - Telegram ([@Akira_Ant](https://t.me/Akira_Ant))
 
-#### 社交化问答社区
+### 社交化问答社区
+
    - 知乎 ([@Akira_Ant](https://www.zhihu.com/people/akira_ant))
    
-#### 社交网站
+### 社交网站
+
    - Facebook ([@Ant Jun](https://www.facebook.com/ant.akira.940))
 
-#### 博客
+### 博客
+
    - AntJun's Blog
    - Twitter ([@AntCN16](https://twitter.com/AntCN16))
    - 微博
    - CSDN ([@Akira_Ant](https://blog.csdn.net/Akira_Ant))
 
-#### 电子邮箱
+### 电子邮箱
+
    - Outlook (<a href="mailto:AntJun_2016@outlook.com">AntJun_2016@outlook.com</a>)
    - Gmail
 
