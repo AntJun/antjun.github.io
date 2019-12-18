@@ -2,7 +2,6 @@
 title: Valine 评论系统与 LeanCloud 的结合使用
 tag: ["技术", "Valine", "LeanCloud"]
 key: 100001
-pageview: true
 cover: https://pic3.superbed.cn/item/5de8e4acf1f6f81c50ccbe4e.png
 ---
 
