@@ -2,6 +2,7 @@
 title: Inspiring Games - Doki Doki Lierature Club
 tags: ["Blog", "Game","DDLC"]
 key: 100002
+cover: https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Cover-Natsuki.png
 author: Akira Ant
 article_header:
   type: overlay
