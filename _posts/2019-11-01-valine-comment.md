@@ -2,13 +2,23 @@
 title: Valine 评论系统与 LeanCloud 的结合使用
 tag: ["技术", "Valine", "LeanCloud"]
 key: 100001
-cover: https://pic3.superbed.cn/item/5de8e4acf1f6f81c50ccbe4e.png
+cover: https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Cover-Valine.png
+author: Akira Ant
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /images/post/2019-11-01-valine.png
 ---
 
 欢迎使用 Valine 评论系统！
 <br/> 本站采用 Valine 评论系统，一款基于 LeanCloud 的快速、简洁且高效的无后端评论系统。
 <!--more-->
 {:.info}
+
+---
 
 ## 为什么选择 Valine
 
@@ -34,11 +44,11 @@ cover: https://pic3.superbed.cn/item/5de8e4acf1f6f81c50ccbe4e.png
 点击[创建应用](https://leancloud.cn/dashboard/applist.html#/newapp)新建一个应用。
 <br/> 填写您的应用名字。个人博客的评论量不会很大，因此`计价方案`选择`开发版`即可（有钱随意）。
 
-![创建应用](https://i.loli.net/2019/12/09/zUkGZQN5d26APxB.png)
+![创建应用](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/create app.png)
 
 在`设置` > `应用`中可查看到 APP ID 和 APP Key。
 
-![获取appid和appkey](https://i.loli.net/2019/12/09/y715gzc9fHuLDOm.png)
+![获取appid和appkey](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/App Keys.png)
 
 ### 填写安全域名
 
@@ -48,12 +58,12 @@ cover: https://pic3.superbed.cn/item/5de8e4acf1f6f81c50ccbe4e.png
 
 在`应用` > `设置` > `安全设置`中 `Web 安全域名`一栏填写我们站点的域名后点击保存即可。
 
-![设置安全域名](https://i.loli.net/2019/12/09/ZemSnpCirl5A7PD.png)
+![设置安全域名](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Secure domain.png)
 
-**注意：如在网站调试过程中出现关于调用 [api.leancloud.cn](api.leancloud.cn) 的 403 报错，说明服务器理解客户的请求，但拒绝处理它，这是由于服务器上文件或目录的权限设置导致的 WEB 访问错误。**
+**注意：如在网站调试过程中出现关于调用 `api.leancloud.cn` 的 403 报错，说明服务器理解客户的请求，但拒绝处理它，这是由于服务器上文件或目录的权限设置导致的 WEB 访问错误。**
 {:.warning}
 
-![403 error](https://i.loli.net/2019/12/15/GmM6lFXsNrDYZ7z.png)
+![403 error](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/403.png)
 
 <span style="color:red;"> **1. 检查填写的安全域名是否正确，或者可以考虑放弃安全域名。** </span>
 <br/> <span style="color:red;"> **2. 检查并修改`存储` > `Class` 中因设置了相应权限导致无法访问的权限设置。** </span>
@@ -153,7 +163,7 @@ new Valine({
 
 进入你的`应用` > `存储` > `Comment`，之后你可以对所有评论进行操作。
 
-![评论数据管理](https://i.loli.net/2019/12/09/CYMLD9ePidywu4v.png)
+![评论数据管理](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/manage comment.png)
 
 ### Valine-Admin
 
@@ -179,7 +189,7 @@ new Valine({
 
 ## 使用评论
 
-![Valine Comment.png](https://i.loli.net/2019/12/11/N9RBG2qEHJMPlvj.png)
+![Valine Comment](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/valine comment.png)
 
 成功完成以上设置后，你所设置的网站或页面应该有评论输入框，如要对文章进行评论，直接输入信息发送即可。
 
@@ -197,16 +207,18 @@ Valine 目前使用的是 [Gravatar](http://cn.gravatar.com/) 作为评论列表
 
 请自行登录或注册 [Gravatar](http://cn.gravatar.com/)，然后修改自己的头像。
 
-![Gravatar 01](https://i.loli.net/2019/12/15/HDgcjo314YaOSbt.png)
+![Gravatar 01](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/gravatar.png)
 
-![Gravatar 02](https://i.loli.net/2019/12/15/vkon2GqYMSN1DE6.png)
+![Gravatar 02](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/gravatar add.png)
 
 评论的时候，留下在 [Gravatar](http://cn.gravatar.com/) 注册时所使用的邮箱即可。
 
 **注意：因 gravatar.cat.net 有七天的缓存期，修改头像后请耐心等待更新。**
 {:.warning}
 
-## 部分内容参考
+## 参考
 1. [Valine - 快速开始](https://valine.js.org/quickstart.html "快速开始 - Valine")
 1. [Valine：独立博客评论系统](https://deserts.io/diy-a-comment-system/ "Valine：独立博客评论系统")
 1. [TeXt Theme 配置 - Valine](https://tianqi.name/jekyll-TeXt-theme/docs/en/configuration#valine "TeXt Valine + LeanCloud")
+
+---
