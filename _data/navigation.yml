@@ -1,21 +1,21 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Home
+      en      : &EN       <i class="fas fa-home"></i> Home
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  主页
+      zh-Hans : &ZH_HANS  <i class="fas fa-home"></i> 主页
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  主頁
+      zh-Hant : &ZH_HANT  <i class="fas fa-home"></i> 主頁
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       홈페이지
+      ko      : &KO       <i class="fas fa-home"></i> 홈페이지
       ko-KR   : *KO
-      fr      : &KO       Page d'accueil
+      fr      : &KO       <i class="fas fa-home"></i> Page d'accueil
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
@@ -26,21 +26,21 @@ header:
     
   - titles:
       # @start locale config
-      en      : &EN       Archive
+      en      : &EN       <i class="fas fa-tags"></i> Archive
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  文章索引
+      zh-Hans : &ZH_HANS  <i class="fas fa-tags"></i> 归档
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  歸檔
+      zh-Hant : &ZH_HANT  <i class="fas fa-tags"></i> 歸檔
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       아카이브
+      ko      : &KO       <i class="fas fa-tags"></i> 아카이브
       ko-KR   : *KO
-      fr      : &FR       Archives
+      fr      : &FR       <i class="fas fa-tags"></i> Archives
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
@@ -51,21 +51,21 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       About
+      en      : &EN       <i class="fas fa-user"></i> About
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  关于
+      zh-Hans : &ZH_HANS  <i class="fas fa-user"></i> 关于
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  關於
+      zh-Hant : &ZH_HANT  <i class="fas fa-user"></i> 關於
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       소개
+      ko      : &KO       <i class="fas fa-user"></i> 소개
       ko-KR   : *KO
-      fr      : &KO       À propos
+      fr      : &KO       <i class="fas fa-user"></i> À propos
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
@@ -76,21 +76,21 @@ header:
     
   - titles:
       # @start locale config
-      en      : &EN       Studio
+      en      : &EN       <i class="fas fa-users"></i> Studio
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  工作室
+      zh-Hans : &ZH_HANS  <i class="fas fa-users"></i> 工作室
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  工作室
+      zh-Hant : &ZH_HANT  <i class="fas fa-users"></i> 工作室
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       스튜디오
+      ko      : &KO       <i class="fas fa-users"></i> 스튜디오
       ko-KR   : *KO
-      fr      : &KO       Studio
+      fr      : &KO       <i class="fas fa-users"></i> Studio
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
@@ -101,28 +101,53 @@ header:
     
   - titles:
       # @start locale config
-      en      : &EN       Sponsor
+      en      : &EN       <i class="fas fa-link"></i> Friends
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  赞助
+      zh-Hans : &ZH_HANS  <i class="fas fa-link"></i> 友链
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  贊助
+      zh-Hant : &ZH_HANT  <i class="fas fa-link"></i> 友鏈
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       후원
+      ko      : &KO       <i class="fas fa-link"></i> 체인의 친구들
       ko-KR   : *KO
-      fr      : &KO       Commandite
+      fr      : &KO       <i class="fas fa-link"></i> Amis chaîne
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /sponsor.html
+    url: /friends.html
+    
+  - titles:
+      # @start locale config
+      en      : &EN       <i class="fas fa-donate"></i> Donate
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  <i class="fas fa-donate"></i> 赞助
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  <i class="fas fa-donate"></i> 贊助
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       <i class="fas fa-donate"></i> 후원
+      ko-KR   : *KO
+      fr      : &KO       <i class="fas fa-donate"></i> Commandite
+      fr-BE   : *FR
+      fr-CA   : *FR
+      fr-CH   : *FR
+      fr-FR   : *FR
+      fr-LU   : *FR
+      # @end locale config
+    url: /donate.html
     
 docs-zh:
   - title:      一言
@@ -132,7 +157,7 @@ docs-zh:
                <script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script>
 
                <script>
-                 fetch('https://v1.hitokoto.cn')
+                 fetch('https://v1.hitokoto.cn/?c=b')
                    .then(function (res){
                      return res.json();
                    })
@@ -147,11 +172,11 @@ docs-zh:
 
   - title:      扩展
     children:
-      - title:  音乐
+      - title:  音乐 <i class="fas fa-music"></i>
         url:    /music
-      - title:  视频
+      - title:  视频 <i class="fas fa-video"></i>
         url:    /videos
-      - title:  归档
+      - title:  归档 <i class="fas fa-tags"></i>
         url:    /archive.html
         
   - title:      其他语言
@@ -184,11 +209,11 @@ docs-en:
         
   - title:      Expansion
     children:
-      - title:  Music
+      - title:  Music <i class="fas fa-music"></i>
         url:    /music
-      - title:  Videos
+      - title:  Videos <i class="fas fa-video"></i>
         url:    /videos
-      - title:  Archive
+      - title:  Archive <i class="fas fa-tags"></i>
         url:    /archive.html
         
   - title:      Languages
@@ -197,22 +222,3 @@ docs-en:
         url:    /en/
       - title:  Simplified Chinese
         url:    /
-        
-recommend-zh:
-  - title:      推荐文章
-    children:
-      - title:  无
-        
-  - title:      扩展
-    children:
-      - title:  音乐
-        url:    /
-      - title:  视频
-        url:    /
-        
-  - title:      其他语言
-    children:
-      - title:  英语
-        url:    /
-      - title:  简体中文
-        url:    /        
