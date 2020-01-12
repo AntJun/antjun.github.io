@@ -4,6 +4,12 @@ type: article
 lightbox: true
 ---
 
+<div class="fade-in-words">
+<div class="first-words">
+<center><b><span><i class="fa fa-file-word-o"></i> 本文总共 {{ page.content | strip_html | strip_newlines | remove: " " | size }} 字 | <i class="fa fa-clock-o"></i> 阅读全文大约需要 {{ page.content | strip_html | strip_newlines | remove: " " | size | divided_by: 350 | plus: 1 }} 分钟 </b></span></b></center>
+</div>
+</div>
+
 {%- include snippets/assign.html
   target = site.data.variables.default.page.sharing
   source0=layout.sharing source1=page.sharing -%}
@@ -28,3 +34,13 @@ lightbox: true
 <script>
   {%- include scripts/article.js -%}
 </script>
+
+<!--载入 APlayer-->
+<link rel="stylesheet" href="/dist/APlayer.min.css">
+<div id="aplayer"></div>
+<script src="/dist/APlayer.min.js"></script>
+<script src="/dist/music.js"></script>
+
+<div class="aplayer-wrap">
+    <div id="aplayer">
+</div>

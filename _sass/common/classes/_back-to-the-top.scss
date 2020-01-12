@@ -1,0 +1,16 @@
+.gotop {
+width: 65px;
+ height: 65px;
+ background-color: pink;
+  border-radius: 50%;
+  position: fixed;
+ bottom: 100px;
+right: 60px;
+ font-size: 15px;
+line-height: 50px;
+text-align: center;
+display: none;
+}
+.active {
+ display: block!important;
+}

@@ -6,6 +6,8 @@ gem "jekyll-paginate"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "jemoji"
+gem "nokogiri"
+gem "liquid_reading_time"
 # gem "jekyll-archives"
 
 # Hello! This is where you manage which Jekyll version is used to run.

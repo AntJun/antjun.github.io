@@ -2,20 +2,22 @@
 title: Inspiring Games - Doki Doki Lierature Club
 tags: ["Blog", "Game","DDLC"]
 key: 100002
-cover: https://pic3.superbed.cn/item/5de8e41ef1f6f81c50cca06a.png
+author: Akira Ant
 article_header:
   type: overlay
   theme: dark
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /images/post/JustHer.jpg
+    src: /images/post/2019-11-11-JustHer.jpg 
 ---
 
-作为一名贫穷的高中生，本人所能涉及过的游戏是十分有限的。即使这样，我仍想介绍一下那些对我来说振奋人心的游戏。
+作为一名贫穷的高中生，本人所能涉及过的游戏还是十分有限的。即使这样，我仍想介绍一下那些对我来说振奋人心的游戏。
 游戏介绍顺序不分先后，因此这篇文章将以一个非专业解说的视角来领会一下 Team Salvato 的 Doki Doki Lierature Club。
 <!--more-->
 {:.info}
+
+---
 
 ## 前言
 
@@ -25,7 +27,7 @@ article_header:
 
 ## 为什么谈论这个游戏
 
-DDLC(Doki Doki Literature Club) ——世界一流的视觉小说。这款游戏早在2017年刚发行时我就体验过，尽管在当时我并没有完全通关，但我对于游戏本身有了一定的了解。最近由于 Steam UI 的更新把我之前很多放着吃灰的小游戏都直接显示在了库内，我又再次找到了这个特别的游戏并重新玩了一遍。
+DDLC(Doki Doki Literature Club) ——世界一流的视觉小说。这款游戏早在2017年刚发行时我就体验过，尽管在当时我并没有完全通关，但我对于游戏本身有了一定的了解。最近由于 Steam UI 的更新把我之前很多放着吃灰的小游戏都直接显示在了库内，我又再次找到了这个特别的游戏并重新玩了一遍。我发现它这玩意是真的「振奋人心」，不说了，我先去吃粒速效救心丸……
 
 这大概是我第一次接触到那么让我震撼的 Metagame（原谅本人浅见寡识，没玩过 Infinity 三部曲之类的经典），另一个则是 Undertale。
 
@@ -133,20 +135,20 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="swiper my-3 swiper-demo swiper-demo--image swiper-demo--3">
   <div class="swiper__wrapper">
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://i.loli.net/2019/12/17/LDNgRhlsBtoyJY7.png"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://i.loli.net/2019/12/18/ezctKnrGN3CmwbD.png"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://i.loli.net/2019/12/18/s3IYrUChjtoQnvi.png"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://i.loli.net/2019/12/18/p9XynYGzqAIktL5.png"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://i.loli.net/2019/12/18/PETOXH3AuZyhD2g.png"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://i.loli.net/2019/12/18/dbgyTqjV1arW2zp.png"/></div>
-	<div class="swiper__slide"><img class="lightbox-ignore" src="https://i.loli.net/2019/12/18/CmRMfsqbV16FdIJ.png"/></div>
-	<div class="swiper__slide"><img class="lightbox-ignore" src="https://i.loli.net/2019/12/18/unfNghd9ZFGCe3X.png"/></div>
-	<div class="swiper__slide"><img class="lightbox-ignore" src="https://i.loli.net/2019/12/18/8WpsXQSYHtCqE5V.png"/></div>
-	<div class="swiper__slide"><img class="lightbox-ignore" src="https://i.loli.net/2019/12/18/KOcrogh2HB4qDuf.png"/></div>
-	<div class="swiper__slide"><img class="lightbox-ignore" src="https://i.loli.net/2019/12/18/o3yEI5Knc4HGApe.png"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://i.loli.net/2019/12/18/D1BoW3yK4R7rpcv.jpg"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://i.loli.net/2019/12/18/fJoWzkd7CPyQFwS.jpg"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://i.loli.net/2019/12/18/uloJEKT7AcbwWfa.png"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Browse-carefully.png"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/01.png"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/02.png"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/03.png"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/004.png"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/005.png"/></div>
+	<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/006.png"/></div>
+	<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/007.png"/></div>
+	<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/008.png"/></div>
+	<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/009.png"/></div>
+	<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/010.png"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/001.jpg"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/002.jpg"/></div>
+    <div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/003.png"/></div>
   </div>
   <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
   <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
@@ -170,7 +172,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 在游戏中我们是通过选择词语写诗来增进与其它社员的感情，而不是给自己看的。每当你选择词语的时候，喜欢这个词语类型的人就会蹦起来，这是也游戏中唯一的攻略的方式。通过查看每个成员的诗可以发现每个人的诗都与他们的性格相对，特别在游戏后期表达的尤其强烈。
 
-![write your poem](https://i.loli.net/2019/12/15/Pjxp5YrBkq8zb3U.png){:.shadow}
+![write your poem](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/write your poem.png){:.shadow}
 
 还挺可爱的，啊哈哈。
 <br/> 奇怪的是左下角只有三个人，每次写诗时都会少 Monika。问我为什么，只能回答：这是设定的一部分。
@@ -182,7 +184,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--sm" src="https://pic3.superbed.cn/item/5de6eb01f1f6f81c5070b6d7.png"/>
+    <img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Sayori Poem 01.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -194,7 +196,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 	  <blockquote>
 	  “事实是...我这一生都饱受抑郁症的折磨。你知道吗？你知道为什么我每天上学迟到吗？因为大多数时候，我甚至找不到起床的理由。当我完全知道自己是多么没用的时候，还有什么理由去做任何事情呢？为什么要上学？为什么要吃饭？为什么要让别人把他们的精力浪费在我身上呢？这就是我的感觉。这就是为什么我想让每个人都开心。没有人担心我。”
 	  </blockquote>
-	  <br/><br/> 不难发现 Sayori 的这首诗真正表达的是她被抑郁症困扰以至于她无法面对每一天，这也正是她经常睡过头的原因；而“我将长眠”则意指结束自己的生命。
+	  <br/> 不难发现 Sayori 的这首诗真正表达的是她被抑郁症困扰以至于她无法面对每一天，这也正是她经常睡过头的原因；而“我将长眠”则意指结束自己的生命。
 	  <br/><br/> 当然，这诗只是作为揭示 Sayori 患有抑郁症时的一段小插曲罢了……
 	  </p>
     </div>
@@ -205,8 +207,8 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--sm" src="https://i.loli.net/2019/12/18/wfHbdLuXl9MBEgK.png"/>
-	<img class="image image--sm" src="https://i.loli.net/2019/12/18/HrK5wf73SMUcmeO.png"/>
+    <img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika Poem 01.png"/>
+	<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika Poem 02.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -226,7 +228,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--sm" src="https://i.loli.net/2019/12/18/wvH6Jh5W4RzarbU.png"/>
+    <img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Natsuki 01.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -250,9 +252,9 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--sm" src="https://i.loli.net/2019/12/18/NHcvOrTK6XZYbin.png"/>
-	<img class="image image--sm" src="https://i.loli.net/2019/12/18/UWXl9k7yRbFMhAL.png"/>
-	<img class="image image--sm" src="https://i.loli.net/2019/12/18/z94tan2vjT5c6XV.png"/>
+    <img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 01.png"/>
+	<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 02.png"/>
+	<br/><img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 02X.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -275,8 +277,8 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
   <div class="item__image">
-    <img class="image image--sm" src="https://i.loli.net/2019/12/15/3jYN8KDTwJXzfvg.jpg"/>
-	<img class="image image--sm" src="https://i.loli.net/2019/12/18/Rmg69ow7nDMAGNc.png"/>
+    <img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/special poem01.jpg"/>
+	<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/special poem01x.png"/>
   </div>
   <div class="item__content">
     <div class="item__header">
@@ -299,7 +301,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 在 "Just Monika" 的空间中，Monika 会不断与玩家进行交流。这是制作者精心制作的近两个小时的不重复对话。
 
-![just monika.png](https://i.loli.net/2019/12/15/2rl83jvqXRI4bVP.png){:.shadow}
+![just monika.png](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/just-monika.png){:.shadow}
 
 游戏中的 Monika 向你展示了她有多爱你，为了讨好你不停讲情话，为了占据你删除其它女主，为了原谅你恢复游戏数据……
 
@@ -565,7 +567,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 > 
 > “但如果你给我一些时间准备”
 > 
-> ![Monika 做鬼脸](https://i.loli.net/2019/12/15/lZOA24RIe7mxyQV.png){:.shadow}
+> ![Monika 做鬼脸](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika-grimace.png){:.shadow}
 > 
 > “我吓到你了吗？”
 > 
@@ -632,7 +634,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 用你的计算机名用户名来称呼你。
 <br/> 需要注意的是，制作者为了注重玩家隐私，当检测到玩家正在运行着直播软件时就不会出现这条信息了。
 
-![用计算机用户名称呼你.png](https://i.loli.net/2019/12/18/IXWeKGOMq6nliTL.png){:.shadow}
+![用计算机用户名称呼你.png](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Computer-UserName.png){:.shadow}
 
 说实话，这让我不禁想到人工智能。
 <br/> 若能面对的是一个自主学习的 AI 而不是被指定的程序，游戏界必定会上升到一个新高度，想必这就是制作者所想实现却无能为力的吧。
@@ -648,7 +650,7 @@ CHR 类型文件在 `...\Doki Doki Literature Club\characters` 文件目录下�
 
 用记事本打开它，你能发现满页的 Base64 编码后的字符。
 
-<img class="image image--xl" src="https://i.loli.net/2019/12/15/HpWa1lqmktIVONw.png"/>
+<img class="image image--xl" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/yuri.chr.png"/>
 
 通过解码后得到一篇文章。
 <br/> 这篇文章是 Dan Salvato 本人曾经写的短篇故事。
@@ -755,7 +757,7 @@ But I’ll always wonder how many people there are like me. I’m sure there has
 
 用记事本打开，发现都是乱码。
 
-![natsuki.chr](https://i.loli.net/2019/12/15/gI2oMSxzmaKcuFH.png){:.shadow}
+![natsuki.chr](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/natsuki.chr.png){:.shadow}
 
 我们能看到第一行就出现了 JFIF 的后缀信息（也就是 JEPG 格式），这是文件头的魔数（Magic Number），即使即使文件的后缀名被错误地更改过，我们仍能根据它的值判断文件的类型。你也可以使用 linux 的 file 指令查看每个文件的详细信息（Windows 下安装同源的 gnu 程序之后也可以查看）。
 
@@ -763,13 +765,13 @@ But I’ll always wonder how many people there are like me. I’m sure there has
 
 然后我们得到了这个东西……
 
-![natsuki.jpg01](https://i.loli.net/2019/12/15/km8fSCMWE5dXAxQ.jpg){:.shadow}
+![natsuki.jpg01](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/natsuki.jpg){:.shadow}
 
 感觉像是一个经过处理的人物照片。
 
 用 PS 打开，先将图层颜色反相，再将图像转换为`极坐标`后得到结果。
 
-![natsuki.jpg02](https://i.loli.net/2019/12/15/eqZCExwJBNWzmof.jpg){:.shadow}
+![natsuki.jpg02](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/natsuki.chr.jpg){:.shadow}
 
 虽然不知道这是谁，但我敢肯定她不是 Natsuki（笑）。
 
@@ -778,7 +780,7 @@ But I’ll always wonder how many people there are like me. I’m sure there has
 同样是根据打开记事本，找到了让我们用 PNG 格式打开的信息。
 改后缀为 `.png` 后发现这个：
 
-![monika.chr](https://i.loli.net/2019/12/15/niR5ljz36bZfA2I.png){:.shadow}
+![monika.chr](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/monika.png){:.shadow}
 
 这里引用的一下 [Mithost](https://www.reddit.com/user/Mithost/) 的方法。
 
@@ -860,13 +862,13 @@ Both of us.
 
 别着急，这东西不需要听，我使用 AU(Audition) 打开， 查看频谱视图得到一个 QR 码。
 
-![Spectrum](https://i.loli.net/2019/12/15/vfuN3nxF18UAPjL.png){:.shadow}
+![Spectrum](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Spectrum.png){:.shadow}
 
-扫一下，就跳进了 [projectlibitina.com](projectlibitina.com) 这个网站。网页中记录了一个名叫 Libitina 的小女孩的实验测试报告。
+扫一下，就跳进了 [projectlibitina.com](http://projectlibitina.com/) 这个网站。网页中记录了一个名叫 Libitina 的小女孩的实验测试报告。
 
-![projectlibitina](https://i.loli.net/2019/12/15/wvWz1d4NOG9qSZk.png){:.shadow}
+![projectlibitina](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/projectlibitina.png){:.shadow}
 
-其中又再次提到了 "Third Eye"，这次是直接在人身上做实验。报告中的描述行为包括：抽搐；啜泣；流泪；噬咬；呕吐；尖叫；攻击测试人员；自残；狂笑。仔细一想，这不就是 Yuri 吗？游戏中只有她完全符合这种描述。由此我们就可以得出结论：实验就是关于 Yuri 的，Libitina 项目就是关于 Yuri 的。
+其中又再次提到了 "Third Eye"，这次是直接在人身上做实验。报告中的描述行为包括：抽搐；啜泣；流泪；噬咬；呕吐；尖叫；攻击测试人员；自残；狂笑。仔细一想，这不就是 Yuri 吗？游戏中只有她完全符合这种描述。由此我们就可以得出结论：实验对象就是 Yuri，Libitina 项目也是关于 Yuri 的。
 
 信息量有点大，但总之 Team Salvato 给了玩家许多空间去探索、思考，属实在彩蛋这一方面做的细致入微。
 {:.info}
@@ -883,7 +885,11 @@ Both of us.
 更何况官方都给出了图片明示：
 <br/> By: [JisuArt](https://twitter.com/JisuArt)
 
-![Three Eye.png](https://i.loli.net/2019/12/18/9RFXrvPSCn6lJKZ.png){:.shadow}
+![Three Eye.png](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/three-eye.png){:.shadow}
+
+我觉得这张图很适合形容 Yuri ~~XD~~。
+
+<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/for-your%20safety.jpg"/>
 
 ### 其它
 
@@ -891,7 +897,7 @@ Both of us.
 
 话说我已经看了这么多理论家讨论官方出下部游戏的推论，但都过去两年多了我什么也没看到啊……
 
-## 游戏主题曲
+## 游戏主题曲/音乐
 
 ### Your Reality
 
@@ -972,8 +978,18 @@ I'll leave you be
   </code></pre>
 </details>
 
+### Doki Doki Forever
+
+我挺喜欢 Youtube 上 [MagicalPouchOfMagic](https://www.youtube.com/user/MagicalPouchOfMagic) 做的一个关于 DDLC 的 MMD，在这里顺便推荐一下。
+
+<div> {%- include extensions/youtube.html id='KpV_xL2FrGA' -%}</div>
+
+<div>{%- include extensions/netease-cloud-music.html id='1300111645' -%}</div>
+
 ## 参考
 1. Header Background Image: By [Faiz Azhar](https://wall.alphacoders.com/unregistered.php?id=25904&lang=Chinese)
 1. [DDLC 游戏深度解密](https://tieba.baidu.com/p/5680171084?see_lz=1)
 1. [How to decrypt all character files of Doki Doki Literature Club](https://medium.com/@annimon119/how-to-decrypt-all-character-files-of-doki-doki-literature-club-ecbd94fd41ec)
 1. [《 Doki Doki Literature Club 》中有哪些细节与彩蛋？](https://www.zhihu.com/question/264052228)
+
+---

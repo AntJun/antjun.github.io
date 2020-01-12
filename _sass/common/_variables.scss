@@ -62,13 +62,15 @@ $base: (
   border-radius-sm:       .2rem
 );
 
+/* 排版位置 */
 $spacers: (
   0:                      0,
   1:                      map-get($base, spacer) * .25,
   2:                      map-get($base, spacer) * .5,
   3:                      map-get($base, spacer),
   4:                      map-get($base, spacer) * 1.5,
-  5:                      map-get($base, spacer) * 3
+  5:                      map-get($base, spacer) * 3,
+  8:                      map-get($base, spacer) * 4
 );
 
 $z-indexes: (
@@ -84,7 +86,7 @@ $layout: (
   content-max-width:      950px,
   sidebar-width:          250px,
   sidebar-header-height:  3rem,
-  aside-width:            220px
+  aside-width:            250px
 );
 
 //     sm       md       lg
