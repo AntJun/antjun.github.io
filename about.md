@@ -159,7 +159,7 @@ aside:
 
 将 "#" 改为 "@"
 
-   - AntJun_2016#antjun.com.cn （没钱了，暂时不用了）
+   - AntJun_2016#antjun.com
    - Outlook (AntJun_2016#outlook.com)
    - Gmail (AkiraAnt2016#gmail.com)
 
