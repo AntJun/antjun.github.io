@@ -150,7 +150,7 @@ header:
     url: /donate.html
     
 docs-zh:
-  - title:      一言
+  - title:      <i class="fa fa-globe"></i> 一言
     children:
       - title: <p id="hitokoto">:D 获取中...</p>
 
@@ -170,24 +170,24 @@ docs-zh:
                    })
                </script>
 
-  - title:      扩展
+  - title:      <i class="fa fa-sitemap"></i> 扩展
     children:
-      - title:  音乐 <i class="fas fa-music"></i>
-        url:    /music
-      - title:  视频 <i class="fas fa-video"></i>
-        url:    /videos
-      - title:  归档 <i class="fas fa-tags"></i>
-        url:    /archive.html
+      - title:  <i class="fas fa-music"></i> 音乐
+        url:    http://music.163.com/playlist?id=3183686521&userid=349534750
+      - title:  <i class="fas fa-video"></i> 视频
+        url:    https://space.bilibili.com/28098803/
+      - title:  <i class="fas fa-tags"></i> 索引
+        url:    /archive
         
-  - title:      其他语言
+  - title:      <i class="fa fa-language"></i> 其他语言
     children:
-      - title:  英语
+      - title:  English
         url:    /en/
       - title:  简体中文
-        url:    /     
+        url:    /
         
 docs-en:
-  - title:      Word of the Day
+  - title:      <i class="fa fa-globe"></i> A Saying
     children:
       - title: <p id="hitokoto">:D Getting...</p>
 
@@ -207,18 +207,18 @@ docs-en:
                    })
                </script>
         
-  - title:      Expansion
+  - title:      <i class="fa fa-sitemap"></i> Expansion
     children:
-      - title:  Music <i class="fas fa-music"></i>
-        url:    /music
-      - title:  Videos <i class="fas fa-video"></i>
-        url:    /videos
-      - title:  Archive <i class="fas fa-tags"></i>
-        url:    /archive.html
+      - title:  <i class="fas fa-music"></i> Music
+        url:    http://music.163.com/playlist?id=3183686521&userid=349534750
+      - title:  <i class="fas fa-video"></i> Videos
+        url:    https://space.bilibili.com/28098803/
+      - title:  <i class="fas fa-tags"></i> Archive
+        url:    /archive
         
-  - title:      Languages
+  - title:      <i class="fa fa-language"></i> Languages
     children:
       - title:  English
         url:    /en/
-      - title:  Simplified Chinese
+      - title:  简体中文
         url:    /
