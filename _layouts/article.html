@@ -4,11 +4,16 @@ type: article
 lightbox: true
 ---
 
+<!-- 字数统计与阅读时长估计 -->
 <div class="fade-in-words">
 <div class="first-words">
 <center><b><span><i class="fa fa-file-word-o"></i> 本文总共 {{ page.content | strip_html | strip_newlines | remove: " " | size }} 字 | <i class="fa fa-clock-o"></i> 阅读全文大约需要 {{ page.content | strip_html | strip_newlines | remove: " " | size | divided_by: 350 | plus: 1 }} 分钟 </b></span></b></center>
 </div>
 </div>
+
+
+
+
 
 {%- include snippets/assign.html
   target = site.data.variables.default.page.sharing
@@ -35,7 +40,11 @@ lightbox: true
   {%- include scripts/article.js -%}
 </script>
 
-<!--载入 APlayer-->
+
+
+
+
+<!-- 载入 APlayer -->
 <link rel="stylesheet" href="/dist/APlayer.min.css">
 <div id="aplayer"></div>
 <script src="/dist/APlayer.min.js"></script>
@@ -44,3 +53,17 @@ lightbox: true
 <div class="aplayer-wrap">
     <div id="aplayer">
 </div>
+
+
+
+
+
+<!-- Back to top button -->
+<button id="back-to-top-btn"><i class="fas fa-angle-double-up"></i></button>
+
+
+
+
+
+<!-- Progress Bar -->
+<div class="indicator"></div>

@@ -35,7 +35,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /images/bg-friends.jpg
+    src: /images/pin-cover/bg-friends.jpg
 aside:
   toc: false
 ---
@@ -174,7 +174,7 @@ aside:
               <p> 
                 <h4>
                   <a href="https://www.drblack-system.com/" target="_blank">@ DrBlackの锦里</a>
-                </h4> 不要停下来啊2333
+                </h4> 胸に刻まれる あなたとの日々よ
               </p> 
             </div> 
           </div> 
