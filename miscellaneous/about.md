@@ -34,7 +34,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /images/about.jpg
+    src: /images/pin-cover/bg-about.jpg
 aside:
   toc: true
 ---
@@ -56,14 +56,16 @@ aside:
 
 ## 关于本站
 
-`AntJun's Blog / Akira_Ant's Blog`（以下简称本站）借助 [Jekyll](http://jekyllcn.com/)，使用 [Text](https://tianqi.name/jekyll-TeXt-theme/) 主题搭建。
-<br/> 网站使用 <span style="color:red;">[BootCDN](https://www.bootcdn.cn/)</span> 作为网站的 CDN 源来加快载入速度。
+`AntJun's Blog / Akira_Ant's Blog`（以下简称本站）借助 [Jekyll](http://jekyllcn.com/){:target="_blank"}，使用 [Text](https://tianqi.name/jekyll-TeXt-theme/){:target="_blank"} 搭建。
+<br/> 网站使用 [BootCDN](https://www.bootcdn.cn/){:target="_blank"} 作为网站的 CDN 源来加快载入速度。
 
 作者本人曾在 2017 年创建过个人 Blog，之后由于各种原因抛弃了 Blog。
 本站于 2019 年 10 月独自搭建，因本人喜欢 LoveLive 和咖啡所以将该站命名为「音乃木坂 COFFEE HOUSE」。
 该站属于 Ant_Jun 唯一的独立博客，且网站一切权利归属于本人。
-<br/> 本网站将不销售，不索要任何数据及钱财。
-<br/> 博客除非特殊情况外都将会不定时更新。
+
+本网站将不销售，不索要任何数据及钱财。
+
+博客除非特殊情况外都将会不定时更新。
 
 ### 关于版权
 
@@ -71,9 +73,9 @@ aside:
 但由于人为因素的限制，难免有疏忽、失误和遗漏，或者内容来源无法查明。
 如果出现类似这些情况，不管是被转载内容的原作者，还是读者，请及时联系我，以确保第一时间予以修正。
 
-主页封面图来自：<a href="https://www.pixiv.net/member.php?id=4462245" style="color:red;">幻像黒兎 </a>
+主页封面图来自：<a href="https://www.pixiv.net/member.php?id=4462245" style="color:red;" target="_blank">幻像黒兎 </a>
 
-所有文章均遵守 [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/) 许可协议。  
+所有文章均遵守 [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"} 许可协议。  
 
 ## 称呼
 
@@ -100,7 +102,7 @@ aside:
 
 ## 兴趣爱好
 
-当然我也不能拿自己的兴趣跟别人的饭碗比……
+兴趣就是兴趣，爱好就是爱好，我总不能拿自己的兴趣爱好跟别人的饭碗比……
 
 总之在各方面都比较逊，并没有擅长的东西。
 
@@ -147,8 +149,8 @@ aside:
             <div class="item__description"> 
               <p> 
                 <h2>
-                  <i class="fa fa-qq"></i> <a href="http://wpa.qq.com/msgrd?v=3&uin=3204395854&site=qq&menu=yes" target="_blank">QQ/TIM</a>
-                </h2> 添加好友时请注明来意
+                  <i class="fab fa-qq"></i> <a href="http://wpa.qq.com/msgrd?v=3&uin=3204395854&site=qq&menu=yes" target="_blank">QQ/TIM</a>
+                </h2> 添加好友时请注明来意，泻泻
               </p> 
             </div> 
           </div> 
@@ -160,8 +162,8 @@ aside:
             <div class="item__description"> 
               <p> 
                 <h2>
-                  <i class="fa fa-twitter"></i> <a href="https://twitter.com/AntCN16" target="_blank">Twitter 推特</a>
-                </h2> 更多用来聊天而不是发推文 XD
+                  <i class="fab fa-twitter"></i> <a href="https://twitter.com/AntCN16" target="_blank">Twitter 推特</a>
+                </h2> 更多用来聊天<s>看黄</s>而不是发推文……
               </p> 
             </div> 
           </div> 
@@ -173,8 +175,8 @@ aside:
             <div class="item__description"> 
               <p> 
                 <h2>
-                  <i class="fa fa-weixin"></i> WeChat 微信
-                </h2> 搜我的 QQ 号就能找到，不过最近不怎么用就是了
+                  <i class="fab fa-weixin"></i> WeChat 微信
+                </h2> 搜我的 QQ 号就能找到，不过这个号最近不怎么用就是了
               </p> 
             </div> 
           </div> 
@@ -186,8 +188,8 @@ aside:
             <div class="item__description"> 
               <p> 
                 <h2>
-                  <i class="fa fa-weixin"></i> <a href="https://t.me/Akira_Ant" target="_blank">Telegram</a>
-                </h2> 同样，添加请注明来意
+                  <i class="fab fa-telegram"></i> <a href="https://t.me/Akira_Ant" target="_blank">Telegram</a>
+                </h2> 同样的，添加请注明来意
               </p> 
             </div> 
           </div> 
@@ -199,7 +201,7 @@ aside:
             <div class="item__description"> 
               <p> 
                 <h2>
-                  <i class="fa fa-pinterest-p"></i> <a href="https://www.pinterest.com/akiraant/" target="_blank">Pinterest</a>
+                  <i class="fab fa-pinterest"></i> <a href="https://www.pinterest.com/akiraant/" target="_blank">Pinterest</a>
                 </h2> 平常也就看看图，没拿它有什么太大用处
               </p> 
             </div> 
@@ -212,8 +214,8 @@ aside:
             <div class="item__description"> 
               <p> 
                 <h2>
-                  <i class="fa fa-github"></i> <a href="https://github.com/AntJun" target="_blank">Github</a>
-                </h2> 我不认为谁会上 Github 联系我
+                  <i class="fab fa-github"></i> <a href="https://github.com/AntJun" target="_blank">Github</a>
+                </h2> 经常没事就逛逛，虽然不经常创作，但它是我 Fork 别人东西的圣地 
               </p> 
             </div> 
           </div> 
@@ -225,7 +227,7 @@ aside:
             <div class="item__description"> 
               <p> 
                 <h2>
-                  <i class="fa fa-get-pocket"></i> <a href="https://getpocket.com/@93eT7Ac3g9fI5pe273d7163d8ap5g539500b3dJ7ebP02fR699098a05d8ccVej4" target="_blank">Pocket</a>
+                  <i class="fab fa-get-pocket"></i> <a href="https://getpocket.com/@93eT7Ac3g9fI5pe273d7163d8ap5g539500b3dJ7ebP02fR699098a05d8ccVej4" target="_blank">Pocket</a>
                 </h2> 放置 Play 了，上面我只瞎逛逛也不写东西
               </p> 
             </div> 
@@ -238,7 +240,7 @@ aside:
             <div class="item__description"> 
               <p> 
                 <h2>
-                  <i class="fa fa-youtube-play"></i> <a href="https://www.youtube.com/channel/UClYFEI1_ACx-JP6n-7xGdyQ?view_as=subscriber" target="_blank">Youtube</a>
+                  <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/channel/UClYFEI1_ACx-JP6n-7xGdyQ?view_as=subscriber" target="_blank">Youtube</a>
                 </h2> 不顺手关注我一下？万一哪天更新了呢
               </p> 
             </div> 
@@ -251,7 +253,7 @@ aside:
             <div class="item__description"> 
               <p> 
                 <h2>
-                  <i class="fa fa-steam"></i> <a href="https://steamcommunity.com/id/antjun/" target="_blank">Steam</a>
+                  <i class="fab fa-steam"></i> <a href="https://steamcommunity.com/id/antjun/" target="_blank">Steam</a>
                 </h2> 请说明来意，一般不加陌生人
               </p> 
             </div> 
@@ -264,7 +266,7 @@ aside:
             <div class="item__description"> 
               <p> 
                 <h2>
-                  <i class="fa fa-weibo"></i> <a href="https://weibo.com/akira2016" target="_blank">微博</a>
+                  <i class="fab fa-weibo"></i> <a href="https://weibo.com/akira2016" target="_blank">微博</a>
                 </h2> 主要用于收听推送信息，但也可以用于联系
               </p> 
             </div> 
@@ -367,8 +369,8 @@ aside:
    - Pixiv
    - 百度贴吧
    - Reddit
-   - 知乎 ([@Akira_Ant](https://www.zhihu.com/people/akira_ant))
-   - Quora ([@Akira-Ant](https://www.quora.com/profile/Akira-Ant))
+   - 知乎 ([@Akira_Ant](https://www.zhihu.com/people/akira_ant){:target="_blank"})
+   - Quora ([@Akira-Ant](https://www.quora.com/profile/Akira-Ant){:target="_blank"})
    - Stack Overflow
    - V2EX
    - Scoop.it

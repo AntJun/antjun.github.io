@@ -35,7 +35,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /images/bg-donate.jpg
+    src: /images/pin-cover/bg-donate.jpg
 aside:
   toc: true
 ---
@@ -50,7 +50,7 @@ aside:
 ---
 
 赞助前请务必阅读赞助声明！
-<br/> 若有问题请通过 [「关于」](/about) 页面或页面底部提供的联系方式与我联系。
+<br/> 若有问题请通过 [「关于」](/miscellaneous/about) 页面或页面底部提供的联系方式与我联系。
 {:.warning}
 
 ## 赞助声明

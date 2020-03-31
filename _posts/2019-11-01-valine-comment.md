@@ -1,6 +1,6 @@
 ---
 title: Valine 评论系统与 LeanCloud 的结合使用
-tag: ["技术", "Valine", "LeanCloud"]
+tag: ["技术", "教程", "Valine", "LeanCloud", "Code"]
 key: 100001
 cover: https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Cover-Valine.png
 author: Akira Ant
@@ -33,22 +33,23 @@ article_header:
 
 ## 在你的网站上使用 Valine
 
-[Valine](https://leancloud.cn/) 与 [LeanCloud](https://www.leancloud.cn/) 结合使用。
+[Valine](https://leancloud.cn/){:target="_blank"} 与 [LeanCloud](https://www.leancloud.cn/){:target="_blank"} 结合使用。
 
 > LeanCloud 是行业领先的一站式后端云服务提供商，专注于为开发者提供一流的工具、平台和服务。 自 2013 年 9 月发布以来，LeanCloud 已经服务超过 22 万开发团队，其中既包括大量创业公司，也有大型商业项目。
 
 ### 获取 APP ID 和 APP KEY
 
-首先[注册](https://leancloud.cn/dashboard/login.html#/signup)或[登录](https://leancloud.cn/dashboard/login.html#/signin)到 [LeanCloud](https://leancloud.cn/)，打开[控制台](https://leancloud.cn/dashboard/applist.html#/apps)。
+首先[注册](https://leancloud.cn/dashboard/login.html#/signup){:target="_blank"}或[登录](https://leancloud.cn/dashboard/login.html#/signin)到 [LeanCloud](https://leancloud.cn/){:target="_blank"}，打开[控制台](https://leancloud.cn/dashboard/applist.html#/apps){:target="_blank"}。
 
-点击[创建应用](https://leancloud.cn/dashboard/applist.html#/newapp)新建一个应用。
-<br/> 填写您的应用名字。个人博客的评论量不会很大，因此`计价方案`选择`开发版`即可（有钱随意）。
+点击[创建应用](https://leancloud.cn/dashboard/applist.html#/newapp){:target="_blank"}新建一个应用。
 
-![创建应用](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/create app.png)
+填写您的应用名字。个人博客的评论量不会很大，因此`计价方案`选择`开发版`即可（有钱随意）。
+
+![创建应用](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/create app.png){:.shadow}
 
 在`设置` > `应用`中可查看到 APP ID 和 APP Key。
 
-![获取appid和appkey](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/App Keys.png)
+![获取 AppId 和 AppKey](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/App Keys.png){:.shadow}
 
 ### 填写安全域名
 
@@ -58,20 +59,20 @@ article_header:
 
 在`应用` > `设置` > `安全设置`中 `Web 安全域名`一栏填写我们站点的域名后点击保存即可。
 
-![设置安全域名](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Secure domain.png)
+![设置安全域名](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Secure domain.png){:.shadow}
 
 **注意：如在网站调试过程中出现关于调用 `api.leancloud.cn` 的 403 报错，说明服务器理解客户的请求，但拒绝处理它，这是由于服务器上文件或目录的权限设置导致的 WEB 访问错误。**
 {:.warning}
 
-![403 error](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/403.png)
+![403 error](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/403.png){:.shadow}
 
-<span style="color:red;"> **1. 检查填写的安全域名是否正确，或者可以考虑放弃安全域名。** </span>
-<br/> <span style="color:red;"> **2. 检查并修改`存储` > `Class` 中因设置了相应权限导致无法访问的权限设置。** </span>
-{:.warning}
+**检查填写的安全域名是否正确，或者可以考虑放弃安全域名。**
+<br/> **检查并修改`存储` > `Class` 中因设置了相应权限导致无法访问的权限设置。**
+{:.error}
 
 ### 添加 Html 片段
 
-为你的页面中添加以下代码，并修改初始化对象中的 `appId` 和 `appKey` 的值为上面刚刚获取到的值（其他可以默认）。
+为你的页面中添加以下代码，并修改初始化对象中的 `AppId` 和 `AppKey` 的值为上面刚刚获取到的值（其他可以默认）。
 
 ```html
 <head>
@@ -89,8 +90,8 @@ article_header:
         new Valine({
             av: AV,
             el: '#vcomments',
-            appId: '<YOUR_API_ID>',
-            appKey: '<YOU_API_Key>'
+            appId: '<AppID>',
+            appKey: '<AppKey>'
         })
     </script>
 </body>
@@ -98,12 +99,12 @@ article_header:
 
 ### 使用 npm 安装（可选）
 
-<a class="button button--primary button--rounded" href="https://www.npmjs.com/package/valine">在 npm 上查看 Valine</a>
+<a class="button button--primary button--rounded" href="https://www.npmjs.com/package/valine" target="_blank">在 npm 上查看 Valine</a>
 
 如果你需要，你可以通过使用 npm 安装 Valine 。安装后直接将上方你添加的 HTML 片段中的 `//unpkg.com/valine` 改为`你托管的 Valine 路径`便可食用。
 
-新版 Node.js 集成了 npm，前往官方[下载最新版本](https://nodejs.org/en/)。
-安装完 Node.js 后，通过在`命令提示符`中输入 `npm -v` 检查 npm 版本号。
+新版 Node.js 集成了 npm，前往官方[下载最新版本](https://nodejs.org/en/){:target="_blank"}。
+安装完 Node.js 后，可以通过在`命令提示符`中输入 `npm -v` 检查 npm 版本号。
 
 直接用命令安装：
 
@@ -134,10 +135,11 @@ new Valine({
 
 ## 配置项
 
-<a class="button button--primary button--rounded" href="https://valine.js.org/configuration.html">查看详情配置</a>
+<a class="button button--primary button--rounded" href="https://valine.js.org/configuration.html" target="_blank">查看详情配置</a>
 
 如要对配置进行更多修改，请在刚才填写 APP ID 与 APP KEY 的地方加入并修改相应的配置项。
-<br/> 如下，我添加了`notify` `verify` `avatar` 和 `placeholder` 这四个配置项。
+
+如下，我添加了`notify` `verify` `avatar` 和 `placeholder` 这四个配置项。
 ```html
 <script>
     new Valine({
@@ -163,62 +165,67 @@ new Valine({
 
 进入你的`应用` > `存储` > `Comment`，之后你可以对所有评论进行操作。
 
-![评论数据管理](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/manage comment.png)
+![评论数据管理](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/manage comment.png){:.shadow}
 
 ### Valine-Admin
 
-<a class="button button--primary button--rounded" href="https://deserts.io/valine-admin-document/">查看 Valine Admin 配置手册</a>
+<a class="button button--primary button--rounded" href="https://deserts.io/valine-admin-document/" target="_blank">查看 Valine Admin 配置手册</a>
 
-建议配合 [@panjunwen](https://github.com/panjunwen) 开发的 [Valine-Admin](https://github.com/DesertsP/Valine-Admin) 食用更佳。
+建议配合 [@panjunwen](https://github.com/panjunwen){:target="_blank"} 开发的 [Valine-Admin](https://github.com/DesertsP/Valine-Admin){:target="_blank"} 食用更佳。
 
 > Valine Admin 是 Valine 评论系统的扩展和增强，主要实现评论邮件通知、评论管理、垃圾评论过滤等功能。支持完全自定义的邮件通知模板。基于Akismet API实现准确的垃圾评论过滤。此外，使用云函数等技术解决了免费版云引擎休眠问题，支持云引擎自动唤醒，漏发邮件自动补发。兼容云淡风轻及Deserts维护的多版本Valine。
 
 ## 文章阅读量统计
 
-<a class="button button--primary button--rounded" href="https://valine.js.org/visitor.html">查看文章阅读量统计配置说明</a>
+<a class="button button--primary button--rounded" href="https://valine.js.org/visitor.html" target="_blank">查看文章阅读量统计配置说明</a>
 
 ## 在其它博客框架或主题中使用
 
 官方文档中列出了许多在其它博客系统及相应主题中的使用方式，你可以根据自己的需要按相应教程进行配置。
 
-<a class="button button--primary button--rounded" href="https://valine.js.org/jekyll.html">在 Jekyll 中使用</a>
-<a class="button button--primary button--rounded" href="https://valine.js.org/hexo.html">在 Hexo 中使用</a>
-<a class="button button--primary button--rounded" href="https://valine.js.org/vuepress.html">在 VuePress 中使用</a>
+<a class="button button--primary button--rounded" href="https://valine.js.org/jekyll.html" target="_blank">在 Jekyll 中使用</a>
+<a class="button button--primary button--rounded" href="https://valine.js.org/hexo.html" target="_blank">在 Hexo 中使用</a>
+<a class="button button--primary button--rounded" href="https://valine.js.org/vuepress.html" target="_blank">在 VuePress 中使用</a>
 
-本站使用的是 [@Kitian616](https://github.com/kitian616) 的 [Text Theme](https://github.com/kitian616/jekyll-TeXt-theme)。其[官方文档](https://tianqi.name/jekyll-TeXt-theme/docs/zh/configuration#valine)中介绍了相关用法。
+本站使用的是 [@Kitian616](https://github.com/kitian616){:target="_blank"} 的 [Text Theme](https://github.com/kitian616/jekyll-TeXt-theme){:target="_blank"}。其[官方文档](https://tianqi.name/jekyll-TeXt-theme/docs/zh/configuration#valine){:target="_blank"}中介绍了相关用法。
 
 ## 使用评论
 
-![Valine Comment](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/valine comment.png)
+![Valine Comment](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/valine comment.png){:.shadow}
 
 成功完成以上设置后，你所设置的网站或页面应该有评论输入框，如要对文章进行评论，直接输入信息发送即可。
 
-在未输入昵称时发送的消息将以 `Anonymous` 的代名发送消息。
-<br/> 未输入昵称时将只显示默认头像，同时不会受到评论回复邮件通知。
-<br/> 输入了网址后点击昵称将跳转到网址。
+- 在未输入昵称时发送的消息将以 `Anonymous` 的代名发送消息。
+
+- 未输入昵称时将只显示默认头像，同时不会受到评论回复邮件通知。
+
+- 输入了网址后点击昵称将跳转到网址。
 
 ### 使用 Markdown 语法
 
-本评论系统支持 Markdown，您可以使用 Markdown 语法输入您想发表的评论（具体请参考 [Markdown 详细语法教程](https://segmentfault.com/markdown)）。同时，您可以点击「预览」按钮来查看实时效果。
+本评论系统支持 Markdown，您可以使用 Markdown 语法输入您想发表的评论（具体请参考 [Markdown 详细语法教程](https://segmentfault.com/markdown){:target="_blank"}）。同时，您可以点击「预览」按钮来查看实时效果。
 
 ### 配置个人头像
 
-Valine 目前使用的是 [Gravatar](http://cn.gravatar.com/) 作为评论列表头像。
+Valine 目前使用的是 [Gravatar](http://cn.gravatar.com/){:target="_blank"} 作为评论列表头像。
 
-请自行登录或注册 [Gravatar](http://cn.gravatar.com/)，然后修改自己的头像。
+请自行登录或注册 [Gravatar](http://cn.gravatar.com/){:target="_blank"}，然后修改自己的头像。
 
-![Gravatar 01](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/gravatar.png)
+![Gravatar 01](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/gravatar.png){:.shadow}
 
-![Gravatar 02](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/gravatar add.png)
+![Gravatar 02](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/gravatar add.png){:.shadow}
 
-评论的时候，留下在 [Gravatar](http://cn.gravatar.com/) 注册时所使用的邮箱即可。
+评论的时候，留下在 [Gravatar](http://cn.gravatar.com/){:target="_blank"} 注册时所使用的邮箱即可。
 
 **注意：因 gravatar.cat.net 有七天的缓存期，修改头像后请耐心等待更新。**
 {:.warning}
 
 ## 参考
-1. [Valine - 快速开始](https://valine.js.org/quickstart.html "快速开始 - Valine")
-1. [Valine：独立博客评论系统](https://deserts.io/diy-a-comment-system/ "Valine：独立博客评论系统")
-1. [TeXt Theme 配置 - Valine](https://tianqi.name/jekyll-TeXt-theme/docs/en/configuration#valine "TeXt Valine + LeanCloud")
+
+1. [△](#评论数据管理) 评论数据管理：
+	- [云淡风轻](https://github.com/xCss){:target="_blank"}. [*"Valine - 快速开始"*](https://valine.js.org/quickstart.html){:target="_blank"}. 2017.
+	- [Deserts](https://deserts.io/about/){:target="_blank"}. [*"Valine: 独立博客评论系统"*](https://deserts.io/diy-a-comment-system/){:target="_blank"}. Aug 14, 2017.
+1. [△](#在其它博客框架或主题中使用) 在其它博客框架或主题中使用：
+	- [kitian616](https://github.com/kitian616/jekyll-TeXt-theme){:target="_blank"}. [*"TeXt Theme 配置 - Valine"*](https://tianqi.name/jekyll-TeXt-theme/docs/en/configuration#valine){:target="_blank"}. Apr 12, 2018.
 
 ---
