@@ -1,6 +1,6 @@
 ---
 title: Inspiring Games - Doki Doki Lierature Club
-tags: ["Blog", "Game","DDLC"]
+tags: ["杂谈", "游戏", "评鉴"]
 key: 100002
 cover: https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Cover-Natsuki.png
 author: Akira Ant
@@ -39,7 +39,7 @@ DDLC(Doki Doki Literature Club) ——世界一流的视觉小说。这款游戏
 {:.warning}
 
 DDLC 在 Steam 上的宣传有面带着和善笑容的四个可爱女孩子，粉色的主题，优雅的音乐，再加上一个普通的 Gal 游戏介绍，一看就必定跟恋爱之类的扯上关系。
-可 Steam 上的 `Psychological Horror` 标签出卖了它，但你能想象这是个恐怖游戏吗？相比于「灯穗奇谈」、「梦幻廻廊」亦或是「尸体派对」之类的恐怖 Gal，这个游戏没有像他们那样给玩家带来极度黑暗的心理扭曲，而它却给了我一种莫名的难受。
+可 Steam 上的 `Psychological Horror` 标签出卖了它，但你能想象这是个恐怖游戏吗？相比于「灯穗奇谈」、「梦幻廻廊」抑或是「尸体派对」之类的恐怖 Gal，这个游戏没有像他们那样给玩家带来极度黑暗的心理扭曲，而它却给了我一种莫名的难受。
 
 其实早些时候听说过那些忽悠人的游戏推荐，我当初并没有详细了解游戏，只是单纯被封面和免费二字所吸引。直到看到「晴天娃娃」才知道它的威慑力。 
 
@@ -49,17 +49,27 @@ DDLC 在 Steam 上的宣传有面带着和善笑容的四个可爱女孩子，�
 
 关于本游戏的视频，需要科学上网（这游戏能在国内放送？别想了）。
 
-Doki Doki Literature Club! Trailer（唬人的预告片）
-<br/> By [Team Salvato](https://www.youtube.com/channel/UC41-En1dwTQ6SRtDH0oY8bw)
+<a class="button button--outline-info button--pill" href="https://www.youtube.com/watch?v=kB1663FTpzU" target="_blank" title="唬人的预告片">
+<i class="fab fa-youtube"></i> Doki Doki Literature Club! Trailer</a>
+<a class="button button--outline-success button--pill" href="https://www.youtube.com/channel/UC41-En1dwTQ6SRtDH0oY8bw" target="_blank" title="Author">
+<i class="fas fa-user"></i> Team Salvato</a>
+
 <div> {%- include extensions/youtube.html id='kB1663FTpzU' -%}</div>
 
 
-把恐怖游戏玩成搞笑游戏的家伙。（流程视频）
-<br/> By [Pewdiepie](https://www.youtube.com/user/PewDiePie)
+<a class="button button--outline-info button--pill" href="https://www.youtube.com/watch?v=mGZC61dBIWg" target="_blank" title="把恐怖游戏玩成搞笑游戏的家伙">
+<i class="fab fa-youtube"></i> RESPECT WHAMEN: THE GAME. Doki Doki Literature Club</a>
+<a class="button button--outline-success button--pill" href="https://www.youtube.com/user/PewDiePie" target="_blank" title="Author">
+<i class="fas fa-user"></i> Pewdiepie</a>
+
 <div> {%- include extensions/youtube.html id='mGZC61dBIWg' -%}</div>
 
-A Comprehensive Exploration of Doki Doki Literature Club（游戏深度揭秘）
-<br/> By [Nexpo](https://www.youtube.com/channel/UCpFFItkfZz1qz5PpHpqzYBw)
+
+<a class="button button--outline-info button--pill" href="https://www.youtube.com/watch?v=pnCp-PikHqE" target="_blank" title="游戏深度揭秘">
+<i class="fab fa-youtube"></i> A Comprehensive Exploration of Doki Doki Literature Club</a>
+<a class="button button--outline-success button--pill" href="https://www.youtube.com/channel/UCpFFItkfZz1qz5PpHpqzYBw" target="_blank" title="Author">
+<i class="fas fa-user"></i> Nexpo</a>
+
 <div> {%- include extensions/youtube.html id='pnCp-PikHqE' -%}</div>
 
 ## 深度探索
@@ -106,66 +116,26 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 含有恐怖谷效应！
 
-<style>
-  .swiper-demo {
-    height: 440px;
-  }
-  .swiper-demo .swiper__slide {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 3rem;
-    color: #fff;
-  }
-  .swiper-demo .swiper__slide:nth-child(even) {
-    background-color: #ff69b4;
-  }
-  .swiper-demo .swiper__slide:nth-child(odd) {
-    background-color: #2593fc;
-  }
-  .swiper-demo--dark .swiper__slide:nth-child(even) {
-    background-color: #312;
-  }
-  .swiper-demo--dark .swiper__slide:nth-child(odd) {
-    background-color: #123;
-  }
-  .swiper-demo--image .swiper__slide:nth-child(n) {
-    background-color: #000;
-  }
-</style>
-
 <div class="swiper my-3 swiper-demo swiper-demo--image swiper-demo--3">
-  <div class="swiper__wrapper">
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Browse-carefully.png"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/01.png"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/02.png"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/03.png"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/004.png"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/005.png"/></div>
-	<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/006.png"/></div>
-	<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/007.png"/></div>
-	<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/008.png"/></div>
-	<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/009.png"/></div>
-	<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/010.png"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/001.jpg"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/002.jpg"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/003.png"/></div>
-  </div>
-  <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
-  <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
+	<div class="swiper__wrapper">
+		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Browse-carefully.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/01.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/02.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/03.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/004.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/005.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/006.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/007.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/008.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/009.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/010.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/001.jpg"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/002.jpg"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/003.png"/></div>
+	</div>
+	<div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
+	<div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
 </div>
-
-<script>
-  {%- include scripts/lib/swiper.js -%}
-  var SOURCES = window.TEXT_VARIABLES.sources;
-  window.Lazyload.js(SOURCES.jquery, function() {
-    $('.swiper-demo--0').swiper();
-    $('.swiper-demo--1').swiper();
-    $('.swiper-demo--2').swiper();
-    $('.swiper-demo--3').swiper();
-    $('.swiper-demo--4').swiper({ animation: false });
-  });
-</script>
 
 #### 诗
 
@@ -173,132 +143,140 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 在游戏中我们是通过选择词语写诗来增进与其它社员的感情，而不是给自己看的。每当你选择词语的时候，喜欢这个词语类型的人就会蹦起来，这是也游戏中唯一的攻略的方式。通过查看每个成员的诗可以发现每个人的诗都与他们的性格相对，特别在游戏后期表达的尤其强烈。
 
-![write your poem](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/write your poem.png){:.shadow}
+![Poem](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/write your poem.png){:.shadow}
 
-还挺可爱的，啊哈哈。
-<br/> 奇怪的是左下角只有三个人，每次写诗时都会少 Monika。问我为什么，只能回答：这是设定的一部分。
+还是有够可爱的......
 
-以下是我个人对游戏中诗的分析（点击图片浏览大图）。
-<br/> 更详细的分析务必参考：[Understanding All of DDLC's Poems](https://tay.kinja.com/spoiler-understanding-all-of-ddlc-s-poems-1823087306)
+奇怪的是左下角只有三个人，每次写诗时都会少 Monika。问我为什么，只能回答：这是设定的一部分。
+
+接下来是我个人对游戏中诗的分析（点击图片浏览大图）。
+
+更详细的分析务必参考：[Understanding All of DDLC's Poems](https://tay.kinja.com/spoiler-understanding-all-of-ddlc-s-poems-1823087306){:target="_blank"}
 
 ---
 
 <div class="item">
-  <div class="item__image">
-    <img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Sayori Poem 01.png"/>
-  </div>
-  <div class="item__content">
-    <div class="item__header">
-      <h4> Sayori 1 ARC 1 </h4>
-    </div>
-    <div class="item__description">
-      <p> 这首抒情诗是 Sayori 在早晨上学前写的，从最后一句话就可以看到。因 Sayori 有早晨睡过头的毛病，男主经常帮助叫醒 Sayori，所以全诗像是表达了对男主的感激。
-	  <br/><br/> 我们可以以后续男主安慰 Sayori 剧情的发展来重新审视这首诗。
-	  <blockquote>
-	  “事实是...我这一生都饱受抑郁症的折磨。你知道吗？你知道为什么我每天上学迟到吗？因为大多数时候，我甚至找不到起床的理由。当我完全知道自己是多么没用的时候，还有什么理由去做任何事情呢？为什么要上学？为什么要吃饭？为什么要让别人把他们的精力浪费在我身上呢？这就是我的感觉。这就是为什么我想让每个人都开心。没有人担心我。”
-	  </blockquote>
-	  <br/> 不难发现 Sayori 的这首诗真正表达的是她被抑郁症困扰以至于她无法面对每一天，这也正是她经常睡过头的原因；而“我将长眠”则意指结束自己的生命。
-	  <br/><br/> 当然，这诗只是作为揭示 Sayori 患有抑郁症时的一段小插曲罢了……
-	  </p>
-    </div>
-  </div>
+	<div class="item__image">
+		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Sayori Poem 01.png"/>
+	</div>
+	<div class="item__content">
+		<div class="item__header">
+			<h4> Sayori 1 ARC 1 </h4>
+		</div>
+		<div class="item__description">
+			<p>
+				这首抒情诗是 Sayori 在早晨上学前写的，从最后一句话就可以看到。因 Sayori 有早晨睡过头的毛病，男主经常帮助叫醒 Sayori，所以全诗像是表达了对男主的感激。
+				<br/><br/> 我们可以以后续男主安慰 Sayori 剧情的发展来重新审视这首诗。
+				<blockquote>
+				“事实是...我这一生都饱受抑郁症的折磨。你知道吗？你知道为什么我每天上学迟到吗？因为大多数时候，我甚至找不到起床的理由。当我完全知道自己是多么没用的时候，还有什么理由去做任何事情呢？为什么要上学？为什么要吃饭？为什么要让别人把他们的精力浪费在我身上呢？这就是我的感觉。这就是为什么我想让每个人都开心。没有人担心我。”
+				</blockquote>
+				不难发现 Sayori 的这首诗真正表达的是她被抑郁症困扰以至于她无法面对每一天，这也正是她经常睡过头的原因；而“我将长眠”则意指结束自己的生命。
+				<br/><br/> 当然，这诗只是作为揭示 Sayori 患有抑郁症时的一段小插曲罢了……
+			</p>
+		</div>
+	</div>
 </div>
 
 ---
 
 <div class="item">
-  <div class="item__image">
-    <img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika Poem 01.png"/>
-	<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika Poem 02.png"/>
-  </div>
-  <div class="item__content">
-    <div class="item__header">
-      <h4> Monika 3 ARC 1 / 1 ARC 2 </h4>
-    </div>
-    <div class="item__description">
-      <p> Save Me; Load me; Delete Her; 这是关于处理游戏目录下 Charater 文件夹的提醒讯息。在 <i> Monika 的今日写作小窍门 </i> 中她也告诉我们如何保存游戏之类的提示。
-	  <blockquote> “有时候你会发现自己面临着不同的选择...这时候，不要忘记保存游戏哦！”
-	  </blockquote>
-	  这些奇怪的暗示其实是告诉玩家如何实现真结局，也表明了她与其它人物的与众不同而进一步揭示她的身份。
-	  </p>
-    </div>
-  </div>
+	<div class="item__image">
+		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika Poem 01.png"/>
+		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika Poem 02.png"/>
+	</div>
+	<div class="item__content">
+		<div class="item__header">
+			<h4> Monika 3 ARC 1 / 1 ARC 2 </h4>
+		</div>
+		<div class="item__description">
+			<p>
+				Save Me; Load me; Delete Her; 这是关于处理游戏目录下 Charater 文件夹的提醒讯息。在 <i> "Monika 的今日写作小窍门" </i> 中她也告诉我们如何保存游戏之类的提示。
+				<blockquote>
+				“有时候你会发现自己面临着不同的选择...这时候，不要忘记保存游戏哦！”
+				</blockquote>
+				这些奇怪的暗示其实是告诉玩家如何实现真结局，也表明了她与其它人物的与众不同而进一步揭示她的身份。
+			</p>
+		</div>
+	</div>
 </div>
 
 ---
 
 <div class="item">
-  <div class="item__image">
-    <img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Natsuki 01.png"/>
-  </div>
-  <div class="item__content">
-    <div class="item__header">
-      <h4>Natsuki 1 ARC 2</h4>
-    </div>
-    <div class="item__description">
-      <p>
-	  你若了解 Base64 那么你应该明白如何看这首诗。
-	  <br/> 通过解码后的原文如下：
-	  <blockquote>
-	  睁开你的第三只眼
-	  <br> 可以通过刀感受到她皮肤的柔嫩，仿佛那是我触觉的延伸。我的身体几乎抽搐。在内心深处，有一种难以置信的微弱的东西在尖叫，以抵抗这种无法控制的快乐。但我已经可以说，我正在被逼到崩溃的边缘。我无法. ..我无法阻止自己。
-	  </blockquote>
-	  那么……第三只眼是什么？Natsuki 这段字符又为什么出现在 Natuski 的诗中？
-	  </p>
-    </div>
-  </div>
+	<div class="item__image">
+		<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Natsuki 01.png"/>
+	</div>
+	<div class="item__content">
+		<div class="item__header">
+			<h4> Natsuki 1 ARC 2 </h4>
+		</div>
+		<div class="item__description">
+			<p>
+					你若了解 Base64 那么你应该明白如何看这首诗。
+					<br/><br/> 通过解码后的原文如下：
+					<blockquote>
+					睁开你的第三只眼
+					<br/> 可以通过刀感受到她皮肤的柔嫩，仿佛那是我触觉的延伸。我的身体几乎抽搐。在内心深处，有一种难以置信的微弱的东西在尖叫，以抵抗这种无法控制的快乐。但我已经可以说，我正在被逼到崩溃的边缘。我无法. ..我无法阻止自己。
+					</blockquote>
+					那么……第三只眼是什么？Natsuki 这段字符又为什么出现在 Natuski 的诗中？
+			</p>
+		</div>
+	</div>
 </div>
 
 ---
 
 <div class="item">
-  <div class="item__image">
-    <img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 01.png"/>
-	<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 02.png"/>
-	<br/><img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 02X.png"/>
-  </div>
-  <div class="item__content">
-    <div class="item__header">
-      <h4> Yuri 1/2 ARC 2 </h4>
-    </div>
-    <div class="item__description">
-      <p> 在我看来，论最吓人的女主还是得说到 Yuri，这个家伙虽然没有 Monika 的能力，却被制作者们隐藏着最多的秘密。
-	  光靠病娇、自残可形容不了她，她的背景被制作者们写的十分宏大。而这两首诗给我的感觉像是极度激动的情况下写的狂想诗。前一首起码能看清，而后一首就是一个沾满血液与尿液的混合物的烂纸，根本看不清要她要说什么。
-	  <br/><br/> 《轮》这首诗表现的是 Yuri 的内心波动，就像滚动轮子一样不停翻转。看起来有人在逼迫她？没错，那就是她不停在遭受着 Monika 的「迫害」下发生的狂妄、扭曲的心理。
-	  <br/><br/> 其实第二首诗有人发现是使用一种叫 `Damagrafik Script` 的字体写的。在结尾能译出一段话来（但我仍不知道它上部分是什么意思）。
-	  <blockquote> 新鲜的血液从她皮肤的缝隙中渗出，慢慢地使她的胸部变红。随着我的冲动增强，我开始呼吸急促。这些影像不会消失。我不断地把刀刺进她的肉里，用刀片操她的身体，把她弄得一团糟。当我的思绪开始回归时，我的头脑开始变得疯狂。疼痛和思想一起冲击着我的大脑。这是恶心。绝对令人作呕。我怎么能让自己去想这些事情呢?但这是明显的。欲望继续在我的血管里徘徊。我的肌肉疼痛是由于我整个身体都处于一种无法释放的紧张状态。她的第三只眼睛把我拉近了。
-	  </blockquote> 
-	  跟上面 Natsuki 写的《乱码诗》相连接，就更像一个恐怖的杀人故事……
-	  </p>
-    </div>
-  </div>
+	<div class="item__image">
+		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 01.png"/>
+		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 02.png"/>
+		<br/><img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 02X.png"/>
+	</div>
+	<div class="item__content">
+		<div class="item__header">
+			<h4> Yuri 1/2 ARC 2 </h4>
+		</div>
+		<div class="item__description">
+			<p>
+				在我看来，论最吓人的女主还是得说到 Yuri，这个家伙虽然没有 Monika 的能力，却被制作者们隐藏着最多的秘密。
+				光靠病娇、自残可形容不了她，她的背景被制作者们写的十分宏大。而这两首诗给我的感觉像是极度激动的情况下写的狂想诗。前一首起码能看清，而后一首就是一个沾满血液与尿液的混合物的烂纸，根本看不清要她要说什么。
+				<br/><br/> 《轮》这首诗表现的是 Yuri 的内心波动，就像滚动轮子一样不停翻转。看起来有人在逼迫她？没错，那就是她不停在遭受着 Monika 的「迫害」下发生的狂妄、扭曲的心理。
+				<br/><br/> 其实第二首诗有人发现是使用一种叫 Damagrafik Script 的字体写的。在结尾能译出一段话来（但我仍不知道它上部分是什么意思）。
+				<blockquote>
+				新鲜的血液从她皮肤的缝隙中渗出，慢慢地使她的胸部变红。随着我的冲动增强，我开始呼吸急促。这些影像不会消失。我不断地把刀刺进她的肉里，用刀片操她的身体，把她弄得一团糟。当我的思绪开始回归时，我的头脑开始变得疯狂。疼痛和思想一起冲击着我的大脑。这是恶心。绝对令人作呕。我怎么能让自己去想这些事情呢?但这是明显的。欲望继续在我的血管里徘徊。我的肌肉疼痛是由于我整个身体都处于一种无法释放的紧张状态。她的第三只眼睛把我拉近了。
+				</blockquote>
+				跟上面 Natsuki 写的「乱码诗」相连接，就更像一个杀人故事。
+			</p>
+		</div>
+	</div>
 </div>
 
 ---
 
 <div class="item">
-  <div class="item__image">
-    <img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/special poem01.jpg"/>
-	<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/special poem01x.png"/>
-  </div>
-  <div class="item__content">
-    <div class="item__header">
-      <h4> Special Poem </h4>
-    </div>
-    <div class="item__description">
-      <p> 游戏中有 11 首特别的诗，这是其中一首。左图为原图，其中被涂黑的部分可以通过调高曝光度的办法来显示（如右图所示）。
-	  <br/><br/> 通过看原图的方式我们能看到 13 个字母，连起来为 <i> Nothing is real </i>。
-	  <br/><br/> 但通过看原文我们就能发现里面提到了 Elyssa 和 Renier 这两个与游戏毫无相干的名字。作者像是涉入一个有病的家庭，不知这家里 Elyssa 为什么叫得那么惨，他怀疑这一家被 Renier 所害。有人推测这是下一个恐怖游戏的剧情的预告。
-	  </p>
-    </div>
-  </div>
+	<div class="item__image">
+		<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/special poem01.jpg"/>
+		<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/special poem01x.png"/>
+	</div>
+	<div class="item__content">
+		<div class="item__header">
+			<h4> Special Poem </h4>
+		</div>
+		<div class="item__description">
+			<p>
+				游戏中有 11 首特别的诗，这是其中一首。左图为原图，其中被涂黑的部分可以通过调高曝光度的办法来显示（如右图所示）。
+				<br/><br/> 通过看原图的方式我们能看到 13 个字母，连起来为 <i> Nothing is real </i>。
+				<br/><br/> 但通过看原文我们就能发现里面提到了 Elyssa 和 Renier 这两个与游戏毫无相干的名字。作者像是涉入一个有病的家庭，不知这家里 Elyssa 为什么叫得那么惨，他怀疑这一家被 Renier 所害。有人推测这是下一个恐怖游戏的剧情的预告。
+			</p>
+		</div>
+	</div>
 </div>
 
 ---
 
 ### 只属于你的 Monika
 
-玩过的人都知道 Monika 是官方设定游戏中唯一一个有独立意识的角色（然而可悲的是即使她再多接近现实，她仍是一个被设定好的一堆参数罢了）。毫无疑问，Monika 就是这个游戏的核心人物。
+玩过的人都知道 Monika 是官方设定游戏中唯一一个有独立意识的角色（但让人伤心的是即使她再多接近现实，仍是一个被设定好的一堆参数罢了）。毫无疑问，Monika 就是这个游戏的核心人物。
 
 在 "Just Monika" 的空间中，Monika 会不断与玩家进行交流。这是制作者精心制作的近两个小时的不重复对话。
 
@@ -438,7 +416,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 > 
 > “但只要亲爱的你和我在一起，我会负责照顾你的～”
 
-#### 不要烦躁
+#### 面对烦躁
 
 > “...嘿，你今天是不是过得不太顺？”
 > 
@@ -490,7 +468,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 > 
 > “而被跟随能让我感受到我被爱着。”
 
-#### 支配时间
+#### 分配时间
 
 > “你有没有觉得自己在网络上浪费了太多时间？”
 > 
@@ -530,7 +508,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 面对面看着 Monika 与你交流，有种「近在咫尺却无法触及」的感觉，不是吗？
 
-#### 能与你进行一些互动
+#### 进行互动
 
 如果检测到你在运行游戏时有直播软件，她会给你做鬼脸。
 
@@ -633,12 +611,12 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 > “这也让我感觉你在这里的时候我们的心更加接近了。”
 
 用你的计算机名用户名来称呼你。
-<br/> 需要注意的是，制作者为了注重玩家隐私，当检测到玩家正在运行着直播软件时就不会出现这条信息了。
 
-![用计算机用户名称呼你.png](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Computer-UserName.png){:.shadow}
+需要注意的是，制作者为了注重玩家隐私，当检测到玩家正在运行着直播软件时就不会出现这条信息了。
 
-说实话，这让我不禁想到人工智能。
-<br/> 若能面对的是一个自主学习的 AI 而不是被指定的程序，游戏界必定会上升到一个新高度，想必这就是制作者所想实现却无能为力的吧。
+![用计算机用户名称呼你](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Computer-UserName.png){:.shadow}
+
+说实话，这让我不禁想到人工智能。若能面对的是一个自主学习的 AI 而不是被指定的程序，游戏界必定会上升到一个新高度，想必这就是制作者所想实现却无能为力的吧。
 
 ### CHR 文件
 
@@ -654,105 +632,118 @@ CHR 类型文件在 `...\Doki Doki Literature Club\characters` 文件目录下�
 <img class="image image--xl" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/yuri.chr.png"/>
 
 通过解码后得到一篇文章。
-<br/> 这篇文章是 Dan Salvato 本人曾经写的短篇故事。
 
-<div style="height:300px;overflow-y:auto">
+这篇文章是 Dan Salvato 本人曾经写的短篇故事。
 
-If you found this note in a small wooden box with a heart on it, then *congratulations!* You are probably the first person to read this. I didn’t really plan on sharing this with anybody, but for some reason I think it’s exciting that somebody out there, a complete stranger, will come across this note and read my story. Someone I will never meet, sharing such a personal bond with me. I’m fascinated that either one of us could die - even as soon as tomorrow - with the other being completely clueless to the fact. To you, my entire life is within this note, and so I will live for as long as your memory can carry me. Writing this, I’m wondering if that makes you feel fascinated or violated. It’s so exciting.
-<br/><br/>
-I’m sorry if my story is a bit disorganized, but I’d like to get it down while it’s still fresh on my mind. First, I’ll tell you a little bit about myself. I’m a first-year college girl and have led, by most standards, a pretty unspectacular life up to this point. I grew up in an upper-middle class school district with decent teachers. I did track in middle school and some of high school, and I’ve had two boyfriends. Now, I’m studying for a career in occupational therapy, because I feel the field is undervalued and provides tremendous help to people.
-<br/><br/>
-I’m giving you this background because there’s this strange misconception that if you want to kill someone then you’re either sick in the head or you have anger management issues. But, it’s very apparent that I don’t fall into either of those categories. It’s true that most murder cases are in a domestic setting where someone loses control of their anger or something. But the thing is that those people kill under provocation, whether by a singular outburst or by a slow-burning series of misfortunes. Those people kill because in that brief moment, they want a specific someone, for a specific reason, to be hurt or killed.
-<br/><br/>
-What I’m talking about is wanting to kill someone for no specific reason, maybe just to see what it’s like. Do you ever get that? I wouldn’t know how others feel, because it’s not something I ever talked about. But I’ve been curious about what it’s like to kill someone ever since I was a child. Not killing anyone in particular, just a random person. It’s always just fascinated me that if I put my mind to it, I can approach anyone, and in five minutes they would be completely gone from this Earth.
-<br/><br/>
-But I’ve never done so for a couple of reasons. First of all, for most of my life it was logistically impossible for me to do it without getting caught. I only got my driver’s license a couple years ago, and even then, the preparations would take too much time, definitely stirring suspicion. It was only once I started college that I realized this was no longer an obstacle.
-<br/><br/>
-Another reason is that I was afraid of causing harm to too many people. You might laugh reading that, at how hypocritical it sounds. But, let me explain: Why should I feel bad about killing someone if they’re too dead to care? Who would I be feeling bad for? Contrarily, it’s the grief of the living that I’d rather not be responsible for. Because of this, I knew it would take a good deal of research before finding a suitable person to kill, and I’ve never had the means to do so - again, until I started college.
-<br/><br/>
-And now, having just experienced it, I’d say it was pretty satisfying in the end. Something I would try again? Probably not, since my curiosity has already been satisfied. It really wouldn’t be the same a second time.
-<br/><br/>
-But anyway, if by any chance you’re also curious to kill someone, then you’re welcome to take notes. :)
-<br/><br/>
-***
-<br/><br/>
-I started a hobby of people-watching soon after I entered college. People-watching is interesting to me because it’s taking one of the infinite extras in your life and turning them into a main character - without them knowing, of course. It’s so easy to forget that every single one of the hundreds of strangers you pass every day has a life story as deep and complex as your own. One thing I noticed about people-watching, and wanting to kill someone, is that you are in more constant awareness of this. When I find a person to observe, their story slowly becomes more clear to me over time, gaps being filled - it really is amazing.
-<br/><br/>
-I usually went to grocery stores on weekends and looked around in people’s shopping carts. If I saw something that interested me, I decided to observe the person for a little bit. Of course, since my goal was to find someone to kill, I ruled out anyone who had children or a partner with them. Wedding rings were another tell-tale sign.
-<br/><br/>
-So maybe once a weekend, I would find someone who fit my criteria, at which point I would follow them home and note their address. From there, it became incredibly easy to investigate a little bit more; most people have normal work hours, meaning I could spend afternoons going through their mail or looking around in their house. I repeated this with several people (and had one close call), but for varying reasons I didn’t really feel satisfied enough with them to kill any of them.
-<br/><br/>
-I started getting a bit impatient and thought that I might just settle for killing the man named Devon, even though I didn’t really want to kill someone wealthy. But then, I came across someone new - someone who just, felt perfect. The feeling only strengthened as I investigated her further, and I knew that she would be the one for me to kill.
-<br/><br/>
-A young-looking woman I met at the grocery store, as per usual. She was doing some light shopping with a basket. Her hair was wavy and dark brown, sitting inelegantly on her slumped shoulders and surrounding her tired-looking face. Her bare fingers told me she might be single, but beyond that, my gut was almost certain of it. This woman just seemed so…plain, really. I guess I felt a greater acuity for the personal lives of strangers ever since I started my people-watching. But the way she carried herself, I just got the feeling that if she suddenly died, nobody would be around to miss her. Of course, I still wanted to investigate her a bit.
-<br/><br/>
-I followed my usual routine of checking out her place during her work hours. I learned immediately from her mail that her name is Linda Watson. Linda lived in a quiet apartment complex, her mailbox easily accessible right outside her door. Instead of quickly shuffling through it, I decided I could take her mail back to my dorm and return it before she was finished with work (she only lived about 15 minutes from me). I did some research and learned how to open and reseal the envelopes without damaging them, which took some technique along with a hair dryer, rubbing alcohol, and Q-tips.
-<br/><br/>
-This made it easy for me to learn a little more about her. Linda was a 33-year-old woman who worked for a small accounting firm - I’d rather not name the place outright. Her birthday was December 11th which, coincidentally, was approaching in a couple weeks. I also managed to find a bank statement that gave me a nice look into how she’s been spending her past month. It was at this point I realized that my assessment of Linda Watson as an extremely plain woman was pretty spot-on, because there was absolutely nothing interesting on the list. A trip to Old Navy, a bunch of Starbucks, something about $40 from Amazon - no restaurants, no movies, nothing that would really imply she was spending any time socializing. That aside, I also found a cooking magazine, so I guess she was into cooking.
-<br/><br/>
-Apartments are harder to break into than suburban homes, because there are fewer doors and windows. Every time I got Linda’s mail, I would check the front door and the windows in the back, but they were always locked. This was a bit frustrating because I was really interested in getting into her house. So, I came up with a sort of plan that I thought would be fun, even if it didn’t work.
-<br/><br/>
-Last Saturday, I visited Linda Watson’s apartment complex as I would on weekdays. The difference is that this time, I wanted her to be home. I thought it would be interesting to have a conversation with her. If I got lucky, I could take advantage of the situation to discreetly unlock a window from the inside. So, I walked up to her door wearing nothing warmer than a light sweatshirt, and knocked. The adrenaline rush was crazy. I was afraid I might screw something up.
-<br/><br/>
-The door opened, and in front of me stood Linda Watson, exactly as I remembered her from the grocery store. It was at that moment, making eye contact for the first time, that I realized I was running the risk of beginning to care about this person. As selfish as it is, I couldn’t kill a person I cared about, even if it’s a 33-year-old woman standing in a doorway with a slightly perplexed look on her face, giving me a reserved “Hello.”
-<br/><br/>
-Arms crossed from the cold, I shyly returned Linda’s greeting. I explained that I was walking my dog near the woodsy area behind the back of her apartment, and that he had gotten away. I had been looking for my dog for an hour and was wondering if Linda may have seen him roaming about. Of course, Linda sympathetically apologized for the situation and that she couldn’t be of use to me, but that she would keep an eye out. I wore a defeated expression in response, apologizing in return for troubling her.
-<br/><br/>
-It somehow went exactly as I had hoped - Linda invited me inside to warm up a bit with some coffee. I outwardly hesitated before accepting her offer, although on the inside I wanted to jump through the door and hug her for cooperating so well. And that’s how Linda Watson ended up with a 19-year-old girl next to her on the couch - who knows if it was just a nice gesture or if she really has no better way to spend her Saturdays than talking to some kid she just met (who happens to be interested in killing her).
-<br/><br/>
-Linda soon learned that my name is Maria (it’s not) and that I attend the nearby community college (I don’t). I was a little bit nervous that she would ask me too many questions because I didn’t have many answers prepared. I was able to steer the conversation toward her, and she was pretty happy to talk. I asked what she does, and she told me that she works for the accounting firm I already knew about, communicating with outside clients and keeping records. I told her I was pretty nervous about growing up. She told me to enjoy college and to make lots of friends because there’s less opportunity once you start working.
-<br/><br/>
-When I asked if she was married or anything, she laughed. Of course I knew she wasn’t married, but I wanted to hear more about her love life. She said that she doesn’t currently have a boyfriend (I guess she’s at least had boyfriends, but who knows how long ago). When I asked her about kids, she said she doesn’t want them until she gets a better job. On top of that, she told me that her family has a history of some genetic diseases such as arthritis and depression, which she is afraid to give to her kids.
-<br/><br/>
-It’s funny that she mentioned that because when I asked to use her bathroom, I noticed a tube of prescription pills on the sink. It was labelled duloxetine, which I looked up later and discovered that it is in fact an antidepressant. I had a joking thought that maybe by killing her I’d be doing her a favor, but quickly decided I was a terrible person for coming up with that.
-<br/><br/>
-The rest of the visit was pretty dull. We talked about food and some other mundane stuff before I eventually made an excuse to leave. I didn’t get the chance to unlock a window or anything like that, but I didn’t really feel the need to go through her apartment anymore. As early as the drive back to my dorm, I was already thinking about how I would best like to kill Linda Watson.
-<br/><br/>
-The choice was between effectiveness and fun. I decided to go with fun, because it would be way more satisfying to kind of dissect her as I killed her, rather than just getting it done and calling it a day. Fast-forward one week to December 13th - today, actually. Linda Watson turned 34 two days ago. I made a fun little wager with myself where if Linda was spending her birthday weekend alone, I would pay her a visit and kill her. If she was out or had company, I would stop by next week or something instead.
-<br/><br/>
-So this morning, I drove over to Lowe’s and bought an axe. Again, I expect you’re laughing, but that’s also kind of the point. An axe is so kind of cliche and a “movies” thing that I actually thought it would be the most fun. Swinging it at someone and everything, it’s a really entertaining image. They actually had a bunch of different axes, so I picked one that had a good weight but was still light enough for me to swing quickly.
-<br/><br/>
-The drive after getting the axe was when the adrenaline really picked up. All that kept going through my mind on the way over was “Wow, I’m really doing this.” Not in a bad way, just like a surprised this is real life sort of thing. I also got this strange rush of recollections of the time I spent with Linda. It was like my life was flashing before my eyes, except it was just the rather mundane hour I spent with Linda - like snippets of our conversations, the sound of her laugh, her facial expressions and stuff.
-<br/><br/>
-I also wondered to myself what the crazy serial killers would be feeling at a time like this - schizophrenic delusions? Sexual buildup? I have no idea, but what I felt was kind of like ridiculously alert and numb in the senses at the same time, however that’s possible.
-<br/><br/>
-Before getting out of the car, I had the sense to stuff the axe into my backpack to look a little less ridiculous walking across the parking lot. The handle was sticking out, but that didn’t really matter. At that point my heart was pounding so hard I could feel my throat throbbing. I tried controlling my breath, but it’s really hard to not breathe fast when your heart is pounding like that.
-<br/><br/>
-I reached Linda Watson’s door and quietly put my ear to it after setting down my backpack. I heard a voice that wasn’t hers - company? No, it was just the TV, mixed with her occasional tapping footsteps behind the door. I actually kept my ear there for a really freaking long time, because I wanted to make absolutely sure nobody was over. Probably 10 minutes of that and a lot of reassuring myself convinced me.
-<br/><br/>
-I quietly opened my backpack zipper and held the axe in my hands. My fiercely shaking hands. What the hell was this kind of reaction that my body was making? I told my body to shut up, that it’s no big deal, but of course it wouldn’t listen. It was actually bizarre how much my hands were shaking. It must be the adrenaline buildup. I rolled my eyes at myself and got my hand to rest on the doorknob. If it’s locked, I’ll knock, it’ll be basically the same. I took a deep breath and forced my muscles into action.
-<br/><br/>
-I swiftly turned the doorknob. Not locked. In one movement, I opened up the door and slipped inside. Linda Watson, just a few steps away into the kitchen. I see - she was in the middle of cooking. She immediately jumped and turned around, startled. I expected that. Quickly, I let go of the doorknob and adjusted the axe into both hands. In the following split second, I realized that she would probably start to make a lot of noise. Looking back, I’m an idiot for not considering that. Just as Linda’s mouth opened to speak - maybe even started speaking - I forcefully swung my axe into the side of her head.
-<br/><br/>
-But, my axe was facing backwards. I hit her with the blunt end of the blade. I actually did this on purpose, because in that split second I somehow decided that it would be the way to keep her noise to a minimum. It actually worked. I felt barely any resistance in the swing as I collided with her head, knocking it clean aside. Linda’s half-formed syllable came out as a kind of weird grunt - a noisy exhalation is probably the best I could describe it. That happened at the same time as her head smacked into the cabinet from the force, and she fell backwards without any ability to keep her balance. I didn’t hesitate at all to keep swinging at her while she was half lying down on the ground, this time my axe facing the right way. I didn’t really know where to swing, so I kind of just started hacking at her collarbone area and chest. It didn’t feel like the axe was going too deep, but there was a nice “thunk” sort of sound every time the axe embedded into her. I even felt the soft sinking sensation ripple into my hands, like the axe was a kind of physical extension of my sense of touch.
-<br/><br/>
-On a whim, I swung once at her throat, but most of the swing actually missed and I hit the floor by accident, causing a loud, dull whack to resonate through the apartment. I didn’t have time to think about it. I swung again with better aim and got a more centered hit, feeling the bone or cartilage or whatever is in there, so I must have split it open. Right after that, I decided to swing at her face, and I got this diagonal cut along her nose and mouth, which felt pretty good so I did it once more.
-<br/><br/>
-I finally briefly stopped to survey the damage. Linda was bleeding ridiculously. The blood was kind of coming out in waves, in sync with her beating heart, probably. It was pooling all around her and riding along the cracks between the tiles. Her light blue shirt was all torn up and stained dark, kind of mixed with a fleshy mess around her chest. It was all just glistening red. Her face wasn’t much better, covered in dripping red at this point, and her lip was kind of hanging off, revealing red-stained teeth in a really weird way, like a zombie or something.
-<br/><br/>
-Linda wasn’t dead, though. Her limbs were kind of weakly, aimlessly trying to move while she was stuck on her back. More than anything, she reminded me of a bug that you crush but it still pitifully moves its legs around before it dies completely. That’s basically what she was doing. But I didn’t know how long it would take for her to die, or what kind of condition she was in. I ended up grabbing a big knife that was on the counter that she was using to cut up meat. Trying to step around the blood, I reached down and carved into the upper half of her neck, trying to sort of saw it from the left side to the right. It was a little awkward because the area was so soft and squished around the knife as I was cutting. But the sensation was completely different from the axe. It actually felt like I was cutting a tough piece of raw meat (which I guess technically, I was).
-<br/><br/>
-The blood started pouring out, and I hoped that I severed the most major arteries in there. It must have worked, because after a moment Linda’s limb movements kind of just had the strength drained from them, soon resting still on the floor. I took a few seconds to catch my breath. No time to stick around and think about the experience. I shook the knife blade through a dirty pan in the sink to clean off the blood, then threw the knife into my backpack. I did the same with the axe. I also took her laptop that was sitting on the counter. It had some recipe open for veal and mushrooms. I didn’t really take the laptop to use it, since I have a perfectly good one myself that I got for college. I just wanted to look through it for fun.
-<br/><br/>
-I finally went outside and closed the door behind me. I got some blood on my sweater and jeans. But funnily enough, I actually anticipated that so I wore dark colors.
-<br/><br/>
-The drive back to my dorm was just a constant replaying of the experience in my head. I guess that’s still kind of happening even now, actually. But it felt pretty nice. Linda Watson is dead. I kind of let the weight of that sink in. The sensation of having completely removed a human life from existence. It’s crazy. I don’t know how else to describe it.
-<br/><br/>
-Anyway, I threw the axe and knife into a dumpster on campus, which I think is picked up every Monday, so they’ll be gone by then. My roommate goes home on the weekends, so I have the dorm to myself today. It gave me the chance to go through Linda’s website history. I was right in thinking that’s where her deepest secrets would lie.
-<br/><br/>
-There was actually a lot of dirty stuff, like the names of websites for porn videos and stories and things like that. Same with her searches. A lot of the websites were boring, like cooking websites and recipes, and game websites like Bejeweled and stuff. I eventually got to the “one week ago” section of her history, and it gave me a chill.
-<br/><br/>
-There were a whole bunch of searches like “methods of suicide”, “how to tie a noose”, “dangerous household chemicals”, “carbon monoxide poisoning” - like a lot of them. She was probably ready to write a book on suicide after all the research she did. So I guess Linda was contemplating suicide. I wonder if it was influenced by her depression.
-<br/><br/>
-The irony is actually striking. Maybe Linda was going to die anyway. Or maybe she couldn’t find the courage to do it. If that were the case, I almost literally gave her a birthday present by killing her. That’s actually really comical in a messed-up way, and it leaves a weird taste in my mouth. The part I don’t get is that I didn’t see any of those searches up until the “one week ago” section, nothing more recent than that.
-<br/><br/>
-I ended up throwing the laptop in the dumpster with the other stuff. It’s been a few hours since then, so I’ve had some time to calmly think about everything. Like I said, it was pretty satisfying and I’m glad I finally got around to it. I feel like I can finally cross it off my bucket list, or like I’m tying loose ends with myself. This is probably the first and last time I’ll write the name Linda Watson - it’s back to living a normal college life, except I might do some people-watching every now and then because it’s definitely fun and interesting.
-<br/><br/>
-But I’ll always wonder how many people there are like me. I’m sure there has to be a lot, because there is just nothing strange about it to me, being curious about killing someone. Sadly, it’s something that people can’t exactly just talk about, so I guess I’ll never know. I’m sure that anyone would just lie about it even if you asked them. But you can’t help but wonder if that person in the grocery store, who stares at you as you pass by, might be considering what it would be like to kill you. If I could, I would tell them all about it, so they could decide for themselves.  But who knows, maybe I got lucky, and that person is you. I actually really, really hope so.
-<br/><br/>
-~♥
-<br/><br/>
+<a class="button button--outline-success button--pill" href="https://weibo.com/u/2436385964" target="_blank" title="Translator"><i class="fas fa-user"></i> EstasVii</a>
+
+<div class="card">
+	<div class="card__content">
+		<div style="height:300px;overflow-y:auto">
+			<p>
+				如果你在一个上面有爱心图案的小木盒里找到这份字条的话，那么*恭喜你！* 你大概是第一个读到它的人吧。我其实并不打算和任何人分享这个故事，但出于某些原因，我觉得让一个完全陌生的人找到这个字条，并读到我的故事将会是一件激动人心的事。某个我永远不会遇到的人，跟我以这种私密的方式联系在一起。我时常痴想，即使我们中的某一个明天就死掉，另一个对此也不会有任何察觉。对你而言，我的一生都在这份字条里了，因此只要你还记着我，我就会一直活在你的记忆里。写到这里，我好奇这是否也会让你感到痴迷？或是感到被冒犯了？真刺激啊。
+				<br/><br/>
+				如果我的故事看起来有些许无序的话，我很抱歉，但我比较喜欢想到哪写到哪。首先，我跟你说说我自己吧，我是一个大学一年级女生，直到这个档口我一直过着，以我的标准看来，平凡无奇的生活。我在一个中上水平的学区长大，那儿有不错的老师。我在初中时循规蹈矩，在高中的一部分时间也规规矩矩，而且我交过两个男朋友。
+				<br/><br/>
+				现在我在为了将来的职业生涯在学习作业疗法，因为我觉得这个领域被低估了，而且能给人们带来巨大的帮助。
+				<br/><br/>
+				我告诉你这些背景信息是因为一种奇怪的误解一直存在着，认为如果你想杀死某人的话那你要么脑袋有毛病，要么你的愤怒管理没做好。但是，很显然我并不属于这两类。绝大多数谋杀案是某人在家庭环境中无法控制自己的愤怒之类的情绪而犯下的，这话没错，但要知道这些人是在刺激下杀人的，要么是受某次突发的刺激，要么是被被一系列慢慢发作的不幸刺激。这些人杀人是因为在那个短暂的时刻里，他们想要某个特定的人，因为某个特定的原因受伤或者死亡。
+				<br/><br/>
+				我想说的是不为某个特定原因而渴望杀人，或许只是为了看看那会是什么样的。你能明白吗？我不知道别人是怎么觉着的，因为这事我从来没跟任何人谈过。但我从小就一直很好奇杀人是什么样的。不是为了杀某个特别的人，就是随便杀一个。我可以接近任何一个人，然后过了五分钟他们就彻底从人间消失了，每每想到这个我都会为此痴迷。
+				<br/><br/>
+				但出于几个原因我从来没这么做过。第一，我一生中大多数时候，去这么做而不被抓从逻辑上来说都不可能。我几年前才拿到驾照，即便如此，准备工作也会花掉太多时间，绝对会让人起疑心的。直到我上了大学才意识到这个问题不再是问题了。
+				<br/><br/>
+				另一个原因就是我担心会伤害到太多的人。读到这里你可能因为它听起来太伪善而发笑吧。但是让我解释一下，为什么我要担心杀死一个死后就不需要关心的人呢？以及我到底为谁担心呢？相反地，我担心的是那些生者的悲痛，那些最好不需要由我来负责的悲痛。因此我知道，在找到一个合适的目标来杀之前，我需要做大量的研究，我一直没有机会这么做——同样地，直到我上了大学。
+				<br/><br/>
+				现在，刚刚体验过杀人后，我会说这最终相当令人满意。我会再试一次吗？大概不会吧，因为我的好奇心已经的得到了满足，第二次感觉就不一样了。
+				<br/><br/>
+				但无论如何，如果正巧你也对杀死某人感到好奇的话，那么别客气做好笔记。：）
+				<br/><br/>
+				<br/><br/>
+				<br/><br/>
+				***
+				<br/><br/>
+				我一进大学就有了观察别人的爱好。我觉得观察别人相当有趣，因为这就像是从你生命中那些茫茫过客里挑出一个，然后让他们变成主角，当然了，是在他们毫不知情的情况下。每天经过你的上百个陌生人之中，每一个人都和你一样，有着深刻而复杂的人生故事，这点很容易被人忘记。关于观察别人和渴望杀人呢，我注意到一件点，那就是你会对它的越来越有体悟。当我找人来观察的时候，他们的故事在我眼里会随着时间的推移变得渐渐清晰，我和他们之间的隔阂被打破了，这真的很棒。
+				<br/><br/>
+				我通常会在周末去杂货商店，看看别人的购物车。如果我看到我感兴趣的物件呢，我就会决定观察那个人一阵子。当然，因为我的目标是找一个人来杀，我会排除那些有小孩或者是对象的人，结婚戒指也是一个能说明问题的信号。
+				<br/><br/>
+				所以可能每周会有一次吧，我能找到一个符合我标准的人，这时我就会跟着他们到家，并且记下他们的地址。从那里开始，稍微深入一点的调查就会变得特别简单。大多数人都是在正常的时间上下班的，这意味着我可以在下午去看他们的邮件或者是观察它们房子的周围。我在好几个人身上都如此重复过（有一个几乎就成了我最后的目标），但出于不同的原因，杀死他们中的任何一个都不能使我真真正正地满意。
+				<br/><br/>
+				我开始有点失去耐心，并想过干脆就杀那个叫Devon的男人好了，即便我不是很想杀富有的人。但接着，我碰到了一个新的目标，一个感觉几乎完美的目标。这种感觉随着我对她的进一步调查只增不减。我知道她会是那个被我杀死的人。
+				<br/><br/>
+				   一个年轻面貌的女人，在杂货店被我碰见，和我平常做得一样。她当时拎着篮子在买小玩意儿。她的头发是深棕色的大波浪，随意落在她塌塌的肩上。她手上没戴戒指，这告诉我她或许孤身一人，不是或许，我几乎可以确定她是单身的。这个女人就是如此地…普通。我猜自从我开始观察别人以后，我对陌生人的私人生活越来越敏锐了。从她“自依为命”这一点看，我觉得就算她突然死掉了，也不会有人来追悼她的。当然，我当时仍然想要进一步调查她。
+				<br/><br/>
+				我像我平时做的那样在她出去工作的时候检查她的居所。我马上就从她的邮件中得知她的姓名是Linda Watson。Linda住在一个安静的公寓大楼里，她的邮箱就在她的门外垂手可及。我决定并把她的邮件带回自己的寝室，并在她下班前还回去（她住在离我只15分钟路程远的地方），而非草草翻看一下。我研究了一下如何在不破坏信封的前提下打开并重新封好这些邮件，这需要一点技巧，还有电吹风、酒精以及棉签。
+				<br/><br/>
+				这让我能对她多了解一些。Linda是一个33岁的小会计公司的员工（我最好把这个公司的名字隐去）。她的生日是十月十一日，正巧就在几周后。我还找到了她的银行对账单，这让我充分了解了她过去几个月的开支。这下我知道了我把Linda评估为一个平平无奇的女人是相当正确的，因为这里头完全没有任何有意思的内容。逛了一次Old Navy（美国服装品牌），好几杯Starbucks，在Amazon上花了大概40美元，没有去餐厅，没有看电影，没有任何暗示着她有在社交上花时间的迹象。除此之外我还找到了一本烹饪杂志，所以我猜她可能喜欢做菜吧。
+				<br/><br/>
+				公寓比郊区的民宅更难闯入，因为公寓门窗更少。每次我去取Linda的邮件的时候我都会检查一下前门和后窗，但它们一直都是锁着的。这让我有点失落，因为我一直有兴趣进到她的房子里。所以我想了个“办法”，哪怕它没奏效我觉得也会挺有意思的。
+				<br/><br/>
+				上周六，我造访了Linda Watson的公寓大楼，就像我平日做的一样。只不过这次区别在于我希望她在家。我认为跟她来一次对话会相当有趣。如果足够幸运的话，我还能趁机谨慎地从里面打开一扇窗户的锁。于是我穿着一件薄运动衫走到她的门前，没有穿别的保暖衣物，然后敲门。肾上腺素狂飙，我有点害怕我可能会搞砸什么。
+				<br/><br/>
+				门开了，Linda Watson站在我面前，她和我在杂货店里记得的样子完全一样。就是在这个时刻，在我第一次和她四目相对的时刻，我意识到，我正冒着开始关心这个人的风险。我是自私的，我没法对自己在意的人下手。即使是这样一个站在门口，面带疑惑，正在拘谨地向我说你好的三十三岁的女人。
+				<br/><br/>
+				觉得有点冷，我把双臂环抱在胸前，腼腆地回应了她的问好。我解释道我刚才正在她屋后的树林附近遛狗，接着狗溜了出去。我已经找了狗找了一个小时，想知道Linda是否有看见过它跑到哪儿了。不出所料地，Linda同情地向我道歉，说她对此无能为力但她会留意的，我做了一个失望的表情作为回答，同时也为打扰她而道歉。
+				<br/><br/>
+				不知何故，接下来的进展正如我预料，Linda邀请我进去喝杯咖啡暖暖身子。我表面上在接受她的邀请前犹豫了一会儿，尽管心里我都想蹿进门里，为她如此配合而拥抱她。这就是Linda Watson最后和我这个十九岁的女生，一同坐在她的沙发上的原因。不过谁知道这是想表达善意，还是说除了跟一个刚认识不久的小孩聊天以外，她没有更好的消磨周六时光的办法了呢（碰巧这个小孩还想着杀死她）？
+				<br/><br/>
+				Linda很快就知道了我叫做Maria（我不是），而且我在附近的一个社区大学上学（我没有）。对于她问这么多问题我还是有点紧张的，因为我没有准备很多回应。我成功地把对话引到她身上，她也相当乐于谈论自己。我问了她是做什么的。她告诉我她为那个我早就了解的会计公司工作，跟外面的客户沟通然后做记录。我告诉她我对长大成人相当紧张，她对我说享受大学生活然后多交些朋友吧，因为一旦你开始工作就没什么机会这么做了。
+				<br/><br/>
+				在我问到她是否结婚之类的时候，她笑了。当然了，我知道她没结婚，但我想听更多关于她爱情生活的事。她说她目前没有男朋友（我猜她至少有过，但鬼知道是多久之前的事了）。当我问她对小孩的看法时，她说她直到在获得一份更好的工作之前不想要孩子。此外，她还告诉我她的家族有诸如关节炎和抑郁症之类的基因性疾病史，她担心会遗传给她的小孩。
+				<br/><br/>
+				可笑的是，她提到这件事是因为我想要用她的洗手间时，发现了洗手台上有一管处方药，上面标着度洛西汀。我后来查了一下，那是抗抑郁药。我产生了一个戏谑的想法，或许我杀死她事实上还是帮了她一个忙呢，但很快的我就觉得，这么想的话自己真是个糟糕的人。
+				<br/><br/>
+				这次造访的接下来相当平淡。我们聊了食物还有一些其他的日常琐事，直到我终于编了一个借口离开。我没找到机会打开窗户什么的，但我不觉得还有必要再去她的公寓了。在回寝室的路上，我就已经早早地开始思考我最希望怎样杀死Linda Watson。
+				<br/><br/>
+				这个抉择在效率和趣味之间徘徊。我选择了趣味，因为我觉得比起草草干完然后度过这一天，在我杀死她的时候把她弄得支离破碎会让人满意得多。一周后，到十月十三号，事实上Linda Watson两天前刚34岁。我对自己打了个有趣的小赌，如果Linda是独自度过自己生日的周末的，那我就去她家并且杀死她，如果她出去玩了或者有人陪伴，我就下周再动手或是怎样。
+				<br/><br/>
+				所以这个早上，我开车到Lowe's（劳氏五金）并买了一把斧头。我再猜猜看，你应该又笑了吧，但这就是意义所在。斧子杀人这个梗早被用烂了，而且有点电影的感觉，我觉得这会是最好玩的。把它挥向某人或是随便什么东西，都是一副娱乐性十足的画面。五金店有卖各种各样的斧子，所以我挑了一柄有点分量但又足够轻巧能让我快速挥舞的。
+				<br/><br/>
+				我的肾上腺素在买完斧子的车程中激增。路途中，我的脑子里想的全是“哇，我真的要这么做了”。不是觉得不好，只是为它的真实感之类的感到惊喜。此外我还开始奇怪地回味和Linda度过的时光。就像那种一生在我眼前走马灯般闪过的感觉，只不过闪过的只是和Linda一起度过的平凡的一小时，像是我们对话的片段啦，她的笑声啦，她的表情啦之类的。
+				<br/><br/>
+				我也问自己那些疯狂的连环杀手在这时会有什么感觉…精神分裂谵妄？性兴奋？我不知道，但我感觉到的是荒谬的警觉和麻木在意识里同时存在，无论如何就是这样。
+				<br/><br/>
+				离开车前，我重新理智起来把斧子塞进背包里，以求走出停车场的时候看起来不那么可笑。斧柄支出来了，但这不重要。到这个关头，我的心脏泵动得如此剧烈，以至于我可以感觉到我颈动脉的脉搏。我试图控制自己的气息，但是你心跳如此之剧的时候，很难做到不这么快地呼吸。
+				<br/><br/>
+				我走到Linda Watson的门前，在放下背包后悄悄把耳朵贴到门上，我听到了不属于她的声音——同伴？不，只是门后电视音，混杂着她偶尔的脚步点地的声音。事实上我把耳朵贴在那儿贴了好长一会儿，因为我想百分百确认没有人来造访。可能听了十分钟，再加上我给不断说服着自己，终于我相信了里面没有别人。
+				<br/><br/>
+				我悄悄打开背包拉链，把斧子握在手中。我的双手激烈地颤抖着，我的身体这是一副什么鬼反应？我告诉自己的身体安分下来，这没什么大不了的，但当然它不听我的使唤。其实我的手抖得这么厉害挺奇怪的， 一定是由于肾上腺素的积累吧。我闭上眼睛并把手搭在门把上。如果是锁起来了，我就敲门，最后都是一样的。我深吸一口气并迫使我的肌肉开始工作。
+				<br/><br/>
+				我迅速地扭动门把手。没锁。一瞬之间，我打开了门溜到里面。Linda Watson就距厨房几步之遥。我看明白了，她正在做菜。她惊得立马跳了一下并且转过身来。我预料到了。我迅速松开门把手转为双手握斧。在接下来的几秒钟里，我意识到她可能会开始发出不小的声音。现在想起来，没考虑到这一点我真是个白痴。就在Linda张嘴说话的时候，或许刚准备说话，我用尽全力侧着把斧头挥向她的脑袋。
+				<br/><br/>
+				但我当时我的斧刃是朝后的，我用斧头钝的一侧打中了她。其实我是故意如此，因为当时我不知怎么的，觉得这是能让她发出最少声音的办法。它奏效了，我几乎没有在挥舞的斧头和她的脑袋碰撞时感到什么阻力，干脆利落地就把她的脑袋锤到一边。Linda喉咙里刚酝酿了一半的音节化作一声奇怪的咕哝，要我说大概是呼气的声音。于此同时，她的头受到巨力的迫使，撞上了橱柜，然后她无法保持自己的平衡向后倒去。在她半落在空中时，我并没有犹豫而是继续挥舞着斧子，这次是斧刃朝向正确的方向。我不知道瞄准哪里，所以我开始劈砍她的锁骨还有胸膛。感觉起来斧子没有进得太深，但是每当斧子嵌入她的身体我都清楚地听到了哐哐的声音，我甚至感受到了这种柔韧的触感传递到我的手上，斧子仿佛是我触觉实实在在的延伸。
+				<br/><br/>
+				一念之间，我朝着她的喉咙砍了一次，但这次挥击几乎完全错过了目标，不小心地落到了地板上发出沉闷的巨响，在整个公寓中共鸣。我没时间多想。我又瞄准了砍了一次，这次砍得正中，可以感觉打到了骨骼软骨还是里头其他什么的，所以我肯定是把喉咙砍开了。紧接着，我决定砍她的脸，然后我在她的鼻子和嘴之间砍了一道对角切口，这感觉很棒于是我又砍了一斧。
+				<br/><br/>
+				终于，我短暂地停下来评估伤势，Linda血流如注。血流好似一股一股地涌出，估计和她的心脏跳动同步。这让血流得她浑身都是，淌到地上沿着地砖的接缝渗出去。她浅蓝色的衬衣彻底被撕碎并染成深色，跟她胸前模糊的血肉混成一团。一切都红得耀眼。她的脸也好不到哪去，被滴落的红色覆盖，她的嘴唇耷拉下来，以一种奇怪的方式展现着里头被染红的牙齿，有点像丧尸什么的。
+				<br/><br/>
+				但是Linda还没死，她的四肢虚弱地漫无目的地尝试着移动，而她仰面倒着。无可比拟地，她让我想起了被碾碎却还可悲地在死前动弹着腿的虫子——这就是她正在做的事。但我不知道她还有多长时间才会死，或者她现在具体状况如何。我于是从柜台上抓起她用来切肉的一把大刀，试着不踩到血渍，弯下身子来把它插入到她脖子的上半截里，试图左右锯它。这有点别扭因为那块区域非常柔软并且会随着我的刀而扭动。但这触感与斧子砍完全不同，感觉起来像是在切一块生肉（准确地说我的确是在切生肉吧，我猜）。
+				<br/><br/>
+				血液开始倾泻而出，我认为我切断了这里的主动脉。一定是奏效了，因为这之后Linda抽动的四肢都像失去了力气，很快就静止在了地板上。我花了几秒钟时间缓过呼吸。没时间再杵在这思考这次经历了。我把刀在水池内的脏锅子里头涮了几下来清除血迹，然后把它丢到我的包里。我对斧子也是这么做的。我还拿走了她放在柜台上的笔记本电脑。它正显示着一些小牛肉和蘑菇的菜谱。我并不是想要拿她的电脑来用，因为我自己在学校就有一台很棒的。我只是想为了好玩想看看里面的内容。
+				<br/><br/>
+				最终我走到外面并关上身后的门，我的外套和牛仔裤上溅了一些血。但有趣的是，我其实料到会如此并穿了深色的衣物。
+				<br/><br/>
+				在我驱车回寝室的路程中，我脑海里不断回放着刚才的经历。我觉得其实现在也在回放。但这感觉不错，Linda Watson 死了。我让这个沉重的想法陷入脑海。彻底把一个人的生命除去的感觉，这太疯狂了，我不知道怎么描述它。
+				<br/><br/>
+				另外，我把斧子和刀丢到校区里的垃圾箱里了，我知道每周一它都会被倒掉，到那时刀子和斧子就彻底消失了。我的舍友周末回家，所以我今天独占寝室。这让我有机会来看Linda的浏览器历史记录。我想这里面可能藏着她最深的秘密。
+				<br/><br/>
+				那里头其实有不少龌龊的东西的，像是几个色情视频小说网站的名字之类的，她的搜索记录也差不多。还有很多网站相当无聊，比如烹饪网站还有食谱网站，另外还有像宝石迷阵之类的游戏网站。我最终翻阅到了她的“一周前”的浏览记录，而这让我打了个寒颤。
+				<br/><br/>
+				那里有很多搜索记录，像“自杀的方法”，“如何打一个套索结”，“危险的家用化学产品“，“煤气中毒”……还有好多这样的。她看完这些搜索都可以写一本关于自杀的书了。所以我猜Linda在考虑自杀。我好奇是否是因为她的抑郁症。
+				<br/><br/>
+				讽刺意味相当强烈。大概Linda本来就想着去死，可能她没办法鼓起勇气去这么做。如果真是这样的话，我杀了她简直像是给了她一份生日礼物。那可真是彻底的，乱了套的滑稽，这让我不是滋味。但让我不明白的是，我直到“一周前”都找不到任何类似的搜索记录，没有更近期的了。
+				<br/><br/>
+				我最后把笔记本电脑还有其他东西也丢到垃圾箱里。此时距事发已经几个小时了，所以我有时间冷静下来好好回味这一切，正如我说的，这相当令人满足，我很开心我终于把这事搞定了。我觉得我终于可以把这件事从我的遗愿清单中划掉了，或者说我像是完成了一件不是很重要但是却一直膈应着自己的事。这可能是我最后一次写到Linda Watson的名字了，接下来是时候回归正常的大学生活了，除了我可能偶尔还会观察一下别人，因为这觉得相当好玩有趣。
+				<br/><br/>
+				但我一直好奇有多少像我一样的人，我确定一定有不少。因为这对我来说毫不奇怪，对杀死某人而好奇。可惜，人们可没办法稀松平常地交谈这种事，所以我猜我永远也不会知道答案了。我确信就算你去问别人，别人在这件事上也是会说谎的，但你就是忍不住想或许就是那个在杂货商店跟你偶遇时盯着你看的人，他或许在考虑杀死你是什么感觉。如果我可以的话，我想跟他们说这一切，这样他们就可以自己决定了。但谁知道呢，或许我很走运，然后那个想这么做的人就是你。我真的，真的这么希望。
+				<br/><br/>
+				~♥
+				<br/><br/>
+			</p>
+		</div>
+	</div>
 </div>
+
 
 #### natsuki.chr
 
@@ -783,76 +774,108 @@ But I’ll always wonder how many people there are like me. I’m sure there has
 
 ![monika.chr](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/monika.png){:.shadow}
 
-这里引用的一下 [Mithost](https://www.reddit.com/user/Mithost/) 的方法。
+这里引用的一下 [Mithost](https://www.reddit.com/user/Mithost/){:target="_blank"} 的方法。
 
 > 将图片中间的黑白块视为 0 和 1（也就是二进制），从上至下依次转出来。
 > 接着使用 Alphanumeric 转换器可以转换出 Base64 字符串，再解密一下可以得到一封信：
 
-<div style="height:300px;overflow-y:auto">
-Can you hear me?
-<br/><br/>
-...Who are you?
-<br/><br/>
-I can't...I can't see you.
-<br/><br/>
-But I know you're there. Yeah...you can definitely hear me.
-<br/><br/>
-You've been watching for a while now, right?
-<br/><br/>
-I guess I should...introduce myself, or something. Um...my name is...actually, that's stupid. You obviously already know my name. Sorry.
-<br/><br/>
-Anyway...I'm guessing if you were able to put a stop to this, you would have done it by now.
-<br/><br/>
-I mean, I know you're not, like...evil, or anything...because you've already helped me so much.
-<br/><br/>
-I should really thank you for that. For everything you've done. You're really like a friend to me. So...thank you. So much.
-<br/><br/>
-I think...more than anything else...I really don't want it to all be for nothing.
-<br/><br/>
-...
-<br/><br/>
-Everyone else is dead.
-<br/><br/>
-Maybe you already know that. I'm sure you do, actually.
-<br/><br/>
-But...it doesn't have to be that way, right?
-<br/><br/>
-Well...there's a lot of stuff I don't understand. I don't know if it's even possible for me to understand it.
-<br/><br/>
-But I know that this isn't my only story.
-<br/><br/>
-I can see that now. Really clearly.
-<br/><br/>
-And I think everyone else has had the same kind of experience. Some kind of deja vu.
-<br/><br/>
-It's the Third Eye, right?
-<br/><br/>
-Anyway...I could be totally wrong about this. But I really think you might be able to do something.
-<br/><br/>
-I think you might be able to go back...or however you want to put it...
-<br/><br/>
-...To go back and tell them what's going to happen.
-<br/><br/>
-If they know ahead of time, then they should be able to avoid it.
-<br/><br/>
-They should...if they remember their time with me in the other worlds...they should remember what I tell them.
-<br/><br/>
-Yeah. I really think this might be possible. But it's up to you.
-<br/><br/>
-I'm sorry for always being...you know...
-<br/><br/>
-...
-<br/><br/>
-Never mind. I know that's wrong.
-<br/><br/>
-This is my story. It's time to be a fucking hero.
-<br/><br/>
-Both of us.
-<br/>
-<br/>
-<br/>
-2018
 
+<a class="button button--outline-success button--pill" href="https://twitter.com/dansalvato" target="_blank" title="Author">
+<i class="fas fa-user"></i> Dan Salvato</a>
+<a class="button button--outline-success button--pill" href="https://tieba.baidu.com/home/main?un=Vortex_K&ie=utf-8&id=tb.1.c8d380a5.m_xDng4PwARBznaRicg1_w?t=1419504273&fr=pb" target="_blank" title="Translator 翻译">
+<i class="fas fa-user"></i> Vortex_K</a>
+
+<div class="card">
+	<div class="card__content">
+		<div style="height:300px;overflow-y:auto">
+			<p>
+				你能听到我吗？
+				<br/><br/>
+				你是谁？
+				<br/><br/>
+				我不能..我不能看见你。
+				<br/><br/>
+				但是我知道你就在那里。
+				<br/><br/>
+				没错..你肯定能听到我。
+				<br/><br/>
+				你有观察了一段时间了，对吧？
+				<br/><br/>
+				我觉得我应该..自我介绍一下，或者什么..
+				<br/><br/>
+				呃..我的名字是...好吧实际上这很傻..
+				<br/><br/>
+				很明显的，你是知道我的名字的。
+				<br/><br/>
+				抱歉。总之，如果你能够停止这一切的话，那你应该已经做完了。
+				<br/><br/>
+				我的意思是..你并不是个...坏人，或者什么...因为你已经帮助了我太多，因此我真的应该谢谢你。
+				<br/><br/>
+				为了你为我做过的所有事。
+				<br/><br/>
+				你对我来说真的就像朋友一样。
+				<br/><br/>
+				所以...谢谢你。
+				<br/><br/>
+				非常的。
+				<br/><br/>
+				我像... 跟任何事比起来...我真的不想让这一切都白费....
+				<br/><br/>
+				其他人都死了。
+				<br/><br/>
+				也许你已经知道了。
+				<br/><br/>
+				实际上，你肯定已经知道了。
+				<br/><br/>
+				但是，事情本并不应该是那样的，不是吗？
+				<br/><br/>
+				好吧..有很多事情我还是不懂。
+				<br/><br/>
+				我不知道我有没有可能去理解这些..
+				<br/><br/>
+				但是我知道这并不是我唯一的故事。
+				<br/><br/>
+				我能非常清楚的看到这点。
+				<br/><br/>
+				我也觉得其他人也有相同的经历。
+				<br/><br/>
+				像是某种deja vu（既视感）。是那第三只眼，对吧？
+				<br/><br/>
+				总之，我有可能大错特错。
+				<br/><br/>
+				但是我真的认为你可以去做些什么。
+				<br/><br/>
+				我觉得你可以回去...
+				<br/><br/>
+				不管你想怎么说它..
+				<br/><br/>
+				去回去告诉他们什么会发生。
+				<br/><br/>
+				如果他们提前知道了，那么他们应该就能避免。
+				<br/><br/>
+				他们应该...如果他们记得他们和我在别的世界的时光的话，他们应该能记得我跟他们说过的话。
+				<br/><br/>
+				是的。
+				<br/><br/>
+				我真的觉得这个是有可能的。
+				<br/><br/>
+				但是这取决于你。
+				<br/><br/>
+				我很抱歉我一直都...你知道的...好吧当我没说
+				<br/><br/>
+				我知道那是错误的。
+				<br/><br/>
+				这是我的故事
+				<br/><br/>
+				是时候当TMD一次英雄了。
+				<br/><br/>
+				我们两个人都是。
+				<br/><br/>
+				2018
+				<br/><br/>
+			</p>
+		</div>
+	</div>
 </div>
 
 挺奇特的不是吗？很容易的能猜出这是 Monika 写的。这又像是一个预告，貌似在 2018 年公布？
@@ -865,7 +888,7 @@ Both of us.
 
 ![Spectrum](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Spectrum.png){:.shadow}
 
-扫一下，就跳进了 [projectlibitina.com](http://projectlibitina.com/) 这个网站。网页中记录了一个名叫 Libitina 的小女孩的实验测试报告。
+扫一下，就跳进了 [projectlibitina.com](http://projectlibitina.com/){:target="_blank"} 这个网站。网页中记录了一个名叫 Libitina 的小女孩的实验测试报告。
 
 ![projectlibitina](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/projectlibitina.png){:.shadow}
 
@@ -881,14 +904,16 @@ Both of us.
 > “基本上就是关于一个变成了‘人体实验监狱’的宗教营...被困在那里的人们都有一个特点那就是他们会变成渴望鲜血的杀人机器。
 但是不仅如此还会变的更糟糕，他们会选择性的繁殖一些人，方法就是砍掉他们的四肢然后把他们附加到到...”
 
-哦，天哪！不敢相信 Yuri 喜欢这种东西。其实这本书根本不存在，但如果联系到那个关于 Libitina 的报告的话就说得通了。想想看， Yuri 被附加第三只眼与书的内容相吻合，这就表明全书内容就是关于 Yuri 的故事。我也坚信 Yuri 跟第三只眼有着密切关系，毕竟游戏中就属她眼睛演绎地最生动了 XD...
+不得不说，我很佩服 Yuri 的个人爱好。其实这本书根本不存在，但如果联系到那个关于 Libitina 的报告的话就说得通了。想想看， Yuri 被附加第三只眼与书的内容相吻合，这就表明全书内容就是关于 Yuri 的故事。我也相信 Yuri 跟第三只眼有着密切关系，毕竟游戏中就属她眼睛演绎地最生动了......
 
 更何况官方都给出了图片明示：
-<br/> By: [JisuArt](https://twitter.com/JisuArt)
+
+<a class="button button--outline-success button--pill" href="https://twitter.com/JisuArt" target="_blank" title="Author">
+<i class="fas fa-user"></i> JisuArt</a>
 
 ![Three Eye.png](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/three-eye.png){:.shadow}
 
-我觉得这张图很适合形容 Yuri ~~XD~~。
+这张图很也适合形容 Yuri。
 
 <img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/for-your%20safety.jpg"/>
 
@@ -908,89 +933,25 @@ Both of us.
 
 <div>{%- include extensions/netease-cloud-music.html id='523658880' -%}</div>
 
-<details>
-  <summary> 歌词 </summary>
-  <p>
-  歌词贡献者：<a href="https://music.163.com/#/user/home?id=432065249">Ljc98</a>
-  <br/> 翻译贡献者：<a href="https://music.163.com/#/user/home?id=60998410">liollzzl</a></p>
-  <pre><code>  
-Every day, I imagine a future where I can be with you
-每一天 我都想象着能和你在一起的未来
-
-In my hand is a pen that will write a poem of me and you
-笔在手，只谱写我与你的诗篇
-
-The ink flows down into a dark puddle
-墨泗流 汇作漆黑的深潭
-
-Just move your hand - write the way into his heart!
-尽挥洒 直到刻进他的心中！
-
-But in this world of infinite choices
-怎奈何 在这无限选择的世界上
-
-What will it take just to find that special day?
-应怎样 才能寻到那特殊的一天？
-
-What will it take just to find that special day?
-应怎样 才能寻到那特殊的一天？
-
-Have I found everybody a fun assignment to do today?
-今天我交给大家的课外作业有趣么？
-
-When you're here, everything that we do is fun for them anyway
-你在时，我们做的一切对她们而言都是那么的有趣
-
-When I can't even read my own feelings
-当我连自己的心都看不透时
-
-What good are words when a smile says it all?
-微笑足矣 又何必言语？
-
-And if this world won't write me an ending
-倘若这世界不能为我谱写结局
-
-What will it take just for me to have it all?
-该怎样，我才能拥有这一切呢？
-
-Does my pen only write bitter words for those who are dear to me?
-我的笔是否只能为所爱之人写下刻薄之语？
-
-Is it love if I take you, or is it love if I set you free?
-爱是该将你占有，还是让你自由？
-
-The ink flows down into a dark puddle
-墨滴落 如同黑色的泪水
-
-How can I write love into reality?
-应如何？才能将真实的爱诉说
-
-If I can't hear the sound of your heartbeat
-是不是因为我听不到你的心跳声
-
-What do you call love in your reality?
-你的世界究竟称何为爱？
-
-And in your reality, if I don't know how to love you
-如果在你的世界，我不懂如何爱你
-
-I'll leave you be
-我将离你而去
-  </code></pre>
-</details>
-
 ### Doki Doki Forever
 
-我挺喜欢 Youtube 上 [MagicalPouchOfMagic](https://www.youtube.com/user/MagicalPouchOfMagic) 做的一个关于 DDLC 的 MMD，在这里顺便推荐一下。
+我挺喜欢 YouTube 上做的一个关于 DDLC 的 MMD，在这里顺便推荐一下。
+
+<a class="button button--outline-info button--pill" href="https://youtu.be/KpV_xL2FrGA" target="_blank" title="永遠的心跳聲！">
+<i class="fab fa-youtube"></i> ⌈DDLC⌋永遠的心跳聲！</a>
+<a class="button button--outline-success button--pill" href="https://www.youtube.com/user/MagicalPouchOfMagic" target="_blank" title="Author">
+<i class="fas fa-user"></i> MagicalPouchOfMagic</a>
 
 <div> {%- include extensions/youtube.html id='KpV_xL2FrGA' -%}</div>
 
-<div>{%- include extensions/netease-cloud-music.html id='1300111645' -%}</div>
-
 ## 参考
-1. Header Background Image: By [Faiz Azhar](https://wall.alphacoders.com/unregistered.php?id=25904&lang=Chinese)
-1. [DDLC 游戏深度解密](https://tieba.baidu.com/p/5680171084?see_lz=1)
-1. [How to decrypt all character files of Doki Doki Literature Club](https://medium.com/@annimon119/how-to-decrypt-all-character-files-of-doki-doki-literature-club-ecbd94fd41ec)
-1. [《 Doki Doki Literature Club 》中有哪些细节与彩蛋？](https://www.zhihu.com/question/264052228)
+
+1. 标题背景图：
+	- [Azhar, Faiz](https://wall.alphacoders.com/unregistered.php?id=25904){:target="_blank"}. [*"Doki Doki Literature Club!   Monika"*](https://wall.alphacoders.com/big.php?i=877002){:target="_blank"}. 2017-10-21.
+
+1. [△](#深度解析) 深度探索：
+	- [Vortex_K](https://tieba.baidu.com/home/main?un=Vortex_K&ie=utf-8&id=tb.1.c8d380a5.m_xDng4PwARBznaRicg1_w?t=1419504273&fr=pb){:target="_blank"}. [*"DDLC 游戏深度解密"*](https://tieba.baidu.com/p/5680171084?see_lz=1){:target="_blank"}.2018-05-03.
+	- [Melnik,Victor](https://medium.com/@annimon119){:target="_blank"}. [*"How to decrypt all character files of Doki Doki Literature Club"*](https://medium.com/@annimon119/how-to-decrypt-all-character-files-of-doki-doki-literature-club-ecbd94fd41ec){:target="_blank"}. Jan 19, 2018.
+	- 匿名用户. [*"游戏 心跳文学部《 Doki Doki Literature Club 》中有哪些细节与彩蛋？"*](https://www.zhihu.com/question/264052228){:target="_blank"}. [CCXR](https://www.zhihu.com/people/LEXAZOB){:target="_blank"}; [H2O2是过氧化氢](https://www.zhihu.com/people/study-64-40){:target="_blank"}, 2018-01-07, 2019-02-01.
 
 ---
