@@ -157,7 +157,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
 	<div class="item__image">
-		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Sayori Poem 01.png"/>
+		<img class="image image--sm" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Sayori Poem 01.png"/>
 	</div>
 	<div class="item__content">
 		<div class="item__header">
@@ -181,8 +181,8 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
 	<div class="item__image">
-		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika Poem 01.png"/>
-		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika Poem 02.png"/>
+		<img class="image image--sm" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika Poem 01.png"/>
+		<img class="image image--sm" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika Poem 02.png"/>
 	</div>
 	<div class="item__content">
 		<div class="item__header">
@@ -204,7 +204,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
 	<div class="item__image">
-		<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Natsuki 01.png"/>
+		<img class="image image--lg" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Natsuki 01.png"/>
 	</div>
 	<div class="item__content">
 		<div class="item__header">
@@ -228,9 +228,9 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
 	<div class="item__image">
-		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 01.png"/>
-		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 02.png"/>
-		<br/><img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 02X.png"/>
+		<img class="image image--sm" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 01.png"/>
+		<img class="image image--sm" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 02.png"/>
+		<br/><img class="image image--sm" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 02X.png"/>
 	</div>
 	<div class="item__content">
 		<div class="item__header">
@@ -255,8 +255,8 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
 	<div class="item__image">
-		<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/special poem01.jpg"/>
-		<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/special poem01x.png"/>
+		<img class="image image--lg" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/special poem01.jpg"/>
+		<img class="image image--lg" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/special poem01x.png"/>
 	</div>
 	<div class="item__content">
 		<div class="item__header">
@@ -629,7 +629,7 @@ CHR 类型文件在 `...\Doki Doki Literature Club\characters` 文件目录下�
 
 用记事本打开它，你能发现满页的 Base64 编码后的字符。
 
-<img class="image image--xl" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/yuri.chr.png"/>
+<img class="image image--xl" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/yuri.chr.png"/>
 
 通过解码后得到一篇文章。
 
@@ -782,7 +782,7 @@ CHR 类型文件在 `...\Doki Doki Literature Club\characters` 文件目录下�
 
 <a class="button button--outline-success button--pill" href="https://twitter.com/dansalvato" target="_blank" title="Author">
 <i class="fas fa-user"></i> Dan Salvato</a>
-<a class="button button--outline-success button--pill" href="https://tieba.baidu.com/home/main?un=Vortex_K&ie=utf-8&id=tb.1.c8d380a5.m_xDng4PwARBznaRicg1_w?t=1419504273&fr=pb" target="_blank" title="Translator 翻译">
+<a class="button button--outline-success button--pill" href="https://tieba.baidu.com/home/main?un=Vortex_K&ie=utf-8&id=tb.1.c8d380a5.m_xDng4PwARBznaRicg1_w?t=1419504273&fr=pb" target="_blank" title="Translator">
 <i class="fas fa-user"></i> Vortex_K</a>
 
 <div class="card">
