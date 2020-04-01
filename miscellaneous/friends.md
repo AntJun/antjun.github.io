@@ -59,7 +59,7 @@ aside:
       <div> 
         <div class="item"> 
 <div class="item__image" markdown="1"> 
-  <img class="image image--sm" src="https://tding.top/images/avatar.webp"/>{:.border.rounded}
+  <img class="image image--sm" src="/images/loading.gif" data-src="https://tding.top/images/avatar.webp"/>{:.border.rounded}
 </div>  
           <div class="item__content"> 
             <div class="item__description"> 
@@ -77,7 +77,7 @@ aside:
       <div> 
         <div class="item"> 
 <div class="item__image" markdown="1"> 
-  <img class="image image--sm" src="https://blog.honoka.club/images/avatar.jpg"/>{:.border.rounded}
+  <img class="image image--sm" src="/images/loading.gif" data-src="https://blog.honoka.club/images/avatar.jpg"/>{:.border.rounded}
 </div>  
           <div class="item__content"> 
             <div class="item__description"> 
@@ -95,7 +95,7 @@ aside:
       <div> 
         <div class="item"> 
 <div class="item__image" markdown="1"> 
-  <img class="image image--sm" src="https://www.littleqiu.net/wp-content/uploads/2018/01/Avatar.png"/>{:.border.rounded}
+  <img class="image image--sm" src="/images/loading.gif" data-src="https://www.littleqiu.net/wp-content/uploads/2018/01/Avatar.png"/>{:.border.rounded}
 </div>  
           <div class="item__content"> 
             <div class="item__description"> 
@@ -113,7 +113,7 @@ aside:
       <div> 
         <div class="item"> 
 <div class="item__image" markdown="1"> 
-  <img class="image image--sm" src="http://6sheep.gitee.io/10101.demo/comic/10101/headshot/0%20(2).png"/>{:.border.rounded}
+  <img class="image image--sm" src="/images/loading.gif" data-src="http://6sheep.gitee.io/10101.demo/comic/10101/headshot/0%20(2).png"/>{:.border.rounded}
 </div>  
           <div class="item__content"> 
             <div class="item__description"> 
@@ -131,7 +131,7 @@ aside:
       <div> 
         <div class="item"> 
 <div class="item__image" markdown="1"> 
-  <img class="image image--sm" src="https://gravatar.loli.net/avatar/5e6892e999ca8c85a358d21164167f38?s=128"/>{:.border.rounded}
+  <img class="image image--sm" src="/images/loading.gif" data-src="https://gravatar.loli.net/avatar/5e6892e999ca8c85a358d21164167f38?s=128"/>{:.border.rounded}
 </div>  
           <div class="item__content"> 
             <div class="item__description"> 
@@ -149,7 +149,7 @@ aside:
       <div> 
         <div class="item"> 
 <div class="item__image" markdown="1"> 
-  <img class="image image--sm" src="https://zzlake.com/storage/2017/04/Avatar_Dennis-RoundCorner_PNG.png"/>{:.border.rounded}
+  <img class="image image--sm" src="/images/loading.gif" data-src="https://zzlake.com/storage/2017/04/Avatar_Dennis-RoundCorner_PNG.png"/>{:.border.rounded}
 </div>  
           <div class="item__content"> 
             <div class="item__description"> 
@@ -167,7 +167,7 @@ aside:
       <div> 
         <div class="item"> 
 <div class="item__image" markdown="1"> 
-  <img class="image image--sm" src="https://www.drblack-system.com/wp-content/themes/Kratos-dr/images/photo.jpg"/>{:.border.rounded}
+  <img class="image image--sm" src="/images/loading.gif" data-src="https://www.drblack-system.com/wp-content/themes/Kratos-dr/images/photo.jpg"/>{:.border.rounded}
 </div>  
           <div class="item__content"> 
             <div class="item__description"> 
