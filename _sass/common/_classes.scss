@@ -1,4 +1,6 @@
 /* stylelint-disable at-rule-name-space-after, at-rule-semicolon-space-before  */
+/* 规定允许允许的 CSS 文件，列表之外的文件将被禁用  */
+
 @charset "utf-8";
 @import
   "common/classes/animation",
@@ -19,6 +21,8 @@
   "common/classes/shadow",
   "common/classes/spacing",
   "common/classes/split-line",
+  "common/classes/grid",
+
   "common/classes/fade-in-words",
   "common/classes/overflow-scroll-gradient",
   "common/classes/APlayer.min",
@@ -26,8 +30,7 @@
   "common/classes/loading-text-effect",
   "common/classes/text-shadow-effects",
   "common/classes/font-awesome.min",
-  "common/classes/scrollbar",
-  "common/classes/progress-bar",
-  "common/classes/grid"
+  "common/classes/scrollbar"
 ;
+
 /* stylelint-enable */

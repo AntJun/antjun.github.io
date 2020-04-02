@@ -1,40 +1,9 @@
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
-/* html {
-  scroll-behavior: smooth;
-} */
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
-  background-color: #fff;
-  color: #333;
-}
-.container {
-  padding: 20px 150px;
-}
-h1 {
-  font-size: 32px;
-  margin: 20px 0;
-}
-h2 {
-  font-size: 26px;
-}
-hr {
-	margin: 40px 0;
-}
-p {
-  margin-bottom: 30px;
-  line-height: 1.4em;
-  text-align: justify;
-}
+
 #back-to-top-btn {
   display: none;
   position: fixed;
   bottom: 20px;
-  right: 20px;
+  right: 60px;
   font-size: 15.6px;
   width: 30px;
   height: 30px;
@@ -54,6 +23,8 @@ p {
   color: #fff;  
 }
 
+// 自适应调整
+/*
 @media(max-width: 992px) {
   .container { padding: 20px 100px; }
   #back-to-top-btn { font-size: 22px; width: 40px; height: 40px; bottom: 15px; right: 15px; }
@@ -66,6 +37,7 @@ p {
   hr { margin: 30px 0; }
   #back-to-top-btn { font-size: 18px; width: 32px; height: 32px; bottom: 6px; right: 6px; }
 }
+*/
 
 /* Animations */
 .btnEntrance {
