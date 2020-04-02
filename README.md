@@ -1,10 +1,12 @@
 ## About This Site
 
 Blog using [Jekyll](http://jekyllcn.com/), build with [Text](https://tianqi.name/jekyll-TeXt-theme/) theme.
-<br/> Author: <span style="color:red;">[@kitian616](https://github.com/kitian616)</span>
-<br/> [<span style="color:red;">AntJun's Blog secure link</span>](https://www.antjun.com/)
-ngl
-**[Change Log](https://github.com/AntJun/antjun.blog/blob/master/CHANGELOG.md)** | **[中文](https://github.com/AntJun/antjun.blog/blob/master/README-ZH.md)**
+
+Author: <span style="color:red;">[@kitian616](https://github.com/kitian616)</span>
+
+[<span style="color:red;">AntJun's Blog secure link</span>](https://www.antjun.com/)
+
+**[Change Log](https://github.com/AntJun/antjun.blog/blob/master/CHANGELOG.md)** | **[中文](https://github.com/AntJun/antjun.blog/blob/master/README-zh.md)**
 
 ### Demo Pages
 

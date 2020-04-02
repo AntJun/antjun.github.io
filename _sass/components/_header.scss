@@ -13,6 +13,7 @@
   }
 }
 
+/* 深色文字配置 */
 .header--dark {
   @extend .text--dark;
   background: rgba(#000, .55);
@@ -23,6 +24,7 @@
   }
 }
 
+/* 亮色文字配置 */
 .header--light {
   @extend .text--light;
   background: rgba(#fff, .55);

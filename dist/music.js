@@ -3,7 +3,7 @@ const ap = new APlayer({
     fixed: true,
     autoplay: false,
 	lrcType: 3,
-	theme: '#b7daff',
+	theme: '#DC143C',
     audio: [
       {
         name: 'Axolotl',
@@ -75,4 +75,3 @@ const ap = new APlayer({
         lrc: '/dist/LRC/none.lrc',
     }]
 });
-

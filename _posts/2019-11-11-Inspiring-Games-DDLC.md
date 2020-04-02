@@ -118,20 +118,20 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="swiper my-3 swiper-demo swiper-demo--image swiper-demo--3">
 	<div class="swiper__wrapper">
-		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Browse-carefully.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/01.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/02.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/03.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/004.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/005.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/006.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/007.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/008.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/009.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/010.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/001.jpg"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/002.jpg"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/003.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Browse-carefully.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/01.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/02.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/03.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/004.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/005.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/006.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/007.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/008.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/009.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/010.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/001.jpg"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/002.jpg"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/003.png"/></div>
 	</div>
 	<div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
 	<div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
@@ -157,7 +157,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
 	<div class="item__image">
-		<img class="image image--sm" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Sayori Poem 01.png"/>
+		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Sayori Poem 01.png"/>
 	</div>
 	<div class="item__content">
 		<div class="item__header">
@@ -181,8 +181,8 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
 	<div class="item__image">
-		<img class="image image--sm" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika Poem 01.png"/>
-		<img class="image image--sm" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika Poem 02.png"/>
+		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika Poem 01.png"/>
+		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika Poem 02.png"/>
 	</div>
 	<div class="item__content">
 		<div class="item__header">
@@ -204,7 +204,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
 	<div class="item__image">
-		<img class="image image--lg" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Natsuki 01.png"/>
+		<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Natsuki 01.png"/>
 	</div>
 	<div class="item__content">
 		<div class="item__header">
@@ -228,9 +228,9 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
 	<div class="item__image">
-		<img class="image image--sm" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 01.png"/>
-		<img class="image image--sm" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 02.png"/>
-		<br/><img class="image image--sm" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 02X.png"/>
+		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 01.png"/>
+		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 02.png"/>
+		<br/><img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 02X.png"/>
 	</div>
 	<div class="item__content">
 		<div class="item__header">
@@ -255,8 +255,8 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
 	<div class="item__image">
-		<img class="image image--lg" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/special poem01.jpg"/>
-		<img class="image image--lg" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/special poem01x.png"/>
+		<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/special poem01.jpg"/>
+		<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/special poem01x.png"/>
 	</div>
 	<div class="item__content">
 		<div class="item__header">
@@ -629,7 +629,7 @@ CHR 类型文件在 `...\Doki Doki Literature Club\characters` 文件目录下�
 
 用记事本打开它，你能发现满页的 Base64 编码后的字符。
 
-<img class="image image--xl" src="/images/loading.gif" data-src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/yuri.chr.png"/>
+<img class="image image--xl" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/yuri.chr.png"/>
 
 通过解码后得到一篇文章。
 
@@ -925,13 +925,35 @@ CHR 类型文件在 `...\Doki Doki Literature Club\characters` 文件目录下�
 
 ## 游戏主题曲/音乐
 
+<link rel="stylesheet" href="/dist/APlayer.min.css">
+<div id="Audio"></div>
+<script src="/dist/APlayer.min.js"></script>
+<script>
+const ap = new APlayer({
+    container: document.getElementById('Audio'),
+    autoplay: false,
+    lrcType: 3,
+    audio: [{
+        name: 'Your Reality',
+        artist: 'Dan Salvato / Jillian Ashcraft',
+        url: 'https://link.hhtjim.com/163/523658880.mp3',
+        cover: 'http://p2.music.126.net/ghX7rNUU76E2Smbdn66tDA==/109951163112595927.jpg',
+        lrc: '/dist/LRC/Your Reality - Dan Salvato, Jillian Ashcraft.lrc'
+    },{
+        name: '永远的文学部~Doki Doki Forever',
+        artist: 'Android233 / CHI-CHI / Rachie / OR3O / Kathy-chan',
+        url: 'https://link.hhtjim.com/163/545904228.mp3',
+        cover: 'http://p2.music.126.net/znrPiEufQsk2dFjeRzsTsA==/109951163151121215.jpg',
+        lrc: '/dist/LRC/Doki Doki Forever.lrc'
+    }]
+});
+</script>
+
 ### Your Reality
 
 *Your Reality* 是在游戏完成三周目最后播放的一段音乐。
 
 顺便一提，在完美结局中最后播放的视频不会删除角色立绘，并且在最后会得到 Team Salvato 写给玩家的信。
-
-<div>{%- include extensions/netease-cloud-music.html id='523658880' -%}</div>
 
 ### Doki Doki Forever
 
