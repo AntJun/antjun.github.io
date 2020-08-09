@@ -16,9 +16,11 @@ function scrollFunction() {
     if(backToTopButton.classList.contains("btnEntrance")) {
       backToTopButton.classList.remove("btnEntrance");
       backToTopButton.classList.add("btnExit");
+	  /* 设置消失时间（多余）
       setTimeout(function() {
         backToTopButton.style.display = "none";
       }, 250);
+	  */
     }
   }
 }

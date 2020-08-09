@@ -162,15 +162,6 @@
   }
 }
 
-
-
-
-
-
-
-
-
-
 /* Tidio Talk */
 .tidio-btn {
   position: fixed;
@@ -190,7 +181,7 @@
   transition-timing-function: ease-in-out;
   transition-property: background-color, color;
 }
-.tidio-btn:hover, .tidio-btn:focus {
+.tidio-btn:hover {
   background-color: #333;
   color: #fff;  
 }
@@ -210,38 +201,23 @@
 }
 */
 
-
-
-
-
-
-
-.mouse-cursor-gradient-tracking {
-  position: relative;
-  background: #7983ff;
-  padding: 0.5rem 1rem;
-  font-size: 1.2rem;
-  border: none;
-  color: white;
+/* Theme color change */
+.tidio-btn {
+  font-size: 15.6px;
+  width: 30px;
+  height: 30px;
+  background-color: #fff;
+  color: #333;
   cursor: pointer;
   outline: none;
-  overflow: hidden;
+  border: 0px solid #fff;
+  border-radius: 10%;
+  box-shadow: 2px 2px 2px black;
+  transition-duration: 0.2s;
+  transition-timing-function: ease-in-out;
+  transition-property: background-color, color;
 }
-.mouse-cursor-gradient-tracking span {
-  position: relative;
-}
-.mouse-cursor-gradient-tracking::before {
-  --size: 0;
-  content: '';
-  position: absolute;
-  left: var(--x);
-  top: var(--y);
-  width: var(--size);
-  height: var(--size);
-  background: radial-gradient(circle closest-side, pink, transparent);
-  transform: translate(-50%, -50%);
-  transition: width 0.2s ease, height 0.2s ease;
-}
-.mouse-cursor-gradient-tracking:hover::before {
-  --size: 200px;
+.tidio-btn:hover {
+  background-color: #333;
+  color: #fff;  
 }

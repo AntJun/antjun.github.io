@@ -195,15 +195,15 @@ aside:
 <b><i class="fas fa-info"></i> 友链申请需求</b>
 <br/> 1. 可以访问且内容持续更新
 <br/> 2. 网站页面整洁，无繁杂广告
-<br/> 3. 不涉及违法内容
+<br/> 3. 不涉及违反《中华人民共和国网络安全法》的相关内容
 {:.warning}
 
 <b><i class="fas fa-plus-circle"></i> 友链申请格式</b>
 <br/>如果你想与我互换友链，可以随时联系我或在此页下方以以下格式评论。
-<br/> 1. 网站名称：(eg: @ 音乃木坂 Coffee House)
-<br/> 2. 网站地址：(eg: [https://www.antjun.com/](https://www.antjun.com/))
-<br/> 3. 网站简介：(eg: Welcome to Akira_Ant's Blog)
-<br/> 4. 网站头像：(eg: [https://www.antjun.com/images/temphead1.jpg](https://www.antjun.com/images/temphead-1.jpg))
+<br/> 1. 网站名称：(e.g. @ 音乃木坂 Coffee House)
+<br/> 2. 网站地址：(e.g. [https://www.antjun.com/](https://www.antjun.com/))
+<br/> 3. 网站简介：(e.g. Welcome to Akira_Ant's Blog)
+<br/> 4. 网站头像：(e.g. [https://www.antjun.com/images/temphead1.jpg](https://www.antjun.com/images/temphead-1.jpg))
 {:.success}
 
 ---
