@@ -2,8 +2,9 @@
 title: Inspiring Games - Doki Doki Lierature Club
 tags: ["杂谈", "游戏", "评鉴"]
 key: 100002
-cover: https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Cover-Natsuki.png
+cover: /images/landing-cover/2019-11-11-Natsuki.png
 author: Akira Ant
+modify_date: 2020-01-12
 article_header:
   type: overlay
   theme: dark
@@ -28,20 +29,20 @@ article_header:
 
 ## 为什么谈论这个游戏
 
-DDLC(Doki Doki Literature Club) ——世界一流的视觉小说。这款游戏早在2017年刚发行时我就体验过，尽管在当时我并没有完全通关，但我对于游戏本身有了一定的了解。最近由于 Steam UI 的更新把我之前很多放着吃灰的小游戏都直接显示在了库内，我又再次找到了这个特别的游戏并重新玩了一遍。我发现它这玩意是真的「振奋人心」，不说了，我先去吃粒速效救心丸……
+Doki Doki Literature Club（心跳文学部）以下简称 DDLC 。这款游戏早在 2017 年刚发行时我就体验过，尽管在当时我并没有完全通关，但我对于游戏本身有了一定的了解。最近由于 Steam UI 的更新把我之前很多放着吃灰的小游戏都直接显示在了库内，我又再次找到了这个特别的游戏并重新玩了一遍。我发现它这玩意是真的「振奋人心」，不说了，我先去吃粒速效救心丸……
 
-这大概是我第一次接触到那么让我震撼的 Metagame（原谅本人浅见寡识，没玩过 Infinity 三部曲之类的经典），另一个则是 Undertale。
+这大概是我第一次接触到那么让我震撼的 Metagame（原谅本人浅见寡识，没玩过太多经典），另一个则是 Undertale。
 
 ## 介绍
 
 **<span style="color:red;"> 注意：本篇文章含有大量剧透内容！ </span>**
-**<span style="color:red;"><br/> 建议先游玩游戏后再看此文章！ </span>**
+**<span style="color:red;"><br/> 建议游玩游戏后再看此文章！ </span>**
 {:.warning}
 
-DDLC 在 Steam 上的宣传有面带着和善笑容的四个可爱女孩子，粉色的主题，优雅的音乐，再加上一个普通的 Gal 游戏介绍，一看就必定跟恋爱之类的扯上关系。
+DDLC 在 Steam 上的宣传有面带着和善笑容的四个可爱女孩子，粉色的主题，优雅的音乐，再加上一个普通的 Gal 游戏介绍，一看就必定跟校园恋爱之类的扯上关系。
 可 Steam 上的 `Psychological Horror` 标签出卖了它，但你能想象这是个恐怖游戏吗？相比于「灯穗奇谈」、「梦幻廻廊」抑或是「尸体派对」之类的恐怖 Gal，这个游戏没有像他们那样给玩家带来极度黑暗的心理扭曲，而它却给了我一种莫名的难受。
 
-其实早些时候听说过那些忽悠人的游戏推荐，我当初并没有详细了解游戏，只是单纯被封面和免费二字所吸引。直到看到「晴天娃娃」才知道它的威慑力。 
+其实早些时候听说过那些忽悠人的游戏推荐，我当初并没有详细了解游戏，只是单纯被封面和免费二字所吸引。直到看到「晴天娃娃」才知道它的威力。 
 
 一上来与其他的文字冒险游戏没什么两样，男主与邻居 Sayori 一同上学。在文学部的其他 4 位成员（分别是部长 Monika、副部长 Sayori 和其它两位成员 Yuri 与 Natsuki）的煽动下男主被迫入部。在部长 Monika 的要求下各个成员每天都需要与其它人交换各自的诗。但随着你与部员的感情的升华，事情也渐渐变得奇怪……
 
@@ -57,7 +58,7 @@ DDLC 在 Steam 上的宣传有面带着和善笑容的四个可爱女孩子，�
 <div> {%- include extensions/youtube.html id='kB1663FTpzU' -%}</div>
 
 
-<a class="button button--outline-info button--pill" href="https://www.youtube.com/watch?v=mGZC61dBIWg" target="_blank" title="把恐怖游戏玩成搞笑游戏的家伙">
+<a class="button button--outline-info button--pill" href="https://www.youtube.com/watch?v=mGZC61dBIWg" target="_blank" title="游戏流程录像">
 <i class="fab fa-youtube"></i> RESPECT WHAMEN: THE GAME. Doki Doki Literature Club</a>
 <a class="button button--outline-success button--pill" href="https://www.youtube.com/user/PewDiePie" target="_blank" title="Author">
 <i class="fas fa-user"></i> Pewdiepie</a>
@@ -74,7 +75,7 @@ DDLC 在 Steam 上的宣传有面带着和善笑容的四个可爱女孩子，�
 
 ## 深度探索
 
-很多人认为这是一款 Galgame，但我觉得如果用视觉小说 (Visual Novel) 来称呼它的话会更贴切。虽说官方在预告片中忽悠的有模有样，但我觉得游戏更主要的是在于探索。玩这个游戏就像在阅读一个恐怖惊悚的视觉小说，也有人称它为「大型预告片」。因为这个被彩蛋及暗示包裹着的游戏就像是个披着羊皮的狼。但这也是它的魅力之一，神秘的剧情和深奥的解密总会让些「探索者」们心动……
+很多人认为这是一款 Galgame，但我觉得如果用视觉小说来称呼它的话会更贴切。虽说官方在预告片中忽悠的有模有样，不过我觉得游戏更主要的是在于探索，玩这个游戏就像在阅读一个恐怖惊悚的视觉小说；也有人称它为「大型预告片」，因为这个被彩蛋及暗示包裹着的游戏就像是个披着羊皮的狼。整篇下来没有像考场上憋不出作文的考生一样写啰嗦话，给人的体验就像是饥渴难耐的老二被泼了开水一般刺激。但这也是它的魅力之一，如果只是把它当成 galgame 玩的话，说不定很多人就会对剧情一知半解，而你做的是要「跳出游戏」了解它向我们展示的更深层的内容。
 
 下面是一些我收集到关于此游戏的深层内容及隐藏文件等（部分来源已注明）。
 
@@ -176,7 +177,6 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 		</div>
 	</div>
 </div>
-
 ---
 
 <div class="item">
@@ -199,7 +199,6 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 		</div>
 	</div>
 </div>
-
 ---
 
 <div class="item">
@@ -223,7 +222,6 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 		</div>
 	</div>
 </div>
-
 ---
 
 <div class="item">
@@ -250,7 +248,6 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 		</div>
 	</div>
 </div>
-
 ---
 
 <div class="item">
@@ -271,7 +268,6 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 		</div>
 	</div>
 </div>
-
 ---
 
 ### 只属于你的 Monika
@@ -284,9 +280,9 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 游戏中的 Monika 向你展示了她有多爱你，为了讨好你不停讲情话，为了占据你删除其它女主，为了原谅你恢复游戏数据……
 
-在聊天中，她告诉了我们关于面对生活的一些建议。
+在聊天中，她告诉了我们关于面对生活的一些建议。虽然都是一些听腻的鸡汤文，但是却很有亲切感。
 
-#### 养成好习惯
+#### 习惯
 
 > “我讨厌习惯养成的难度...”
 > 
@@ -310,7 +306,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 > 
 > “祝你好运！”
 
-#### 面对生活
+#### 活着
 
 > “你有过那种'我活着有什么意义'的想法吗？”
 > 
@@ -354,7 +350,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 > 
 > “啊哈哈！”
 
-#### 对待抑郁症群体
+#### 抑郁症
 
 > “你要知道，高中是许多人一生中过得最动荡的时光。”
 > 
@@ -416,7 +412,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 > 
 > “但只要亲爱的你和我在一起，我会负责照顾你的～”
 
-#### 面对烦躁
+#### 烦躁
 
 > “...嘿，你今天是不是过得不太顺？”
 > 
@@ -446,7 +442,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 > 
 > “如果你不幸地过着很糟的一天，你永远可以来找我，只要你愿意，我会一直和你聊下去。”
 
-#### 渴望被爱
+#### 官方推广
 
 > “你知道我有在用推特吗？”
 > 
@@ -508,7 +504,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 面对面看着 Monika 与你交流，有种「近在咫尺却无法触及」的感觉，不是吗？
 
-#### 进行互动
+#### 互动
 
 如果检测到你在运行游戏时有直播软件，她会给你做鬼脸。
 
@@ -629,11 +625,7 @@ CHR 类型文件在 `...\Doki Doki Literature Club\characters` 文件目录下�
 
 用记事本打开它，你能发现满页的 Base64 编码后的字符。
 
-<img class="image image--xl" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/yuri.chr.png"/>
-
-通过解码后得到一篇文章。
-
-这篇文章是 Dan Salvato 本人曾经写的短篇故事。
+通过解码后得到一篇 Dan Salvato 本人曾经写的短篇故事。
 
 <a class="button button--outline-success button--pill" href="https://weibo.com/u/2436385964" target="_blank" title="Translator"><i class="fas fa-user"></i> EstasVii</a>
 
@@ -749,7 +741,9 @@ CHR 类型文件在 `...\Doki Doki Literature Club\characters` 文件目录下�
 
 用记事本打开，发现都是乱码。
 
-![natsuki.chr](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/natsuki.chr.png){:.shadow}
+```
+
+```
 
 我们能看到第一行就出现了 JFIF 的后缀信息（也就是 JEPG 格式），这是文件头的魔数（Magic Number），即使即使文件的后缀名被错误地更改过，我们仍能根据它的值判断文件的类型。你也可以使用 linux 的 file 指令查看每个文件的详细信息（Windows 下安装同源的 gnu 程序之后也可以查看）。
 
@@ -913,21 +907,16 @@ CHR 类型文件在 `...\Doki Doki Literature Club\characters` 文件目录下�
 
 ![Three Eye.png](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/three-eye.png){:.shadow}
 
-这张图很也适合形容 Yuri。
-
-<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/for-your%20safety.jpg"/>
-
 ### 其它
 
 关于游戏此外的信息，因为已经有其它玩家写了更详细的解说，这里将不过多赘述。可以参考其它探索者们的推论。
 
-话说我已经看了这么多理论家讨论官方出下部游戏的推论，但都过去两年多了我什么也没看到啊……
+话说我已经看了这么多理论家讨论官方出下部游戏的推论，但都过去两年多了我依旧没得到什么新作消息。
 
 ## 游戏主题曲/音乐
 
-<link rel="stylesheet" href="/dist/APlayer.min.css">
 <div id="Audio"></div>
-<script src="/dist/APlayer.min.js"></script>
+<script src="/plugins/aplayer/APlayer.min.js"></script>
 <script>
 const ap = new APlayer({
     container: document.getElementById('Audio'),
@@ -938,13 +927,13 @@ const ap = new APlayer({
         artist: 'Dan Salvato / Jillian Ashcraft',
         url: 'https://link.hhtjim.com/163/523658880.mp3',
         cover: 'http://p2.music.126.net/ghX7rNUU76E2Smbdn66tDA==/109951163112595927.jpg',
-        lrc: '/dist/LRC/Your Reality - Dan Salvato, Jillian Ashcraft.lrc'
+        lrc: '/plugins/aplayer/LRC/posts/Your Reality - Dan Salvato, Jillian Ashcraft.lrc'
     },{
         name: '永远的文学部~Doki Doki Forever',
         artist: 'Android233 / CHI-CHI / Rachie / OR3O / Kathy-chan',
         url: 'https://link.hhtjim.com/163/545904228.mp3',
         cover: 'http://p2.music.126.net/znrPiEufQsk2dFjeRzsTsA==/109951163151121215.jpg',
-        lrc: '/dist/LRC/Doki Doki Forever.lrc'
+        lrc: '/plugins/aplayer/LRC/posts/Doki Doki Forever.lrc'
     }]
 });
 </script>
@@ -957,7 +946,7 @@ const ap = new APlayer({
 
 ### Doki Doki Forever
 
-我挺喜欢 YouTube 上做的一个关于 DDLC 的 MMD，在这里顺便推荐一下。
+这是在 YouTube 上发布的一个关于 DDLC 的 MMD，在这里顺便推荐一下。
 
 <a class="button button--outline-info button--pill" href="https://youtu.be/KpV_xL2FrGA" target="_blank" title="永遠的心跳聲！">
 <i class="fab fa-youtube"></i> ⌈DDLC⌋永遠的心跳聲！</a>
@@ -968,10 +957,10 @@ const ap = new APlayer({
 
 ## 参考
 
-1. 标题背景图：
+1. **标题背景图**：
 	- [Azhar, Faiz](https://wall.alphacoders.com/unregistered.php?id=25904){:target="_blank"}. [*"Doki Doki Literature Club!   Monika"*](https://wall.alphacoders.com/big.php?i=877002){:target="_blank"}. 2017-10-21.
 
-1. [△](#深度解析) 深度探索：
+1. **# 深度探索**：
 	- [Vortex_K](https://tieba.baidu.com/home/main?un=Vortex_K&ie=utf-8&id=tb.1.c8d380a5.m_xDng4PwARBznaRicg1_w?t=1419504273&fr=pb){:target="_blank"}. [*"DDLC 游戏深度解密"*](https://tieba.baidu.com/p/5680171084?see_lz=1){:target="_blank"}.2018-05-03.
 	- [Melnik,Victor](https://medium.com/@annimon119){:target="_blank"}. [*"How to decrypt all character files of Doki Doki Literature Club"*](https://medium.com/@annimon119/how-to-decrypt-all-character-files-of-doki-doki-literature-club-ecbd94fd41ec){:target="_blank"}. Jan 19, 2018.
 	- 匿名用户. [*"游戏 心跳文学部《 Doki Doki Literature Club 》中有哪些细节与彩蛋？"*](https://www.zhihu.com/question/264052228){:target="_blank"}. [CCXR](https://www.zhihu.com/people/LEXAZOB){:target="_blank"}; [H2O2是过氧化氢](https://www.zhihu.com/people/study-64-40){:target="_blank"}, 2018-01-07, 2019-02-01.

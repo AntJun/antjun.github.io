@@ -50,7 +50,7 @@
           {%- elsif include.cover_size == 'sm' -%}
             <img class="image image--sm" src="{{ _article_cover }}" />
           {%- else -%}
-            <img class="image" src="{{ _article_cover }}" />
+            <img class="image" src="{{ _article_cover }}" alt="Cover Image" />
           {%- endif -%}
           </div>
         {%- endif -%}
@@ -113,7 +113,7 @@
           <div class="card card--flat">
             {%- if _article.cover -%}
               <div class="card__image">
-                <img class="image" src="{{ _article_cover }}" />
+                <img class="image" src="{{ _article_cover }}" alt="Cover Image" />
                 <div class="overlay overlay--bottom">
                   <header>
                     <a href="{{ _article_url }}"><h2 class="card__header">{{ _article.title }}</h2></a>

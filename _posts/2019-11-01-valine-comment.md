@@ -1,9 +1,10 @@
 ---
 title: Valine 评论系统与 LeanCloud 的结合使用
-tag: ["技术", "教程", "Valine", "LeanCloud", "Code"]
+tag: ["技术", "教程", "Code"]
 key: 100001
-cover: https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Cover-Valine.png
+cover: /images/landing-cover/2019-11-01-Valine.png
 author: Akira Ant
+modify_date: 2020-01-12
 article_header:
   type: overlay
   theme: dark
@@ -13,8 +14,7 @@ article_header:
     src: /images/post/2019-11-01-valine.png
 ---
 
-欢迎使用 Valine 评论系统！
-<br/> 本站采用 Valine 评论系统，一款基于 LeanCloud 的快速、简洁且高效的无后端评论系统。
+欢迎使用 Valine 评论系统！一款基于 LeanCloud 的快速、简洁且高效的无后端评论系统。
 <!--more-->
 {:.info}
 
@@ -35,7 +35,8 @@ article_header:
 
 [Valine](https://leancloud.cn/){:target="_blank"} 与 [LeanCloud](https://www.leancloud.cn/){:target="_blank"} 结合使用。
 
-> LeanCloud 是行业领先的一站式后端云服务提供商，专注于为开发者提供一流的工具、平台和服务。 自 2013 年 9 月发布以来，LeanCloud 已经服务超过 22 万开发团队，其中既包括大量创业公司，也有大型商业项目。
+LeanCloud 
+: 是行业领先的一站式后端云服务提供商，专注于为开发者提供一流的工具、平台和服务。 自 2013 年 9 月发布以来，LeanCloud 已经服务超过 22 万开发团队，其中既包括大量创业公司，也有大型商业项目。
 
 ### 获取 APP ID 和 APP KEY
 
@@ -45,11 +46,11 @@ article_header:
 
 填写您的应用名字。个人博客的评论量不会很大，因此`计价方案`选择`开发版`即可（有钱随意）。
 
-![创建应用](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/create app.png){:.shadow}
+<img src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/create app.png" alt="Create application" />{:.shadow}
 
 在`设置` > `应用`中可查看到 APP ID 和 APP Key。
 
-![获取 AppId 和 AppKey](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/App Keys.png){:.shadow}
+<img src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/App Keys.png" alt="Get AppId and AppKey" />{:.shadow}
 
 ### 填写安全域名
 
@@ -59,12 +60,12 @@ article_header:
 
 在`应用` > `设置` > `安全设置`中 `Web 安全域名`一栏填写我们站点的域名后点击保存即可。
 
-![设置安全域名](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Secure domain.png){:.shadow}
+<img src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Secure domain.png" alt="Set up a secure domain name" />{:.shadow}
 
 **注意：如在网站调试过程中出现关于调用 `api.leancloud.cn` 的 403 报错，说明服务器理解客户的请求，但拒绝处理它，这是由于服务器上文件或目录的权限设置导致的 WEB 访问错误。**
 {:.warning}
 
-![403 error](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/403.png){:.shadow}
+<img src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/403.png" alt="403 Error" />{:.shadow}
 
 **检查填写的安全域名是否正确，或者可以考虑放弃安全域名。**
 <br/> **检查并修改`存储` > `Class` 中因设置了相应权限导致无法访问的权限设置。**
@@ -74,7 +75,7 @@ article_header:
 
 为你的页面中添加以下代码，并修改初始化对象中的 `AppId` 和 `AppKey` 的值为上面刚刚获取到的值（其他可以默认）。
 
-```html
+{% highlight html %}
 <head>
     ...
     <!--LeanCloud 操作库-->
@@ -95,7 +96,7 @@ article_header:
         })
     </script>
 </body>
-```
+{% endhighlight %}
 
 ### 使用 npm 安装（可选）
 
@@ -108,14 +109,14 @@ article_header:
 
 直接用命令安装：
 
-```
+{% highlight bash %}
 # Install leancloud's js-sdk
 npm install leancloud-storage --save
 # Install valine
 npm install valine --save
-```
+{% endhighlight %}
 
-```html
+{% highlight javascript %}
 // Register AV objects to the global
 window.AV = require('leancloud-storage');
 
@@ -128,7 +129,7 @@ new Valine({
     el:'#vcomments',
     // other config
 })
-```
+{% endhighlight %}
 
 **至此，您可以查看您的页面是否已经出现了评论功能。**
 {:.success}
@@ -140,7 +141,8 @@ new Valine({
 如要对配置进行更多修改，请在刚才填写 APP ID 与 APP KEY 的地方加入并修改相应的配置项。
 
 如下，我添加了`notify` `verify` `avatar` 和 `placeholder` 这四个配置项。
-```html
+
+{% highlight html %}
 <script>
     new Valine({
         el: '#vcomments' ,
@@ -152,7 +154,7 @@ new Valine({
         placeholder: '在此处填写评论' 
     });
 </script>
-```
+{% endhighlight %}
 
 如果你觉得其验证码过于「反人类」，建议将 `verify` 一项改为 `false` 以取消验证码。
 {:.warning}
@@ -165,7 +167,8 @@ new Valine({
 
 进入你的`应用` > `存储` > `Comment`，之后你可以对所有评论进行操作。
 
-![评论数据管理](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/manage comment.png){:.shadow}
+<img src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/manage comment.png" alt="Comment Data Management" />{:.shadow}
+
 
 ### Valine-Admin
 
@@ -177,9 +180,12 @@ new Valine({
 
 ## 文章阅读量统计
 
+注意：需要 `v1.2.0` 及以上版本
+{:.warning}
+
 <a class="button button--primary button--rounded" href="https://valine.js.org/visitor.html" target="_blank">查看文章阅读量统计配置说明</a>
 
-## 在其它博客框架或主题中使用
+## 在其它框架或主题中使用
 
 官方文档中列出了许多在其它博客系统及相应主题中的使用方式，你可以根据自己的需要按相应教程进行配置。
 
@@ -191,7 +197,7 @@ new Valine({
 
 ## 使用评论
 
-![Valine Comment](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/valine comment.png){:.shadow}
+<img src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/valine comment.png" alt="Valine Comment" />{:.shadow}
 
 成功完成以上设置后，你所设置的网站或页面应该有评论输入框，如要对文章进行评论，直接输入信息发送即可。
 
@@ -211,9 +217,9 @@ Valine 目前使用的是 [Gravatar](http://cn.gravatar.com/){:target="_blank"} 
 
 请自行登录或注册 [Gravatar](http://cn.gravatar.com/){:target="_blank"}，然后修改自己的头像。
 
-![Gravatar 01](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/gravatar.png){:.shadow}
+<img src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/gravatar.png" alt="Gravatar 01" />{:.shadow}
 
-![Gravatar 02](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/gravatar add.png){:.shadow}
+<img src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/gravatar add.png" alt="Gravatar 02" />{:.shadow}
 
 评论的时候，留下在 [Gravatar](http://cn.gravatar.com/){:target="_blank"} 注册时所使用的邮箱即可。
 
@@ -222,10 +228,10 @@ Valine 目前使用的是 [Gravatar](http://cn.gravatar.com/){:target="_blank"} 
 
 ## 参考
 
-1. [△](#评论数据管理) 评论数据管理：
+1. **# 评论数据管理**：
 	- [云淡风轻](https://github.com/xCss){:target="_blank"}. [*"Valine - 快速开始"*](https://valine.js.org/quickstart.html){:target="_blank"}. 2017.
 	- [Deserts](https://deserts.io/about/){:target="_blank"}. [*"Valine: 独立博客评论系统"*](https://deserts.io/diy-a-comment-system/){:target="_blank"}. Aug 14, 2017.
-1. [△](#在其它博客框架或主题中使用) 在其它博客框架或主题中使用：
+1. **# 在其它框架或主题中使用**：
 	- [kitian616](https://github.com/kitian616/jekyll-TeXt-theme){:target="_blank"}. [*"TeXt Theme 配置 - Valine"*](https://tianqi.name/jekyll-TeXt-theme/docs/en/configuration#valine){:target="_blank"}. Apr 12, 2018.
 
 ---
