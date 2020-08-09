@@ -172,7 +172,7 @@ layout: base
             {%- if page.article_header.image.src -%}
               {%- include snippets/get-nav-url.html path=page.article_header.image.src -%}
               {%- assign _header_image_src = __return -%}
-              <img class="article__header--cover" src="{{ _header_image_src }}"></img>
+              <img class="article__header--cover" src="{{ _header_image_src }}" />
             {%- endif -%}
           {%- endif -%}
 
@@ -272,28 +272,18 @@ layout: base
 
 
 
-
-
-<!-- 载入 "延迟加载图片" (JS) -->
-
 <script>
-{%- include scripts/utils/lazyload-img.js -%}
+function clear() {
+Source=document.body.firstChild.data;
+document.open();
+document.close();
+document.body.innerHTML=Source;
+}
 </script>
 
 
 
-
-
-<!-- 载入 "color-thief" (JS) -->
-
-<script src="/dist/color-thief.js"></script>
-
-
-
-
-
 <!-- 载入 "Swiper" (JS) -->
-
 <script>
   {%- include scripts/lib/swiper.js -%}
   var SOURCES = window.TEXT_VARIABLES.sources;
@@ -308,38 +298,46 @@ layout: base
 
 
 
-
-
 <!-- 载入 "Back to top" (JS) -->
-
 <script>
 {%- include scripts/lib/back-to-top.js -%}
 </script>
 
 
 
-
-
 <!-- 载入 "Tidio Talk Btn" (HTML) -->
+<a href="https://www.tidio.com/talk/sxckmifzoby3pvxulh7rdv8onfwyt373" target="_blank" aria-label="Contact us on Tidio.">
+	<button class="tidio-btn demo" aria-label="Communication">
+		<i class="fas fa-comments"></i>
+	</button>
+				</a>
 
-<a href="https://www.tidio.com/talk/sxckmifzoby3pvxulh7rdv8onfwyt373" target="_blank"><button class="tidio-btn demo"><i class="fas fa-comments"></i></button></a>
 
 
-
-
-
-<!-- 载入 "鼠标光标梯度跟踪" (JS) -->
-
+<!-- 载入 "Loading Text Anime" (JS) -->
 <script>
-{%- include scripts/lib/gradient-tracking.js -%}
+{%- include scripts/lib/loading-text-anime.js -%}
 </script>
 
 
 
 
-
-<!-- 载入 "Loading Text Anime" (JS) -->
-
+<!-- 载入 "一言" (JS) -->
+<!-- 兼容低版本浏览器 (包括 IE)，（可移除） -->
+<script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script>
+<!-- 载入「内容」和「来源」-->
 <script>
-{%- include scripts/lib/loading-text-anime.js -%}
+  var xhr = new XMLHttpRequest();
+  xhr.open('get', 'https://v1.hitokoto.cn/?c=a');
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState === 4) {
+      var data = JSON.parse(xhr.responseText);
+	  var hitokoto = document.getElementById('hitokoto');
+      var from = document.getElementById('from');
+	  hitokoto.innerText = data.hitokoto;
+      from.innerText = data.from;
+    }
+  }
+  xhr.send();
 </script>

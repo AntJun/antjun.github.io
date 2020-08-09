@@ -1,18 +1,18 @@
 /* 设置滚动条的样式 */
 ::-webkit-scrollbar {
-width:12px;
+width:8px;
 }
 /* 滚动槽 */
 ::-webkit-scrollbar-track {
 -webkit-box-shadow:inset006pxrgba(0,0,0,0.3);
-border-radius:10px;
+border-radius:5px;
 }
 /* 滚动条滑块 */
 ::-webkit-scrollbar-thumb {
-border-radius:10px;
-background:rgba(100,149,237,0.4);
+border-radius:5px;
+background:rgba(65,105,225,0.5);
 -webkit-box-shadow:inset006pxrgba(0,0,0,0.5);
 }
 ::-webkit-scrollbar-thumb:window-inactive {
-background:rgba(255,0,0,0.4);
+background:rgba(255,0,0,0.5);
 }
