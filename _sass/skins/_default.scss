@@ -6,28 +6,28 @@
 
 // main colors
 $main-color-1:     #fc4d50;
-$text-color-1:     #DCDCDC;
+$text-color-1:     #F5F5F5;
 
 $main-color-2:     #fca24d;
-$text-color-2:     #DCDCDC;
+$text-color-2:     #F5F5F5;
 
 $main-color-3:     #f2f2f2;
 $text-color-3:     #333;
 
 $main-color-theme-light: rgba(#000, .9);
-$main-color-theme-dark:  rgba(#DCDCDC, .9);
+$main-color-theme-dark:  rgba(#F5F5F5, .9);
 
 // page background
-$background-color: #DCDCDC;
+$background-color: #F5F5F5;
 
 // text colors
 $text-color-theme-light-d: #000;
 $text-color-theme-light:   #222;
 $text-color-theme-light-l: #888;
 
-$text-color-theme-dark-d:  #DCDCDC;
-$text-color-theme-dark:    rgba(#DCDCDC, .95);
-$text-color-theme-dark-l:  rgba(#DCDCDC, .85);
+$text-color-theme-dark-d:  #F5F5F5;
+$text-color-theme-dark:    rgba(#F5F5F5, .95);
+$text-color-theme-dark-l:  rgba(#F5F5F5, .85);
 
 $text-color-d:     $text-color-theme-light-d;
 $text-color:       $text-color-theme-light;
@@ -54,7 +54,7 @@ $green:           #52c41a;
 $blue:            #1890ff;
 $yellow:          #fa8c16;
 $red:             #f5222d;
-$text-color-function: #DCDCDC;
+$text-color-function: #F5F5F5;
 
 // logo colors
 $mail-color:       #0072c5;
@@ -68,7 +68,7 @@ $zhihu-color:      #0084ff;
 $douban-color:     #42bd56;
 $linkedin-color:   #1074af;
 $github-color:     #000;
-$npm-color:        #DCDCDC;
+$npm-color:        #F5F5F5;
 
 // highlight colors
 @import "skins/highlight/tomorrow";
