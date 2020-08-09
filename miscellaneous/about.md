@@ -56,7 +56,7 @@ aside:
 
 ## 关于本站
 
-`AntJun's Blog / Akira_Ant's Blog`（以下简称本站）借助 [Jekyll](http://jekyllcn.com/){:target="_blank"}，使用 [Text](https://tianqi.name/jekyll-TeXt-theme/){:target="_blank"} 搭建。
+`AntJun's Blog / Akira_Ant's Blog`（以下简称本站）借助 [Jekyll](https://jekyllcn.com/){:target="_blank"}，使用 [Text](https://tianqi.name/jekyll-TeXt-theme/){:target="_blank"} 搭建。
 <br/> 网站使用 [BootCDN](https://www.bootcdn.cn/){:target="_blank"} 作为网站的 CDN 源来加快载入速度。
 
 作者本人曾在 2017 年创建过个人 Blog，之后由于各种原因抛弃了 Blog。
@@ -148,7 +148,7 @@ aside:
             <div class="item__description"> 
               <p> 
                 <h2>
-                  <i class="fab fa-qq"></i> <a href="http://wpa.qq.com/msgrd?v=3&uin=3204395854&site=qq&menu=yes" target="_blank">QQ/TIM</a>
+                  <i class="fab fa-qq"></i> <a href="https://wpa.qq.com/msgrd?v=3&uin=3204395854&site=qq&menu=yes" target="_blank">QQ/TIM</a>
                 </h2> 添加好友时请注明来意，泻泻
               </p> 
             </div> 

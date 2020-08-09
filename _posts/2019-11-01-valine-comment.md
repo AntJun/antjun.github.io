@@ -213,15 +213,15 @@ new Valine({
 
 ### 配置个人头像
 
-Valine 目前使用的是 [Gravatar](http://cn.gravatar.com/){:target="_blank"} 作为评论列表头像。
+Valine 目前使用的是 [Gravatar](https://cn.gravatar.com/){:target="_blank"} 作为评论列表头像。
 
-请自行登录或注册 [Gravatar](http://cn.gravatar.com/){:target="_blank"}，然后修改自己的头像。
+请自行登录或注册 [Gravatar](https://cn.gravatar.com/){:target="_blank"}，然后修改自己的头像。
 
 <img src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/gravatar.png" alt="Gravatar 01" />{:.shadow}
 
 <img src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/gravatar add.png" alt="Gravatar 02" />{:.shadow}
 
-评论的时候，留下在 [Gravatar](http://cn.gravatar.com/){:target="_blank"} 注册时所使用的邮箱即可。
+评论的时候，留下在 [Gravatar](https://cn.gravatar.com/){:target="_blank"} 注册时所使用的邮箱即可。
 
 **注意：因 gravatar.cat.net 有七天的缓存期，修改头像后请耐心等待更新。**
 {:.warning}

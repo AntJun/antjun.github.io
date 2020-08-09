@@ -113,7 +113,7 @@ aside:
       <div> 
         <div class="item"> 
 <div class="item__image" markdown="1"> 
-  <img class="image image--sm" src="http://6sheep.gitee.io/10101.demo/comic/10101/headshot/0%20(2).png"/>{:.border.rounded}
+  <img class="image image--sm" src="https://6sheep.gitee.io/10101.demo/comic/10101/headshot/0%20(2).png"/>{:.border.rounded}
 </div>  
           <div class="item__content"> 
             <div class="item__description"> 
@@ -155,7 +155,7 @@ aside:
             <div class="item__description"> 
               <p> 
                 <h4>
-                  <a href="http://zzlake.com/" target="_blank">@ 柏吃支醉的个人小站</a>
+                  <a href="https://zzlake.com/" target="_blank">@ 柏吃支醉的个人小站</a>
                 </h4> 醉生湖 — rich world, poor you
               </p> 
             </div> 
