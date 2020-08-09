@@ -6,7 +6,7 @@
   {%-assign _license_name = '<a itemprop="license" rel="license" href="[URL]">[NAME]</a>' | replace: "[URL]", include.license.url | replace: "[NAME]", include.license.name -%}
   <center>
 	  <div class="license">
-			<a rel="license" href="{{ include.license.url }}" target="_blank">
+			<a rel="license" href="{{ include.license.url }}" target="_blank" rel="noopener">
 				<img alt="{{ include.license.name }}" src="{{ include.license.image }}" />
 			</a>
 		  <br/> {{ _license_announce | replace: "[LICENSE]", _license_name }}
