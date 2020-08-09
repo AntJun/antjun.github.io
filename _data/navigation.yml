@@ -1,21 +1,22 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       <i class="fas fa-home"></i> Home
+      icon    : &ICON     <i class="fas fa-home"></i>
+      en      : &EN       Home
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  <i class="fas fa-home"></i> 主页
+      zh-Hans : &ZH_HANS  主页
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  <i class="fas fa-home"></i> 主頁
+      zh-Hant : &ZH_HANT  主頁
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       <i class="fas fa-home"></i> 홈페이지
+      ko      : &KO       홈페이지
       ko-KR   : *KO
-      fr      : &KO       <i class="fas fa-home"></i> Page d'accueil
+      fr      : &KO       Page d'accueil
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
@@ -26,21 +27,22 @@ header:
     
   - titles:
       # @start locale config
-      en      : &EN       <i class="fas fa-tags"></i> Archive
+      icon    : &ICON     <i class="fas fa-tags"></i> 
+      en      : &EN       Archive
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  <i class="fas fa-tags"></i> 归档
+      zh-Hans : &ZH_HANS  归档
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  <i class="fas fa-tags"></i> 歸檔
+      zh-Hant : &ZH_HANT  歸檔
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       <i class="fas fa-tags"></i> 아카이브
+      ko      : &KO       아카이브
       ko-KR   : *KO
-      fr      : &FR       <i class="fas fa-tags"></i> Archives
+      fr      : &FR       Archives
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
@@ -51,21 +53,22 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       <i class="fas fa-user"></i> About
+      icon    : &ICON     <i class="fas fa-user"></i>
+      en      : &EN       About
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  <i class="fas fa-user"></i> 关于
+      zh-Hans : &ZH_HANS  关于
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  <i class="fas fa-user"></i> 關於
+      zh-Hant : &ZH_HANT  關於
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       <i class="fas fa-user"></i> 소개
+      ko      : &KO       소개
       ko-KR   : *KO
-      fr      : &KO       <i class="fas fa-user"></i> À propos
+      fr      : &KO       À propos
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
@@ -76,21 +79,22 @@ header:
     
   - titles:
       # @start locale config
-      en      : &EN       <i class="fas fa-users"></i> Studio
+      icon    : &ICON     <i class="fas fa-users"></i>
+      en      : &EN       Studio
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  <i class="fas fa-users"></i> 工作室
+      zh-Hans : &ZH_HANS  工作室
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  <i class="fas fa-users"></i> 工作室
+      zh-Hant : &ZH_HANT  工作室
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       <i class="fas fa-users"></i> 스튜디오
+      ko      : &KO       스튜디오
       ko-KR   : *KO
-      fr      : &KO       <i class="fas fa-users"></i> Studio
+      fr      : &KO       Studio
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
@@ -101,21 +105,22 @@ header:
     
   - titles:
       # @start locale config
-      en      : &EN       <i class="fas fa-link"></i> Friends
+      icon    : &ICON     <i class="fas fa-link"></i>
+      en      : &EN       Friends
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  <i class="fas fa-link"></i> 友链
+      zh-Hans : &ZH_HANS  友链
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  <i class="fas fa-link"></i> 友鏈
+      zh-Hant : &ZH_HANT  友鏈
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       <i class="fas fa-link"></i> 체인의 친구들
+      ko      : &KO       체인의 친구들
       ko-KR   : *KO
-      fr      : &KO       <i class="fas fa-link"></i> Amis chaîne
+      fr      : &KO       Amis chaîne
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
@@ -126,21 +131,22 @@ header:
     
   - titles:
       # @start locale config
-      en      : &EN       <i class="fas fa-donate"></i> Donate
+      icon    : &ICON     <i class="fas fa-donate"></i>
+      en      : &EN       Donate
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
-      zh-Hans : &ZH_HANS  <i class="fas fa-donate"></i> 赞助
+      zh-Hans : &ZH_HANS  赞助
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  <i class="fas fa-donate"></i> 贊助
+      zh-Hant : &ZH_HANT  贊助
       zh-TW   : *ZH_HANT
       zh-HK   : *ZH_HANT
-      ko      : &KO       <i class="fas fa-donate"></i> 후원
+      ko      : &KO       후원
       ko-KR   : *KO
-      fr      : &KO       <i class="fas fa-donate"></i> Commandite
+      fr      : &KO       Commandite
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
@@ -152,33 +158,25 @@ header:
 docs-zh:
   - title:      <i class="fa fa-globe"></i> 一言
     children:
-      - title: <p id="hitokoto">:D 获取中...</p>
-
-               <script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script>
-
-               <script>
-                 fetch('https://v1.hitokoto.cn/?c=b')
-                   .then(function (res){
-                     return res.json();
-                   })
-                   .then(function (data) {
-                     var hitokoto = document.getElementById('hitokoto');
-                     hitokoto.innerText = data.hitokoto; 
-               })
-                   .catch(function (err) {
-                     console.error(err);
-                   })
-               </script>
-
-  - title:      扩展
+      - title: 「<p id="hitokoto" style="display:inline">...</p>」</br>—— <p id="from" style="display:inline">...</p>
+  - title:  <i class="fa fa-sliders" aria-hidden="true"></i> 导航
+    children:
+      - title:  归档
+        url:    /archive.html
+      - title:  关于
+        url:    /miscellaneous/about.html
+      - title:  工作室
+        url:    /miscellaneous/studio.html
+      - title:  友链
+        url:    /miscellaneous/friends.html
+      - title:  赞助
+        url:    /miscellaneous/donate.html
+  - title:      <i class="fa fa-sitemap"></i> 扩展
     children:
       - title:  音乐
         url:    http://music.163.com/playlist?id=3183686521&userid=349534750
       - title:  视频
         url:    https://space.bilibili.com/28098803/
-      - title:  索引
-        url:    /archive
-        
   - title:      <i class="fa fa-language"></i> 其他语言
     children:
       - title:  English
@@ -189,24 +187,19 @@ docs-zh:
 docs-en:
   - title:      <i class="fa fa-globe"></i> A Saying
     children:
-      - title: <p id="hitokoto">:D Getting...</p>
-
-               <script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script>
-
-               <script>
-                 fetch('https://v1.hitokoto.cn')
-                   .then(function (res){
-                     return res.json();
-                   })
-                   .then(function (data) {
-                     var hitokoto = document.getElementById('hitokoto');
-                     hitokoto.innerText = data.hitokoto; 
-               })
-                   .catch(function (err) {
-                     console.error(err);
-                   })
-               </script>
-        
+      - title: 「<p id="hitokoto" style="display:inline">...</p>」</br>—— <p id="from" style="display:inline">...</p>
+  - title:  <i class="fa fa-sliders" aria-hidden="true"></i> Navigation
+    children:
+      - title:  Archive
+        url:    /archive.html
+      - title:  About
+        url:    /miscellaneous/about.html
+      - title:  Studio
+        url:    /miscellaneous/studio.html
+      - title:  Friends
+        url:    /miscellaneous/friends.html
+      - title:  Donate
+        url:    /miscellaneous/donate.html
   - title:      <i class="fa fa-sitemap"></i> Expansion
     children:
       - title:  Music
@@ -219,6 +212,6 @@ docs-en:
   - title:      <i class="fa fa-language"></i> Languages
     children:
       - title:  English
-        url:    /en/
+        url:    /en
       - title:  简体中文
         url:    /
