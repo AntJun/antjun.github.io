@@ -16,29 +16,19 @@ cover: /images/landing-cover/2019-09-11-tests.png
 
 The following is some functional test content (don't care about it ~)
 
-### Effect Text 01
+### Text Shadow Effect
 
 <h1 class='elegantshadow'>Elegant Shadow</h1>
 <h1 class='deepshadow'>Deep Shadow</h1>
 <h1 class='insetshadow'>Inset Shadow</h1>
 <h1 class='retroshadow'>Retro Shadow</h1>
-
-{% highlight html %}
-<h1 class='elegantshadow'>Elegant Shadow</h1>
-<h1 class='deepshadow'>Deep Shadow</h1>
-<h1 class='insetshadow'>Inset Shadow</h1>
-<h1 class='retroshadow'>Retro Shadow</h1>
-{% endhighlight %}
 
 <div>{%- include extensions/codepen.html user='juanbrujo' hash='yGpAK' default_tab='html,result' -%}</div>
 
-### Effect Text 02
+### Text in Load
 
 <div id="loadingText">loading</div>
-
-{% highlight html %}
-<div id="loadingText">loading</div>
-{% endhighlight %}
+<script src="/plugins/loading-text-anime.js"></script>
 
 <div>{%- include extensions/codepen.html user='taz1821' hash='NNjOWM' default_tab='html,result' -%}</div>
 
