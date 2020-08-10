@@ -36,12 +36,28 @@ articles:
   show_readmore: true
   show_info: true
 ---
-<div class="layout--home">
-  {%- include paginator.html -%}
-</div>
-
-<script>
+  <div class="layout--home"> {%- include paginator.html -%} </div>
+  <script>
   {%- include scripts/home.js -%}
-</script>
+</script> 
 
-{{ content }}
+  <!-- 载入 "一言" (JS) --> 
+  <!-- 兼容低版本浏览器 (包括 IE)，（可移除） --> 
+  <script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script> 
+  <script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script> 
+  <!-- 载入「内容」和「来源」--> 
+  <script>
+  var xhr = new XMLHttpRequest();
+  xhr.open('get', 'https://v1.hitokoto.cn/?c=a');
+  xhr.onreadystatechange = function () {
+    if (xhr.readyState === 4) {
+      var data = JSON.parse(xhr.responseText);
+	  var hitokoto = document.getElementById('hitokoto');
+      var from = document.getElementById('from');
+	  hitokoto.innerText = data.hitokoto;
+      from.innerText = data.from;
+    }
+  }
+  xhr.send();
+</script> 
+  {{ content }} 

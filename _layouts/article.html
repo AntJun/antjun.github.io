@@ -2,7 +2,7 @@
 layout: page
 type: article
 lightbox: true
----
+--- 
 
 <!-- 字数统计与阅读时长估计 -->
 <div class="fade-in-words">
@@ -12,44 +12,24 @@ lightbox: true
     </center>
   </div>
 </div>
-
-
-
 {%- include snippets/assign.html
   target = site.data.variables.default.page.sharing
   source0=layout.sharing source1=page.sharing -%}
 {%- assign _sharing = __return -%}
-
-<div class="layout--article">
-  {%- include article/top/custom.html -%}
-
+<div class="layout--article"> {%- include article/top/custom.html -%}
   <div class="article__content" itemprop="articleBody">{{ content }}</div>
-
   {%- if _sharing -%}
-    <section class="article__sharing d-print-none">{%- include sharing.html -%}</section>
+  <section class="article__sharing d-print-none">{%- include sharing.html -%}</section>
   {%- endif -%}
-
-  <div class="d-print-none">
-    {%- include article-footer.html -%}
-    {%- include article-section-navigator.html -%}
-  </div>
-
+  <div class="d-print-none"> {%- include article-footer.html -%}
+    {%- include article-section-navigator.html -%} </div>
 </div>
-
 <script>
   {%- include scripts/article.js -%}
-</script>
-
-
+</script> 
 
 <!-- 载入 "APlayer" (HTML,JS) -->
 <div id="aplayer"></div>
-<script src="/plugins/aplayer/APlayer.min.js"></script>
-<!-- 载入 Aplayer JS 列表信息，如需添加新列表请继续补充 -->
-<script src="/plugins/aplayer/music.js"></script>
-
-
-
-<!-- 载入 "Back to top" (HTML,JS) -->
-<button id="back-to-top-btn"><i class="fas fa-angle-double-up"></i></button>
-<script src="/plugins/back-to-top.js"></script>
+<script src="/plugins/aplayer/APlayer.min.js"></script> 
+<!-- 载入 Aplayer JS 列表信息，如需添加新列表请继续补充 --> 
+<script src="/plugins/aplayer/music.js"></script> 
