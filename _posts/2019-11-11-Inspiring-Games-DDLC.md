@@ -57,21 +57,12 @@ DDLC 在 Steam 上的宣传有面带着和善笑容的四个可爱女孩子，�
 
 <div> {%- include extensions/youtube.html id='kB1663FTpzU' -%}</div>
 
-
 <a class="button button--outline-info button--pill" href="https://www.youtube.com/watch?v=mGZC61dBIWg" target="_blank" title="游戏流程录像">
 <i class="fab fa-youtube"></i> RESPECT WHAMEN: THE GAME. Doki Doki Literature Club</a>
 <a class="button button--outline-success button--pill" href="https://www.youtube.com/user/PewDiePie" target="_blank" title="Author">
 <i class="fas fa-user"></i> Pewdiepie</a>
 
 <div> {%- include extensions/youtube.html id='mGZC61dBIWg' -%}</div>
-
-
-<a class="button button--outline-info button--pill" href="https://www.youtube.com/watch?v=pnCp-PikHqE" target="_blank" title="游戏深度揭秘">
-<i class="fab fa-youtube"></i> A Comprehensive Exploration of Doki Doki Literature Club</a>
-<a class="button button--outline-success button--pill" href="https://www.youtube.com/channel/UCpFFItkfZz1qz5PpHpqzYBw" target="_blank" title="Author">
-<i class="fas fa-user"></i> Nexpo</a>
-
-<div> {%- include extensions/youtube.html id='pnCp-PikHqE' -%}</div>
 
 ## 深度探索
 
@@ -114,8 +105,6 @@ graph TB;
 Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别是 Yuri 和 Natsuki。每当社员们说出一些极端的话语时，她们的文字会变成粗体字，游戏画面或人物不时出现瞬间崩坏的现象。部分胡言乱语的现象也会被改成乱码。
 
 #### 浏览图片
-
-含有恐怖谷效应！
 
 <div class="swiper my-3 swiper-demo swiper-demo--image swiper-demo--3">
 	<div class="swiper__wrapper">
@@ -739,11 +728,9 @@ CHR 类型文件在 `...\Doki Doki Literature Club\characters` 文件目录下�
 
 #### natsuki.chr
 
-用记事本打开，发现都是乱码。
+用记事本打开，你能发现都是乱码。
 
-```
-
-```
+![natsuki.jpg01](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/natsuki.chr.png){:.shadow}
 
 我们能看到第一行就出现了 JFIF 的后缀信息（也就是 JEPG 格式），这是文件头的魔数（Magic Number），即使即使文件的后缀名被错误地更改过，我们仍能根据它的值判断文件的类型。你也可以使用 linux 的 file 指令查看每个文件的详细信息（Windows 下安装同源的 gnu 程序之后也可以查看）。
 
@@ -861,7 +848,7 @@ CHR 类型文件在 `...\Doki Doki Literature Club\characters` 文件目录下�
 				<br/><br/>
 				这是我的故事
 				<br/><br/>
-				是时候当TMD一次英雄了。
+				是时候当他妈一次英雄了。
 				<br/><br/>
 				我们两个人都是。
 				<br/><br/>
@@ -898,7 +885,7 @@ CHR 类型文件在 `...\Doki Doki Literature Club\characters` 文件目录下�
 > “基本上就是关于一个变成了‘人体实验监狱’的宗教营...被困在那里的人们都有一个特点那就是他们会变成渴望鲜血的杀人机器。
 但是不仅如此还会变的更糟糕，他们会选择性的繁殖一些人，方法就是砍掉他们的四肢然后把他们附加到到...”
 
-不得不说，我很佩服 Yuri 的个人爱好。其实这本书根本不存在，但如果联系到那个关于 Libitina 的报告的话就说得通了。想想看， Yuri 被附加第三只眼与书的内容相吻合，这就表明全书内容就是关于 Yuri 的故事。我也相信 Yuri 跟第三只眼有着密切关系，毕竟游戏中就属她眼睛演绎地最生动了......
+不得不说，我很佩服 Yuri 的个人爱好。其实这本书根本不存在，但如果联系到那个关于 Libitina 的报告的话就说得通了。想想看， Yuri 被附加第三只眼与书的内容相吻合，这就表明全书内容就是关于 Yuri 的故事。我也相信 Yuri 跟第三只眼有着密切关系，毕竟游戏中就属她眼睛演绎地最生动了。
 
 更何况官方都给出了图片明示：
 
@@ -918,7 +905,7 @@ CHR 类型文件在 `...\Doki Doki Literature Club\characters` 文件目录下�
 <div id="Audio"></div>
 <script src="/plugins/aplayer/APlayer.min.js"></script>
 <script>
-const ap = new APlayer({
+const am = new APlayer({
     container: document.getElementById('Audio'),
     autoplay: false,
     lrcType: 3,
