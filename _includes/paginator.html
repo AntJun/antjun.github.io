@@ -35,7 +35,7 @@
         {%- if paginator.previous_page -%}
           {%- include snippets/prepend-baseurl.html path=paginator.previous_page_path -%}
           {%- assign _href = __return -%}
-          <li><a class="button button--secondary button--circle" href="{{ _href }}">
+          <li><a class="button button--secondary button--circle" href="{{ _href }}" aria-label="Previous Page">
             <span class="iconfont icon-angle-left"></span>
           </a></li>
         {%- else -%}
@@ -84,7 +84,7 @@
         {%- if paginator.next_page -%}
           {%- include snippets/prepend-baseurl.html path=paginator.next_page_path -%}
           {%- assign _href = __return -%}
-          <li><a class="button button--secondary button--circle" href="{{ _href }}">
+          <li><a class="button button--secondary button--circle" href="{{ _href }}" aria-label="Next Page">
             <span class="iconfont icon-angle-right"></span>
           </a></li>
         {%- else -%}

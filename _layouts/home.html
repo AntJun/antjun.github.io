@@ -1,6 +1,6 @@
 ---
 layout: articles
-key: home01
+key: home
 titles:
   # @start locale config
   en      : &EN       Home
@@ -39,13 +39,13 @@ articles:
   <div class="layout--home"> {%- include paginator.html -%} </div>
   <script>
   {%- include scripts/home.js -%}
-</script> 
+</script>
 
-  <!-- Load "Hitokoto" (JS) --> 
-  <!-- Compatible with lower version browsers (Including IE)（REMOVABLE） --> 
-  <script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script> 
-  <script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script> 
-  <!-- Load [Content] and [Source] --> 
+  <!-- Load "Hitokoto" (JS) -->
+  <!-- Compatible with lower version browsers (Including IE)（REMOVABLE） -->
+  <script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script>
+  <!-- Load [Content] and [Source] -->
   <script>
   var xhr = new XMLHttpRequest();
   xhr.open('get', 'https://v1.hitokoto.cn/?c=a');
@@ -59,5 +59,5 @@ articles:
     }
   }
   xhr.send();
-</script> 
-  {{ content }} 
+</script>
+  {{ content }}

@@ -1,5 +1,6 @@
 ---
 layout: miscellaneous
+key: studio
 sharing: true
 titles:
   # @start locale config
