@@ -49,15 +49,15 @@ aside:
 ---
 
 > If you can quit, then quit. If you can't quit, you're a writer.
-<br/> --R.A.Salvatore
+> <br/> --R.A.Salvatore
 
 我并没希望有多少人能看到我写的文章，也不封锁自己的文章，毕竟创建了 Blog，寻思着能分享下自己的同时认识新伙伴，也并不算一件可耻的事。因为写博客的目的在于不断认识自己，写些自己所思所想，分享自己的故事，承认真实的自己，同时学习知识，而不是一昧追求讨好者。
 {:.info}
 
 ## 关于本站
 
-`AntJun's Blog / Akira_Ant's Blog`（以下简称本站）借助 [Jekyll](https://jekyllcn.com/){:target="_blank"}，使用 [Text](https://tianqi.name/jekyll-TeXt-theme/){:target="_blank"} 搭建。
-<br/> 网站使用 [BootCDN](https://www.bootcdn.cn/){:target="_blank"} 作为网站的 CDN 源来加快载入速度。
+`AntJun's Blog / Akira_Ant's Blog`（以下简称本站）借助 [Jekyll](https://jekyllcn.com/){:target="\_blank"}，使用 [Text](https://tianqi.name/jekyll-TeXt-theme/){:target="\_blank"} 搭建。
+<br/> 网站部分代码库依赖 [BootCDN](https://www.bootcdn.cn/){:target="\_blank"}/[unpkg](https://unpkg.com/){:target="\_blank"}/[jsdelivr](https://www.jsdelivr.com/){:target="\_blank"} 作为 CDN 供应商来加快载入。
 
 作者本人曾在 2017 年创建过个人 Blog，之后由于各种原因抛弃了 Blog。
 本站于 2019 年 10 月独自搭建，因本人喜欢 LoveLive 和咖啡所以将该站命名为「音乃木坂 COFFEE HOUSE」。
@@ -75,7 +75,7 @@ aside:
 
 主页封面图来自：<a href="https://www.pixiv.net/member.php?id=4462245" style="color:red;" target="_blank">幻像黒兎 </a>
 
-所有文章均遵守 [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/){:target="_blank"} 许可协议。  
+所有文章均遵守 [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/){:target="\_blank"} 许可协议。
 
 ## 称呼
 
@@ -105,17 +105,17 @@ aside:
 总之在各方面都比较逊，并没有擅长的东西。
 
 - ACGN
-   - 算是半个 LLer，对 ACG 文化略知一二，只康过一些热门的
+  - 算是半个 LLer，对 ACG 文化略知一二，只康过一些热门的
 - 打电动
-   - FPS、TPS、RPG 及 GAL 为主
+  - FPS、TPS、RPG 及 GAL 为主
 - 视频制作
-   - 做的都是辣鸡
+  - 做的都是辣鸡
 - 3D 动画
-   - 做的也都是辣鸡
+  - 做的也都是辣鸡
 - Web.dev
-   - 曾专业学过 JS，目前已忘光
+  - 曾专业学过 JS，目前已忘光
 - 搞机（主机、VPS、Android 等）
-   - 兴趣使然，随便玩玩
+  - 兴趣使然，随便玩玩
 
 ## 性格
 
@@ -144,135 +144,176 @@ aside:
 <div class="grid-container">
   <div class="grid grid--px-3">
     <div class="cell cell--6"><div>
-        <div class="item"> 
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+        <div class="item">
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h2>
-                  <i class="fab fa-qq"></i> <a href="https://wpa.qq.com/msgrd?v=3&uin=3204395854&site=qq&menu=yes" target="_blank">QQ/TIM</a>
-                </h2> 添加好友时请注明来意，泻泻
-              </p> 
-            </div> 
-          </div> 
-        </div> 
+                  <span class="iconfont icon-qq"></span> <a href="https://wpa.qq.com/msgrd?v=3&uin=3204395854&site=qq&menu=yes" target="_blank">QQ/TIM</a>
+                </h2> 添加好友时请注明来意，谢谢
+              </p>
+            </div>
+          </div>
+        </div>
 </div></div>
     <div class="cell cell--6"><div>
-        <div class="item"> 
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+        <div class="item">
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h2>
-                  <i class="fab fa-twitter"></i> <a href="https://twitter.com/AntCN16" target="_blank">Twitter 推特</a>
+                  <span class="iconfont icon-twitter"></span> <a href="https://twitter.com/AntCN16" target="_blank">Twitter</a>
                 </h2> 更多用来聊天<s>看黄</s>而不是发推文……
-              </p> 
-            </div> 
-          </div> 
-        </div> 
+              </p>
+            </div>
+          </div>
+        </div>
 </div></div>
     <div class="cell cell--6"><div>
-        <div class="item"> 
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+        <div class="item">
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h2>
-                  <i class="fab fa-weixin"></i> WeChat 微信
+                  <span class="iconfont icon-wechat"></span> WeChat
                 </h2> 搜我的 QQ 号就能找到，不过这个号最近不怎么用就是了
-              </p> 
-            </div> 
-          </div> 
-        </div> 
+              </p>
+            </div>
+          </div>
+        </div>
 </div></div>
     <div class="cell cell--6"><div>
-        <div class="item"> 
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+        <div class="item">
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h2>
-                  <i class="fab fa-telegram"></i> <a href="https://t.me/Akira_Ant" target="_blank">Telegram</a>
+                  <span class="iconfont icon-telegram"></span> <a href="https://t.me/Akira_Ant" target="_blank">Telegram</a>
                 </h2> 同样的，添加请注明来意
-              </p> 
-            </div> 
-          </div> 
-        </div> 
+              </p>
+            </div>
+          </div>
+        </div>
 </div></div>
     <div class="cell cell--6"><div>
-        <div class="item"> 
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+        <div class="item">
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h2>
-                  <i class="fab fa-pinterest"></i> <a href="https://www.pinterest.com/akiraant/" target="_blank">Pinterest</a>
+                  <span class="iconfont icon-pinterst"></span> <a href="https://www.pinterest.com/akiraant/" target="_blank">Pinterest</a>
                 </h2> 平常也就看看图，没拿它有什么太大用处
-              </p> 
-            </div> 
-          </div> 
-        </div> 
+              </p>
+            </div>
+          </div>
+        </div>
 </div></div>
     <div class="cell cell--6"><div>
-        <div class="item"> 
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+        <div class="item">
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h2>
-                  <i class="fab fa-github"></i> <a href="https://github.com/AntJun" target="_blank">Github</a>
-                </h2> 经常没事就逛逛，虽然不经常创作，但它是我 Fork 别人东西的圣地 
-              </p> 
-            </div> 
-          </div> 
-        </div> 
+                  <span class="iconfont icon-github"></span> <a href="https://github.com/AntJun" target="_blank">Github</a>
+                </h2> 经常没事就逛逛，虽然不经常创作，但它是我 Fork 东西的圣地
+              </p>
+            </div>
+          </div>
+        </div>
 </div></div>
     <div class="cell cell--6"><div>
-        <div class="item"> 
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+        <div class="item">
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h2>
-                  <i class="fab fa-get-pocket"></i> <a href="https://getpocket.com/@93eT7Ac3g9fI5pe273d7163d8ap5g539500b3dJ7ebP02fR699098a05d8ccVej4" target="_blank">Pocket</a>
+                  <span class="iconfont icon-pocket"></span> <a href="https://getpocket.com/@93eT7Ac3g9fI5pe273d7163d8ap5g539500b3dJ7ebP02fR699098a05d8ccVej4" target="_blank">Pocket</a>
                 </h2> 放置 Play 了，上面我只瞎逛逛也不写东西
-              </p> 
-            </div> 
-          </div> 
-        </div> 
+              </p>
+            </div>
+          </div>
+        </div>
 </div></div>
     <div class="cell cell--6"><div>
-        <div class="item"> 
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+        <div class="item">
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h2>
-                  <i class="fab fa-youtube"></i> <a href="https://www.youtube.com/channel/UClYFEI1_ACx-JP6n-7xGdyQ?view_as=subscriber" target="_blank">Youtube</a>
-                </h2> 不顺手关注我一下？万一哪天更新了呢
-              </p> 
-            </div> 
-          </div> 
-        </div> 
+                  <span class="iconfont icon-youtube"></span> <a href="https://www.youtube.com/channel/UClYFEI1_ACx-JP6n-7xGdyQ?view_as=subscriber" target="_blank">Youtube</a>
+                </h2> 不顺手订阅我一下？万一哪天更新了呢
+              </p>
+            </div>
+          </div>
+        </div>
 </div></div>
     <div class="cell cell--6"><div>
-        <div class="item"> 
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+        <div class="item">
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h2>
-                  <i class="fab fa-steam"></i> <a href="https://steamcommunity.com/id/antjun/" target="_blank">Steam</a>
+                  <span class="iconfont icon-steam"></span> <a href="https://steamcommunity.com/id/antjun/" target="_blank">Steam</a>
                 </h2> 请说明来意，一般不加陌生人
-              </p> 
-            </div> 
-          </div> 
-        </div> 
+              </p>
+            </div>
+          </div>
+        </div>
 </div></div>
     <div class="cell cell--6"><div>
-        <div class="item"> 
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+        <div class="item">
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h2>
-                  <i class="fab fa-weibo"></i> <a href="https://weibo.com/akira2016" target="_blank">微博</a>
+                  <span class="iconfont icon-weibo"></span> <a href="https://weibo.com/akira2016" target="_blank">微博</a>
                 </h2> 主要用于收听推送信息，但也可以用于联系
-              </p> 
-            </div> 
-          </div> 
-        </div> 
+              </p>
+            </div>
+        </div>
+        </div>
 </div></div>
+    <div class="cell cell--6"><div>
+        <div class="item">
+          <div class="item__content">
+            <div class="item__description">
+              <p>
+                <h2>
+                  <span class="iconfont icon-bilibili"></span> <a href="https://space.bilibili.com/98846248" target="_blank">BiliBili</a>
+                </h2> 不定时创作
+              </p>
+            </div>
+          </div>
+        </div>
+</div></div>
+    <div class="cell cell--6"><div>
+        <div class="item">
+          <div class="item__content">
+            <div class="item__description">
+              <p>
+                <h2>
+                  <span class="iconfont icon-zhihu"></span> <a href="https://www.zhihu.com/people/akira_ant" target="_blank">知乎</a>
+                </h2> 谢邀，纯路人，人在知乎，刚发论文，圈子太小，利益相关，不加陌生人
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="cell cell--6"><div>
+        <div class="item">
+          <div class="item__content">
+            <div class="item__description">
+              <p>
+                <h2>
+                  <span class="iconfont icon-quora"></span> <a href="https://www.quora.com/profile/Akira-Ant" target="_blank">Quora</a>
+                </h2> 有问题也可以在这上面问我，我也常逛
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -281,43 +322,43 @@ aside:
 <div class="grid-container">
   <div class="grid grid--px-3">
     <div class="cell cell--6"><div>
-        <div class="item"> 
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+        <div class="item">
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h2>
                   <a href="https://antjun.com/" target="_blank">个人博客</a>
                 </h2> 就是本站了
-              </p> 
-            </div> 
-          </div> 
-        </div> 
+              </p>
+            </div>
+          </div>
+        </div>
 </div></div>
     <div class="cell cell--6"><div>
-        <div class="item"> 
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+        <div class="item">
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h2>
                   <a href="https://blog.csdn.net/Akira_Ant" target="_blank">CSDN</a>
                 </h2> 你在我 CSDN 上看到的，这里也能看到
-              </p> 
-            </div> 
-          </div> 
-        </div> 
+              </p>
+            </div>
+          </div>
+        </div>
 </div></div>
     <div class="cell cell--6"><div>
-        <div class="item"> 
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+        <div class="item">
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h2>
                   <a href="https://blog.csdn.net/Akira_Ant" target="_blank">简书</a>
                 </h2> 你在我简书上看到的，这里也能看到
-              </p> 
-            </div> 
-          </div> 
-        </div> 
+              </p>
+            </div>
+          </div>
+        </div>
 </div></div>
   </div>
 </div>
@@ -326,54 +367,53 @@ aside:
 
 暂时只公布两个，如果你知道我其它的邮箱地址的话，用其联系我也是没问题的。
 
-请将 "#" 改为 "@"。
+无端防爬虫，请将 "#" 改为 "@"。
 
 <div class="grid-container">
   <div class="grid grid--px-3">
     <div class="cell cell--6"><div>
-        <div class="item"> 
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+        <div class="item">
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h2>
                   <a href="mailto:AntJun_2016#antjun.com" target="_blank">AntJun_2016#antjun.com</a>
                 </h2> 工作用，通常情况下用于转发邮件
-              </p> 
-            </div> 
-          </div> 
-        </div> 
+              </p>
+            </div>
+          </div>
+        </div>
 </div></div>
     <div class="cell cell--6"><div>
-        <div class="item"> 
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+        <div class="item">
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h2>
                   <a href="mailto:AkiraAnt2016#gmail.com" target="_blank">AkiraAnt2016#gmail.com</a>
                 </h2> 备用的 Gmail，前面那个没法联系就发到这来
-              </p> 
-            </div> 
-          </div> 
-        </div> 
+              </p>
+            </div>
+          </div>
+        </div>
 </div></div>
   </div>
 </div>
 
 ### 其它
 
-嘛，一些我不太想公布的东西，有些也是可以用作联系的。
+嘛，一些我不太想公布的东西，有的也是可以用作联系的，如果你能成功找到我的话。
 
-   - BiliBili ([@Ant蚂蚁君](https://space.bilibili.com/28098803/))
-   - Niconico
-   - 豆瓣
-   - Pixiv
-   - 百度贴吧
-   - Reddit
-   - 知乎 ([@Akira_Ant](https://www.zhihu.com/people/akira_ant){:target="_blank"})
-   - Quora ([@Akira-Ant](https://www.quora.com/profile/Akira-Ant){:target="_blank"})
-   - Stack Overflow
-   - V2EX
-   - Scoop.it
+- Niconico
+- 豆瓣
+- Pixiv
+- 百度贴吧
+- Reddit
+- StackOverflow
+- MCBBS
+- ZODGAME
+- V2EX
+- Scoop.it
 
 etc.
 

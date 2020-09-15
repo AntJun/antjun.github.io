@@ -1,6 +1,6 @@
 ---
 title: Valine 评论系统与 LeanCloud 的结合使用
-tag: ["技术", "教程", "Code"]
+tag: ["技术", "教程", "Code", "Valine", "评论"]
 key: 100001
 cover: /images/landing-cover/2019-11-01-Valine.png
 author: Akira Ant
@@ -35,12 +35,12 @@ article_header:
 
 [Valine](https://leancloud.cn/){:target="_blank"} 与 [LeanCloud](https://www.leancloud.cn/){:target="_blank"} 结合使用。
 
-LeanCloud 
+LeanCloud
 : 是行业领先的一站式后端云服务提供商，专注于为开发者提供一流的工具、平台和服务。 自 2013 年 9 月发布以来，LeanCloud 已经服务超过 22 万开发团队，其中既包括大量创业公司，也有大型商业项目。
 
 ### 获取 APP ID 和 APP KEY
 
-首先[注册](https://leancloud.cn/dashboard/login.html#/signup){:target="_blank"}或[登录](https://leancloud.cn/dashboard/login.html#/signin)到 [LeanCloud](https://leancloud.cn/){:target="_blank"}，打开[控制台](https://leancloud.cn/dashboard/applist.html#/apps){:target="_blank"}。
+首先[注册](https://leancloud.cn/dashboard/login.html#/signup){:target="_blank"}或[登录](https://leancloud.cn/dashboard/login.html#/signin){:target="_blank"}到 [LeanCloud](https://leancloud.cn/){:target="_blank"}，打开[控制台](https://leancloud.cn/dashboard/applist.html#/apps){:target="_blank"}。
 
 点击[创建应用](https://leancloud.cn/dashboard/applist.html#/newapp){:target="_blank"}新建一个应用。
 
@@ -102,7 +102,7 @@ LeanCloud
 
 <a class="button button--primary button--rounded" href="https://www.npmjs.com/package/valine" target="_blank">在 npm 上查看 Valine</a>
 
-如果你需要，你可以通过使用 npm 安装 Valine 。安装后直接将上方你添加的 HTML 片段中的 `//unpkg.com/valine` 改为`你托管的 Valine 路径`便可食用。
+如果你需要，你可以通过使用 npm 安装 Valine 。安装后直接将上方你添加的 HTML 片段中的 `//unpkg.com/valine`（CDN 路径） 改为`你托管的 Valine 路径`便可食用。
 
 新版 Node.js 集成了 npm，前往官方[下载最新版本](https://nodejs.org/en/){:target="_blank"}。
 安装完 Node.js 后，可以通过在`命令提示符`中输入 `npm -v` 检查 npm 版本号。
@@ -148,10 +148,10 @@ new Valine({
         el: '#vcomments' ,
         appId: '<APP_ID>',
         appKey: '<APP_KEY>',
-        notify: true, 
-        verify: true, 
-        avatar: 'mp', 
-        placeholder: '在此处填写评论' 
+        notify: true,
+        verify: true,
+        avatar: 'mp',
+        placeholder: '在此处填写评论'
     });
 </script>
 {% endhighlight %}
@@ -228,10 +228,10 @@ Valine 目前使用的是 [Gravatar](https://cn.gravatar.com/){:target="_blank"}
 
 ## 参考
 
-1. **# 评论数据管理**：
+1. **[评论数据管理](#评论数据管理)**：
 	- [云淡风轻](https://github.com/xCss){:target="_blank"}. [*"Valine - 快速开始"*](https://valine.js.org/quickstart.html){:target="_blank"}. 2017.
 	- [Deserts](https://deserts.io/about/){:target="_blank"}. [*"Valine: 独立博客评论系统"*](https://deserts.io/diy-a-comment-system/){:target="_blank"}. Aug 14, 2017.
-1. **# 在其它框架或主题中使用**：
+1. **[在其它框架或主题中使用](#在其它框架或主题中使用)**：
 	- [kitian616](https://github.com/kitian616/jekyll-TeXt-theme){:target="_blank"}. [*"TeXt Theme 配置 - Valine"*](https://tianqi.name/jekyll-TeXt-theme/docs/en/configuration#valine){:target="_blank"}. Apr 12, 2018.
 
 ---
