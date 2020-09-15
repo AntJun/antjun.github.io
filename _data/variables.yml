@@ -41,8 +41,8 @@ default:
 
 sources:
   bootcdn:
-    font_awesome: 'https://use.fontawesome.com/releases/v5.0.13/css/all.css' # bootcdn not available
-    jquery: 'https://cdn.bootcss.com/jquery/3.1.1/jquery.min.js'
+    font_awesome: 'https://cdnjs.loli.net/ajax/libs/font-awesome/5.4.1/css/all.min.css' # bootcdn not available
+    jquery: 'https://cdn.bootcss.com/jquery/3.5.1/jquery.min.js'
     leancloud_js_sdk: '//cdn.jsdelivr.net/npm/leancloud-storage@3.13.2/dist/av-min.js' # bootcdn not available
     chart: 'https://cdn.bootcss.com/Chart.js/2.7.2/Chart.bundle.min.js'
     gitalk:
@@ -52,8 +52,8 @@ sources:
     mathjax: 'https://cdn.bootcss.com/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML'
     mermaid: 'https://cdn.bootcss.com/mermaid/8.8.0/mermaid.min.js'
   unpkg:
-    font_awesome: 'https://use.fontawesome.com/releases/v5.0.13/css/all.css' # unpkg not available
-    jquery: 'https://unpkg.com/jquery@3.3.1/dist/jquery.min.js'
+    font_awesome: 'https://cdnjs.loli.net/ajax/libs/font-awesome/5.4.1/css/all.min.css' # unpkg not available
+    jquery: 'https://unpkg.com/jquery@3.5.1/dist/jquery.min.js'
     leancloud_js_sdk: '//cdn.jsdelivr.net/npm/leancloud-storage@3.13.2/dist/av-min.js' # unpkg not available
     chart: 'https://unpkg.com/chart.js@2.7.2/dist/Chart.min.js'
     gitalk:

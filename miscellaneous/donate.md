@@ -1,5 +1,6 @@
 ---
 layout: miscellaneous
+key: donate
 sharing: true
 lightbox: true
 titles:

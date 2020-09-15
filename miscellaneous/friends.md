@@ -1,5 +1,6 @@
 ---
 layout: miscellaneous
+key: friends
 sharing: true
 lightbox: true
 titles:
