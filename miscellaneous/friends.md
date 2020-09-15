@@ -53,135 +53,135 @@ aside:
 
 这里会收集一些其它博客的链接，顺序不分先后哦～
 
-<div class="grid-container"> 
-  <div class="grid grid--p-3"> 
+<div class="grid-container">
+  <div class="grid grid--p-3">
     <div class="cell cell--6">
-      <div> 
-        <div class="item"> 
-<div class="item__image" markdown="1"> 
+      <div>
+        <div class="item">
+<div class="item__image" markdown="1">
   <img class="image image--sm" src="https://tding.top/images/avatar.webp"/>{:.border.rounded}
-</div>  
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+</div>
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h4>
                   <a href="https://tding.top/" target="_blank">@ 小丁的个人博客</a>
                 </h4> 世间所有的相遇，都是久别重逢
-              </p> 
-            </div> 
-          </div> 
-        </div> 
-      </div> 
-    </div>  
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="cell cell--6">
-      <div> 
-        <div class="item"> 
-<div class="item__image" markdown="1"> 
+      <div>
+        <div class="item">
+<div class="item__image" markdown="1">
   <img class="image image--sm" src="https://blog.honoka.club/images/avatar.jpg"/>{:.border.rounded}
-</div>  
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+</div>
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h4>
                   <a href="https://tding.top/" target="_blank">@ dz_paji's blog</a>
                 </h4> Das Ende ist nah!
-              </p> 
-            </div> 
-          </div> 
-        </div> 
-      </div> 
-    </div>  
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="cell cell--6">
-      <div> 
-        <div class="item"> 
-<div class="item__image" markdown="1"> 
+      <div>
+        <div class="item">
+<div class="item__image" markdown="1">
   <img class="image image--sm" src="https://www.littleqiu.net/wp-content/uploads/2018/01/Avatar.png"/>{:.border.rounded}
-</div>  
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+</div>
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h4>
                   <a href="https://www.littleqiu.net/" target="_blank">@ DreamCity</a>
                 </h4> 迷茫少年的梦想世界
-              </p> 
-            </div> 
-          </div> 
-        </div> 
-      </div> 
-    </div>  
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="cell cell--6">
-      <div> 
-        <div class="item"> 
-<div class="item__image" markdown="1"> 
+      <div>
+        <div class="item">
+<div class="item__image" markdown="1">
   <img class="image image--sm" src="https://6sheep.gitee.io/10101.demo/comic/10101/headshot/0%20(2).png"/>{:.border.rounded}
-</div>  
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+</div>
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h4>
                   <a href="https://szhshp.org/" target="_blank">@ szhshp 的第三边境研究所</a>
                 </h4> 6sheep, to be different.
-              </p> 
-            </div> 
-          </div> 
-        </div> 
-      </div> 
-    </div>  
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="cell cell--6">
-      <div> 
-        <div class="item"> 
-<div class="item__image" markdown="1"> 
+      <div>
+        <div class="item">
+<div class="item__image" markdown="1">
   <img class="image image--sm" src="https://gravatar.loli.net/avatar/5e6892e999ca8c85a358d21164167f38?s=128"/>{:.border.rounded}
-</div>  
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+</div>
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h4>
                   <a href="https://moedog.org/" target="_blank">@ 犬'S BLOG</a>
                 </h4> I'm very vegetable and very poor.
-              </p> 
-            </div> 
-          </div> 
-        </div> 
-      </div> 
-    </div>  
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="cell cell--6">
-      <div> 
-        <div class="item"> 
-<div class="item__image" markdown="1"> 
+      <div>
+        <div class="item">
+<div class="item__image" markdown="1">
   <img class="image image--sm" src="https://zzlake.com/storage/2017/04/Avatar_Dennis-RoundCorner_PNG.png"/>{:.border.rounded}
-</div>  
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+</div>
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h4>
                   <a href="https://zzlake.com/" target="_blank">@ 柏吃支醉的个人小站</a>
                 </h4> 醉生湖 — rich world, poor you
-              </p> 
-            </div> 
-          </div> 
-        </div> 
-      </div> 
-    </div>  
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="cell cell--6">
-      <div> 
-        <div class="item"> 
-<div class="item__image" markdown="1"> 
+      <div>
+        <div class="item">
+<div class="item__image" markdown="1">
   <img class="image image--sm" src="https://www.drblack-system.com/wp-content/themes/Kratos-dr/images/photo.jpg"/>{:.border.rounded}
-</div>  
-          <div class="item__content"> 
-            <div class="item__description"> 
-              <p> 
+</div>
+          <div class="item__content">
+            <div class="item__description">
+              <p>
                 <h4>
                   <a href="https://www.drblack-system.com/" target="_blank">@ DrBlackの锦里</a>
                 </h4> 胸に刻まれる あなたとの日々よ
-              </p> 
-            </div> 
-          </div> 
-        </div> 
-      </div> 
-    </div>  
-  </div> 
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
 
 ## 一些迷失了的小站
@@ -192,18 +192,18 @@ aside:
 
 ## 添加友链方式
 
-<b><i class="fas fa-info"></i> 友链申请需求</b>
+<b> 友链申请需求</b>
 <br/> 1. 可以访问且内容持续更新
 <br/> 2. 网站页面整洁，无繁杂广告
 <br/> 3. 不涉及违反《中华人民共和国网络安全法》的相关内容
 {:.warning}
 
-<b><i class="fas fa-plus-circle"></i> 友链申请格式</b>
+<b> 友链申请格式</b>
 <br/>如果你想与我互换友链，可以随时联系我或在此页下方以以下格式评论。
 <br/> 1. 网站名称：(e.g. @ 音乃木坂 Coffee House)
 <br/> 2. 网站地址：(e.g. [https://www.antjun.com/](https://www.antjun.com/))
 <br/> 3. 网站简介：(e.g. Welcome to Akira_Ant's Blog)
-<br/> 4. 网站头像：(e.g. [https://www.antjun.com/images/temphead1.jpg](https://www.antjun.com/images/temphead-1.jpg))
+<br/> 4. 网站头像：(e.g. [https://www.antjun.com/favicon-32x32.png](https://www.antjun.com/favicon-32x32.png))
 {:.success}
 
 ---

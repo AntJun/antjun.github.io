@@ -4,11 +4,11 @@ type: article
 lightbox: true
 --- 
 
-<!-- 字数统计与阅读时长估计 -->
+<!-- Word count and reading time estimation -->
 <div class="fade-in-words">
   <div class="first-words">
     <center>
-      <b><span><i class="fa fa-file-word-o"></i> 本文总共 {{ page.content | strip_html | strip_newlines | remove: " " | size }} 字 | <i class="fa fa-clock-o"></i> 阅读全文大约需要 {{ page.content | strip_html | strip_newlines | remove: " " | size | divided_by: 350 | plus: 1 }} 分钟 </span></b>
+      <b><span><span class="iconfont icon-statistics"></span> 本文总共 {{ page.content | strip_html | strip_newlines | remove: " " | size }} 字 | <span class="iconfont icon-time"></span> 阅读全文大约需要 {{ page.content | strip_html | strip_newlines | remove: " " | size | divided_by: 350 | plus: 1 }} 分钟 </span></b>
     </center>
   </div>
 </div>
@@ -28,8 +28,8 @@ lightbox: true
   {%- include scripts/article.js -%}
 </script> 
 
-<!-- 载入 "APlayer" (HTML,JS) -->
+<!-- Load "APlayer" (HTML,JS) -->
 <div id="aplayer"></div>
 <script src="/plugins/aplayer/APlayer.min.js"></script> 
-<!-- 载入 Aplayer JS 列表信息，如需添加新列表请继续补充 --> 
+<!-- Load "Aplayer JS List" (BEING ADDED)(JS) --> 
 <script src="/plugins/aplayer/music.js"></script> 

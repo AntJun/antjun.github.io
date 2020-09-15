@@ -34,6 +34,6 @@ The following is some functional test content (don't care about it ~)
 
 ### Icons
 
-<i class="fa fa-qq" aria-hidden="true"></i>
+<i class="fas fa-bars icon--show"></i> 
 
 ---
