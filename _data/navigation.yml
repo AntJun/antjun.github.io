@@ -1,7 +1,7 @@
 header:
   - titles:
       # @start locale config
-      icon    : &ICON     <i class="fas fa-home"></i>
+      icon    : &ICON     <span class="iconfont icon-home"></span>
       en      : &EN       Home
       en-GB   : *EN
       en-US   : *EN
@@ -27,7 +27,7 @@ header:
     
   - titles:
       # @start locale config
-      icon    : &ICON     <i class="fas fa-tags"></i> 
+      icon    : &ICON     <span class="iconfont icon-archive"></span>
       en      : &EN       Archive
       en-GB   : *EN
       en-US   : *EN
@@ -53,7 +53,7 @@ header:
 
   - titles:
       # @start locale config
-      icon    : &ICON     <i class="fas fa-user"></i>
+      icon    : &ICON     <span class="iconfont icon-about"></span>
       en      : &EN       About
       en-GB   : *EN
       en-US   : *EN
@@ -79,7 +79,7 @@ header:
     
   - titles:
       # @start locale config
-      icon    : &ICON     <i class="fas fa-users"></i>
+      icon    : &ICON     <span class="iconfont icon-my-studio"></span>
       en      : &EN       Studio
       en-GB   : *EN
       en-US   : *EN
@@ -105,7 +105,7 @@ header:
     
   - titles:
       # @start locale config
-      icon    : &ICON     <i class="fas fa-link"></i>
+      icon    : &ICON     <span class="iconfont icon-links"></span>
       en      : &EN       Friends
       en-GB   : *EN
       en-US   : *EN
@@ -131,7 +131,7 @@ header:
     
   - titles:
       # @start locale config
-      icon    : &ICON     <i class="fas fa-donate"></i>
+      icon    : &ICON     <span class="iconfont icon-sponsoresd"></span>
       en      : &EN       Donate
       en-GB   : *EN
       en-US   : *EN
@@ -156,10 +156,10 @@ header:
     url: /miscellaneous/donate.html
     
 docs-zh:
-  - title:      <i class="fa fa-globe"></i> 一言
+  - title:      <span class="iconfont icon-word"></span> 一言
     children:
       - title: 「<p id="hitokoto" style="display:inline">...</p>」</br>—— <p id="from" style="display:inline">...</p>
-  - title:  <i class="fa fa-sliders" aria-hidden="true"></i> 导航
+  - title:  <span class="iconfont icon-navigation"></span> 导航
     children:
       - title:  归档
         url:    /archive.html
@@ -171,13 +171,13 @@ docs-zh:
         url:    /miscellaneous/friends.html
       - title:  赞助
         url:    /miscellaneous/donate.html
-  - title:      <i class="fa fa-sitemap"></i> 扩展
+  - title:      <span class="iconfont icon-extend"></span> 扩展
     children:
       - title:  音乐
         url:    http://music.163.com/playlist?id=3183686521&userid=349534750
       - title:  视频
         url:    https://space.bilibili.com/28098803/
-  - title:      <i class="fa fa-language"></i> 其他语言
+  - title:      <span class="iconfont icon-language"></span> 其他语言
     children:
       - title:  English
         url:    /en/
@@ -185,10 +185,10 @@ docs-zh:
         url:    /
         
 docs-en:
-  - title:      <i class="fa fa-globe"></i> A Saying
+  - title:      <span class="iconfont icon-word"></span> Hitokoto
     children:
       - title: 「<p id="hitokoto" style="display:inline">...</p>」</br>—— <p id="from" style="display:inline">...</p>
-  - title:  <i class="fa fa-sliders" aria-hidden="true"></i> Navigation
+  - title:  <span class="iconfont icon-navigation"></span> Navigation
     children:
       - title:  Archive
         url:    /archive.html
@@ -200,7 +200,7 @@ docs-en:
         url:    /miscellaneous/friends.html
       - title:  Donate
         url:    /miscellaneous/donate.html
-  - title:      <i class="fa fa-sitemap"></i> Expansion
+  - title:      <span class="iconfont icon-extend"></span> Expansions
     children:
       - title:  Music
         url:    http://music.163.com/playlist?id=3183686521&userid=349534750
@@ -209,7 +209,7 @@ docs-en:
       - title:  Archive
         url:    /archive
         
-  - title:      <i class="fa fa-language"></i> Languages
+  - title:      <span class="iconfont icon-language"></span> Languages
     children:
       - title:  English
         url:    /en

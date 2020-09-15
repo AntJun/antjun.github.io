@@ -36,7 +36,9 @@ layout: base
 <div class="page__mask d-print-none js-page-mask js-sidebar-hide"></div>
 <div class="page__viewport">
 <div class="page__actions d-print-none">
-  <div class="button button--circle button--lg box-shadow-2 sidebar-button js-sidebar-show"> <i class="fas fa-bars icon--show"></i> </div>
+  <div class="button button--circle button--lg box-shadow-2 sidebar-button js-sidebar-show">
+	  <span class="iconfont icon-fa-bars"></span>
+	</div>
 </div>
 <div class="grid page__grid">
 <div class="page__sidebar d-print-none"> {%- include sidebar/toc.html -%} </div>
@@ -172,7 +174,7 @@ layout: base
 <article itemscope itemtype="https://schema.org/WebPage">
 {%- else -%}
 <article> {%- endif -%}
-  
+
   {%- if _article_header_type == 'overlay' or page.article_header == false -%}
   {%- include article-header.html article=page html=false -%}
   {%- include article-info.html article=page html=false -%}
@@ -202,8 +204,8 @@ layout: base
 {%- comment -%} end grid {%- endcomment -%}
 </div>
 {%- comment -%} end page__viewport {%- endcomment -%}
-{%- endif -%} 
-<script>{%- include scripts/lib/modal.js -%}</script> 
+{%- endif -%}
+<script>{%- include scripts/lib/modal.js -%}</script>
 {%- if _lightbox == true -%}
 <div class="modal d-print-none js-page-gallery-modal">
   <div class="gallery"></div>
@@ -222,21 +224,21 @@ layout: base
     {%- include scripts/components/lightbox.js -%}
   {%- endif -%}
   {%- include scripts/page.js -%}
-</script> 
-{%- if page.sidebar -%} 
-<script>{%- include scripts/components/sidebar.js -%}</script> 
+</script>
+{%- if page.sidebar -%}
+<script>{%- include scripts/components/sidebar.js -%}</script>
 {%- endif -%}
 
-{%- if page.aside -%} 
+{%- if page.aside -%}
 <script>
   /* toc must before affix, since affix need to konw toc' height. */
   {%- if page.aside.toc -%}{%- include scripts/aside/toc.js -%}{%- endif -%}
   {%- include scripts/aside/affix.js -%}
-</script> 
+</script>
 {%- endif -%}
 
 {%- include markdown-enhancements.html -%}
-{%- include pageview.html -%} 
+{%- include pageview.html -%}
 <script>
 function clear() {
 Source=document.body.firstChild.data;
@@ -244,9 +246,9 @@ document.open();
 document.close();
 document.body.innerHTML=Source;
 }
-</script> 
+</script>
 
-<!-- 载入 "Swiper" (JS) --> 
+<!-- Load "Swiper" (JS) -->
 <script>
   {%- include scripts/lib/swiper.js -%}
   var SOURCES = window.TEXT_VARIABLES.sources;
@@ -257,13 +259,25 @@ document.body.innerHTML=Source;
     $('.swiper-demo--3').swiper();
     $('.swiper-demo--4').swiper({ animation: false });
   });
-</script> 
+</script>
 
-<!-- 载入 "Tidio Talk Btn" (HTML) --> 
+<!-- Load "Jump to specify comments on Valine" (JS) -->
+<script>
+    if(window.location.hash){
+        var checkExist = setInterval(function() {
+           if ($(window.location.hash).length) {
+              $('html, body').animate({scrollTop: $(window.location.hash).offset().top-90}, 1000);
+              clearInterval(checkExist);
+           }
+        }, 100);
+    }
+</script>
+
+<!-- Load "Tidio talk Btn" (HTML) -->
 <a href="https://www.tidio.com/talk/sxckmifzoby3pvxulh7rdv8onfwyt373" target="_blank" rel="noopener" aria-label="Contact us on Tidio.">
-<button class="tidio-btn demo" aria-label="Communication"> <i class="fas fa-comments"></i> </button>
-</a> 
+<button class="tidio-btn demo" aria-label="Communication"> <span class="iconfont icon-chat"></span> </button>
+</a>
 
-<!-- 载入 "Back to top" (HTML,JS) -->
-<button id="back-to-top-btn"><i class="fas fa-angle-double-up"></i></button>
+<!-- Load "Back to top" (HTML,JS) -->
+<button id="back-to-top-btn"> <span class="iconfont icon-back-to-top"></span> </button>
 <script src="/plugins/back-to-top.js"></script>
