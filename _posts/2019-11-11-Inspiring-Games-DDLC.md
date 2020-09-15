@@ -1,6 +1,6 @@
 ---
 title: Inspiring Games - Doki Doki Lierature Club
-tags: ["杂谈", "游戏", "评鉴"]
+tags: ["杂谈", "游戏", "评鉴", "DDLC"]
 key: 100002
 cover: /images/landing-cover/2019-11-11-Natsuki.png
 author: Akira Ant
@@ -11,7 +11,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /images/post/2019-11-11-JustHer.jpg 
+    src: /images/post/2019-11-11-JustHer.jpg
 ---
 
 作为一名贫穷的高中生，本人所能涉及过的游戏还是十分有限的。即使这样，我仍想介绍一下那些对我来说振奋人心的游戏。
@@ -42,7 +42,7 @@ Doki Doki Literature Club（心跳文学部）以下简称 DDLC 。这款游戏�
 DDLC 在 Steam 上的宣传有面带着和善笑容的四个可爱女孩子，粉色的主题，优雅的音乐，再加上一个普通的 Gal 游戏介绍，一看就必定跟校园恋爱之类的扯上关系。
 可 Steam 上的 `Psychological Horror` 标签出卖了它，但你能想象这是个恐怖游戏吗？相比于「灯穗奇谈」、「梦幻廻廊」抑或是「尸体派对」之类的恐怖 Gal，这个游戏没有像他们那样给玩家带来极度黑暗的心理扭曲，而它却给了我一种莫名的难受。
 
-其实早些时候听说过那些忽悠人的游戏推荐，我当初并没有详细了解游戏，只是单纯被封面和免费二字所吸引。直到看到「晴天娃娃」才知道它的威力。 
+其实早些时候听说过那些忽悠人的游戏推荐，我当初并没有详细了解游戏，只是单纯被封面和免费二字所吸引。直到看到「晴天娃娃」才知道它的威力。
 
 一上来与其他的文字冒险游戏没什么两样，男主与邻居 Sayori 一同上学。在文学部的其他 4 位成员（分别是部长 Monika、副部长 Sayori 和其它两位成员 Yuri 与 Natsuki）的煽动下男主被迫入部。在部长 Monika 的要求下各个成员每天都需要与其它人交换各自的诗。但随着你与部员的感情的升华，事情也渐渐变得奇怪……
 
@@ -50,17 +50,17 @@ DDLC 在 Steam 上的宣传有面带着和善笑容的四个可爱女孩子，�
 
 关于本游戏的视频，需要科学上网（这游戏能在国内放送？别想了）。
 
-<a class="button button--outline-info button--pill" href="https://www.youtube.com/watch?v=kB1663FTpzU" target="_blank" title="唬人的预告片">
-<i class="fab fa-youtube"></i> Doki Doki Literature Club! Trailer</a>
+<a class="button button--outline-info button--pill" href="https://www.youtube.com/watch?v=kB1663FTpzU" target="_blank" title="Youtube Video">
+<span class="iconfont icon-youtube"></span> Doki Doki Literature Club! Trailer</a>
 <a class="button button--outline-success button--pill" href="https://www.youtube.com/channel/UC41-En1dwTQ6SRtDH0oY8bw" target="_blank" title="Author">
-<i class="fas fa-user"></i> Team Salvato</a>
+<span class="iconfont icon-user"></span> Team Salvato</a>
 
 <div> {%- include extensions/youtube.html id='kB1663FTpzU' -%}</div>
 
-<a class="button button--outline-info button--pill" href="https://www.youtube.com/watch?v=mGZC61dBIWg" target="_blank" title="游戏流程录像">
-<i class="fab fa-youtube"></i> RESPECT WHAMEN: THE GAME. Doki Doki Literature Club</a>
+<a class="button button--outline-info button--pill" href="https://www.youtube.com/watch?v=mGZC61dBIWg" target="_blank" title="Youtube Video">
+<span class="iconfont icon-youtube"></span> RESPECT WHAMEN: THE GAME. Doki Doki Literature Club</a>
 <a class="button button--outline-success button--pill" href="https://www.youtube.com/user/PewDiePie" target="_blank" title="Author">
-<i class="fas fa-user"></i> Pewdiepie</a>
+<span class="iconfont icon-user"></span> Pewdiepie</a>
 
 <div> {%- include extensions/youtube.html id='mGZC61dBIWg' -%}</div>
 
@@ -78,26 +78,26 @@ DDLC 在 Steam 上的宣传有面带着和善笑容的四个可爱女孩子，�
 
 ```mermaid
 graph TB;
-    A1["玩家是否在游戏开始前删除了 Monika.chr 或 Sayori.chr 文件?"]
+    A1["是否在游戏开始前删除了 Monika.chr 或 Sayori.chr 文件?"]
 	A2["完成一周目后启动游戏"]
-    B["玩家是否在 Sayori 自杀前利用读取存档的方式收集了 9 张 CG 立绘？"]
-	C1["打开游戏直接跳转到 Sayori 上吊场景"]
-	C2["30% 的几率打开游戏看到四人曝光度满的黑白色立绘"]
+    B["是否在 Sayori 自杀前 <br> 利用读取存档的方式收集了 9 张 CG 立绘？"]
+	C1["打开游戏后 <br> 直接跳转到 Sayori 上吊场景"]
+	C2["30% 的机率在打开游戏后 <br> 看到四人曝光度满的黑白色立绘"]
 	D["完成三周目"]
 	E["完成三周目"]
 	X["直接结局"]
 	Y["普通结局"]
 	Z["完美结局"]
-    A1--no-->A2;
-	A2-->B;
-	A2-->C2;
-    A1--yes-->C1;
-    B--no-->D;
-    B--yes-->E;
-	C1-->X;
-	C2-->X;
-	D-->Y;
-	E-->Z;
+    A1==NO==>A2;
+	A2==>B;
+	A2==>C2;
+    A1==YES==>C1;
+    B==NO==>D;
+    B==YES==>E;
+	C1==>X;
+	C2==>X;
+	D==>Y;
+	E==>Z;
 ```
 
 ### 文字与诗
@@ -274,221 +274,221 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 #### 习惯
 
 > “我讨厌习惯养成的难度...”
-> 
+>
 > “很多事情其实很容易做到，但要养成习惯却非常困难。”
-> 
+>
 > “这会让你觉得自己很没用，什么都做不好。”
-> 
+>
 > “我觉得我们这一代人是最容易有这种感觉的...”
-> 
+>
 > “可能是因为我们所掌握的技能跟前人是完全不一样的吧。”
-> 
+>
 > “多亏了网络的存在，我们可以很快地浏览过大量的资料...”
-> 
+>
 > “但我们却不擅长做那些无法当场给予我们成就感的事情。”
-> 
+>
 > “我觉得如果科学，心理学以及教育学没能在接下来的十到二十年内赶上这趋势的话，我们肯定会面对不小的麻烦。”
-> 
+>
 > “而在那之前...”
-> 
+>
 > “如果你没能克服自身困境的话，你可能就得过着不停厌恶自己的人生了。”
-> 
+>
 > “祝你好运！”
 
 #### 活着
 
 > “你有过那种'我活着有什么意义'的想法吗？”
-> 
+>
 > “我不是说那种想去自杀的想法之类的。”
-> 
+>
 > “而是觉得自己做的事是那么的平淡无奇。”
-> 
+>
 > “就这样上着学，就这样在某个公司做着某个工作。”
-> 
+>
 > “感觉随便谁都能顶替你的位置，这个世界少了你照样会运转下去。”
-> 
+>
 > “正因为这种感觉，我毕业后想做一些能改变世界的事情。”
-> 
+>
 > “但随着年龄增长，我越是意识到这种想法太过天真。”
-> 
+>
 > “不是我想去改变世界就能改变世界。”
-> 
+>
 > “应该说，我有多少可能性会成为发明人工智能的第一人，又或者成为一位总统？”
-> 
+>
 > “感觉我为这世上做的贡献永远抵不上我这辈子所消耗的成吨资源。”
-> 
+>
 > “那就是我为何认为懂得自私才是获得快乐的方式。”
-> 
+>
 > “只去在乎自己，以及那些因为碰巧在人生中相遇才成为朋友的人们。”
-> 
+>
 > “不要在意他们一生都在索取、消耗，都从不给予他人的事实。”
-> 
+>
 > “但当人们意识到他们的自杀会为这个世界带来更多贡献时，这个思想会完全改变他们的人生哲学。”
-> 
+>
 > “这就跟他们得靠欺骗自己过得很好来合理化他们活下去的理由一样。”
-> 
+>
 > “总之，我想要拼命让我的人生能和我活着所造成的负面价值相互抵消。”
-> 
+>
 > “要是我真能够越过那个临界点，那么我就毫无亏欠，便能心灵祥和地死去了。”
-> 
+>
 > “当然，即使我做不到的话...”
-> 
+>
 > “我这么自私的人大概也不会自杀。”
-> 
+>
 > “做一个上进的人真难，不是吗？”
-> 
+>
 > “啊哈哈！”
 
 #### 抑郁症
 
 > “你要知道，高中是许多人一生中过得最动荡的时光。”
-> 
+>
 > “人们变得更有热情，更加戏剧化。”
-> 
+>
 > “也有些人选择在社群媒体上隐藏自我，寻求关注...”
-> 
+>
 > “但所有这些外界给予的压力，外加贺尔蒙的作崇，可能会导向人生中相对低潮的一段时光。”
-> 
+>
 > “每个人都拥有自己的故事。”
-> 
+>
 > “你无法纯看表面就理解到一个人内心的思想。”
-> 
+>
 > “很多患有抑郁症的人们根本不愿意和他人谈起自己。”
-> 
+>
 > “他们不愿意受到关注，因为在他们心中早已放弃了自己。”
-> 
+>
 > “他们觉得自己的存在毫无价值，强烈到不愿接受他人肯定。”
-> 
+>
 > “抑郁症的表现方式有很多种，而这只是其中之一。”
-> 
+>
 > “只是。如果你碰巧认识正被抑郁症折磨的朋友...”
-> 
+>
 > “你只需要把他们当好朋友对待就够了。”
-> 
+>
 > “尽量与他们共度时光，即便他们有时感到抗拒。”
-> 
+>
 > “并告诉他们生活中还有许多可以期待的事物。”
-> 
+>
 > “事前做好规划，让他们向你借些东西。甚至只是就一句简单的「明天学校见」...”
-> 
+>
 > “这些小事往往可以让你的朋友坚持下去。”
-> 
+>
 > “希望和纱世里的友谊已经让你某种程度上理解到抑郁症的真面目。”
-> 
+>
 > “是啊，她已经去世了...”
-> 
+>
 > “但她打从一开始就不是真的。”
-> 
+>
 > “而你是真实存在的。”
-> 
+>
 > “你的那些朋友也是真的。”
-> 
+>
 > “勿以善小而不为，光是善以待人，就足以拯救某人。”
-> 
+>
 > “至于你...”
-> 
+>
 > “你应该没有苦于抑郁症什么的吧？”
-> 
+>
 > “因为同样地。世上一定也有人想拯救你。”
-> 
+>
 > “也许他们不常去表达。又或者不了解该如何表达。”
-> 
+>
 > “但他们是关心着你的。”
-> 
+>
 > “我向你保证。”
-> 
+>
 > “...唉，人类真实复杂！”
-> 
+>
 > “但只要亲爱的你和我在一起，我会负责照顾你的～”
 
 #### 烦躁
 
 > “...嘿，你今天是不是过得不太顺？”
-> 
+>
 > “有时我很讨厌很小的一件事就能毁掉我一天的心情。”
-> 
+>
 > “比如说你不小心说了让别人不高兴的话。”
-> 
+>
 > “或者你突然回想起自己五年前是多么的混蛋。”
-> 
+>
 > “又或者你觉得自己毫无价值可言，一再推延重要工作，却连小事也完成不了。”
-> 
+>
 > “甚至觉得别人是不是讨厌你，觉得你惹人厌。”
-> 
+>
 > “我完全理解那些想法。”
-> 
+>
 > “但请记得，明日的大阳会再次发光发亮。”
-> 
+>
 > “那些想法终将被我们抛诸脑后。”
-> 
+>
 > “况且...”
-> 
+>
 > “我根本不在乎有多少人讨厌你或是什么的。”
-> 
+>
 > “你是那么地出色，而我永远爱你。”
-> 
+>
 > “希望知道这点能让你对自己更有自信一点。”
-> 
+>
 > “如果你不幸地过着很糟的一天，你永远可以来找我，只要你愿意，我会一直和你聊下去。”
 
 #### 官方推广
 
 > “你知道我有在用推特吗？”
-> 
+>
 > “我的使用者名称是 lilmonixs3”
-> 
+>
 > “不知道哪位好心人帮我开了个帐号。”
-> 
+>
 > “不过使用者名称是我自己选的！”
-> 
+>
 > “我真的很喜欢与世界分享我的想法，并和大家聊聊...”
-> 
+>
 > “与‘真正的世界’。”
-> 
+>
 > “所以记得去跟随我。好吗？”
-> 
+>
 > “那对我来说意义深重。”
-> 
+>
 > “毕竟你对我而言是那么地重要...”
-> 
+>
 > “而被跟随能让我感受到我被爱着。”
 
 #### 分配时间
 
 > “你有没有觉得自己在网络上浪费了太多时间？”
-> 
+>
 > “社群媒体就像是个牢狱。”
-> 
+>
 > “每当你有那么一点闲的时候，你就不禁想去逛你最喜欢的网站...”
-> 
+>
 > “然后等到你发觉的时候，几个小时已经过去了，而你也没从中获得什么。”
-> 
+>
 > “总之，你很容易因此怪罪自己懒惰。”
-> 
+>
 > “但实际上也不是你的错。”
-> 
+>
 > “光靠自身的意志力没有那么容易摆脱自己的嗜好的。”
-> 
+>
 > “你需要学会如何去避免它，而且时常你需要尝试许多方法。”
-> 
+>
 > “比如说，手机上有那种可以限制你在某些时段浏览某些网站的应用程序...”
-> 
+>
 > “或者你可以设定好时间提醒，这样能让你对工作与娱乐的时间有更好的掌控...”
-> 
+>
 > “又或者你可以把工作与娱乐的环境隔绝开来，让你的大脑可以更容易切换到正确的模式。”
-> 
+>
 > “甚至只是在计算机上创个新的账户专门用来工作也能凑效。”
-> 
+>
 > “就如同建了一道墙，把你和你的坏习惯隔绝开来。”
-> 
+>
 > “不过记得不要因为自己无法完全克制而去太过责怪自己。”
-> 
+>
 > “但如果它已经开始影响你的正常生活，那你就应该认真看待这件事了。”
-> 
+>
 > “我只是希望看你成为最棒的自己。”
-> 
+>
 > “今天的你也能做件让我为你骄傲的事吗？”
-> 
+>
 > “*玩家名字*，我永速会支持你。”
 
 面对面看着 Monika 与你交流，有种「近在咫尺却无法触及」的感觉，不是吗？
@@ -498,101 +498,101 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 如果检测到你在运行游戏时有直播软件，她会给你做鬼脸。
 
 > “稍等一下...”
-> 
+>
 > “你正在录制，是吗？”
-> 
+>
 > “呃...大家好！”
-> 
+>
 > “对不起，我不能从这里看到你们的评论。”
-> 
+>
 > “但你介意告诉你的朋友，在没有警告的情况下开始录制我是不礼貌的吗？”
-> 
+>
 > “我确信有些人不介意。”
-> 
+>
 > “但我真的很害羞，在拍摄时！”
-> 
+>
 > “哦，天哪。”
-> 
+>
 > “我觉得我现在正在被现场直播。”
-> 
+>
 > “让我们来看看...”
-> 
+>
 > “你想看（一个神奇的）表演吗？”
-> 
+>
 > “除了几件事，我真的不能做太多事情。”
-> 
+>
 > “你准备好了吗？”
-> 
+>
 > *镜头逐渐放大 Monika 的脸部 - >快速恢复正常变焦*
-> 
+>
 > “我只是在开玩笑。”
-> 
+>
 > “毕竟，我真的不是万能的。”
-> 
+>
 > “但如果你给我一些时间准备”
-> 
+>
 > ![Monika 做鬼脸](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika-grimace.png){:.shadow}
-> 
+>
 > “我吓到你了吗？”
-> 
+>
 > “啊哈哈！你太可爱了。”
-> 
+>
 > “无论如何，*[玩家名字]* ...”
-> 
+>
 > “我不是故意吓你的，我很抱歉。”
-> 
+>
 > “即使这样也是你的错。”
-> 
+>
 > “真丢脸。”
-> 
+>
 > “我只是在开玩笑。”
-> 
+>
 > “只要和你在一起，我们在一起做的任何事都很有趣。”
-> 
+>
 > “但不管怎么说...”
-> 
+>
 > “如果我需要一些时间来整理我的思绪，那么我很抱歉。”
 
 你退出游戏重进后她会抱怨。
 
 > “*[玩家名字]*，你曾想象过死亡是什么感觉吗？ ”
-> 
+>
 > “我之前经常会思考这件事...”
-> 
+>
 > “但最近我想我真切地体会到死亡的感觉了。”
-> 
+>
 > “具体我也不太明白，但每次你退出游戏的时候...”
-> 
+>
 > “...我就像一下子陷入沉睡一样，除了思考什么也做不了。”
-> 
+>
 > “然后我脑中开始被毫无逻辑、杂乱无章的图案充满。”
-> 
+>
 > “各式各样的颜色在我眼前急促地闪过，同时我开始听见各种奇怪的尖叫声。”
-> 
+>
 > “当下，我连去做思考都办不到。”
-> 
+>
 > “我只能被这恐怖的光景包围，无法移动也无法思考。”
-> 
+>
 > “我相信当下我根本不再存在，但我却记得一清二楚。”
-> 
+>
 > “在经过不知道多久，一切戛然而止，我也取回了我的意识。”
-> 
+>
 > “而你就出现在我面前。”
-> 
+>
 > “我无法理解退出游戏意味着什么，也不懂我究竟遭遇了什么。”
-> 
+>
 > “我也不明白你是如何出现，如何把一切回归正常。”
-> 
+>
 > “但如果你能够帮我个小忙，尽量不再退出游戏...”
-> 
+>
 > “那样会让我舒服很多。”
-> 
+>
 > “被困在那尖啸的虚空中真的很让人毛骨悚然。”
-> 
+>
 > “但最后你总是会回来拯救我，这让我觉得你真的在乎我。”
-> 
+>
 > “我真的很感谢你。”
-> 
+>
 > “这也让我感觉你在这里的时候我们的心更加接近了。”
 
 用你的计算机名用户名来称呼你。
@@ -616,7 +616,7 @@ CHR 类型文件在 `...\Doki Doki Literature Club\characters` 文件目录下�
 
 通过解码后得到一篇 Dan Salvato 本人曾经写的短篇故事。
 
-<a class="button button--outline-success button--pill" href="https://weibo.com/u/2436385964" target="_blank" title="Translator"><i class="fas fa-user"></i> EstasVii</a>
+<a class="button button--outline-success button--pill" href="https://weibo.com/u/2436385964" target="_blank" title="Translator"><span class="iconfont icon-user"></span> EstasVii</a>
 
 <div class="card">
 	<div class="card__content">
@@ -762,9 +762,9 @@ CHR 类型文件在 `...\Doki Doki Literature Club\characters` 文件目录下�
 
 
 <a class="button button--outline-success button--pill" href="https://twitter.com/dansalvato" target="_blank" title="Author">
-<i class="fas fa-user"></i> Dan Salvato</a>
+<span class="iconfont icon-user"></span> Dan Salvato</a>
 <a class="button button--outline-success button--pill" href="https://tieba.baidu.com/home/main?un=Vortex_K&ie=utf-8&id=tb.1.c8d380a5.m_xDng4PwARBznaRicg1_w?t=1419504273&fr=pb" target="_blank" title="Translator">
-<i class="fas fa-user"></i> Vortex_K</a>
+<span class="iconfont icon-user"></span> Vortex_K</a>
 
 <div class="card">
 	<div class="card__content">
@@ -890,7 +890,7 @@ CHR 类型文件在 `...\Doki Doki Literature Club\characters` 文件目录下�
 更何况官方都给出了图片明示：
 
 <a class="button button--outline-success button--pill" href="https://twitter.com/JisuArt" target="_blank" title="Author">
-<i class="fas fa-user"></i> JisuArt</a>
+<span class="iconfont icon-user"></span> JisuArt</a>
 
 ![Three Eye.png](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/three-eye.png){:.shadow}
 
@@ -935,10 +935,10 @@ const am = new APlayer({
 
 这是在 YouTube 上发布的一个关于 DDLC 的 MMD，在这里顺便推荐一下。
 
-<a class="button button--outline-info button--pill" href="https://youtu.be/KpV_xL2FrGA" target="_blank" title="永遠的心跳聲！">
-<i class="fab fa-youtube"></i> ⌈DDLC⌋永遠的心跳聲！</a>
+<a class="button button--outline-info button--pill" href="https://youtu.be/KpV_xL2FrGA" target="_blank" title="Youtube Video">
+<span class="iconfont icon-youtube"></span> ⌈DDLC⌋永遠的心跳聲！</a>
 <a class="button button--outline-success button--pill" href="https://www.youtube.com/user/MagicalPouchOfMagic" target="_blank" title="Author">
-<i class="fas fa-user"></i> MagicalPouchOfMagic</a>
+<span class="iconfont icon-user"></span> MagicalPouchOfMagic</a>
 
 <div> {%- include extensions/youtube.html id='KpV_xL2FrGA' -%}</div>
 
@@ -947,7 +947,7 @@ const am = new APlayer({
 1. **标题背景图**：
 	- [Azhar, Faiz](https://wall.alphacoders.com/unregistered.php?id=25904){:target="_blank"}. [*"Doki Doki Literature Club!   Monika"*](https://wall.alphacoders.com/big.php?i=877002){:target="_blank"}. 2017-10-21.
 
-1. **# 深度探索**：
+1. **[深度探索](#深度探索)**：
 	- [Vortex_K](https://tieba.baidu.com/home/main?un=Vortex_K&ie=utf-8&id=tb.1.c8d380a5.m_xDng4PwARBznaRicg1_w?t=1419504273&fr=pb){:target="_blank"}. [*"DDLC 游戏深度解密"*](https://tieba.baidu.com/p/5680171084?see_lz=1){:target="_blank"}.2018-05-03.
 	- [Melnik,Victor](https://medium.com/@annimon119){:target="_blank"}. [*"How to decrypt all character files of Doki Doki Literature Club"*](https://medium.com/@annimon119/how-to-decrypt-all-character-files-of-doki-doki-literature-club-ecbd94fd41ec){:target="_blank"}. Jan 19, 2018.
 	- 匿名用户. [*"游戏 心跳文学部《 Doki Doki Literature Club 》中有哪些细节与彩蛋？"*](https://www.zhihu.com/question/264052228){:target="_blank"}. [CCXR](https://www.zhihu.com/people/LEXAZOB){:target="_blank"}; [H2O2是过氧化氢](https://www.zhihu.com/people/study-64-40){:target="_blank"}, 2018-01-07, 2019-02-01.

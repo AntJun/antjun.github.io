@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "jekyll-text-theme"
   spec.version       = "2.2.4"
   spec.authors       = ["Ant Jun"]
-  spec.email         = ["AntJun_2016@outlook.com"]
+  spec.email         = ["AntJun_2016@antjun.com"]
 
   spec.summary       = %q{A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.}
   spec.homepage      = "https://github.com/AntJun/antjun.blog"

@@ -15,7 +15,7 @@ const ap = new APlayer({
       {
         name: 'Unlasting',
         artist: 'LiSA',
-        url: 'https://link.hhtjim.com/163/1397725153.mp3',
+        url: 'http://ws.stream.qqmusic.qq.com/C400000hPD463wBdk6.m4a?guid=703417739&vkey=9C96EDD027B1891E137EB7BDAAE1B9FB6B26FD8498FCA86D1F6B573CBE66259C5B6DAA59F2D0FB8C9F1D6F16690D122BF97E4AA5DCE5E215&uin=0&fromtag=66',
         cover: 'https://p1.music.126.net/A_HfZ02gdQPQB3l0aGqa4A==/109951164434510431.jpg',
         lrc: '/plugins/aplayer/LRC/default/Unlasting - LiSA.lrc',
       },
@@ -27,10 +27,10 @@ const ap = new APlayer({
 		lrc: '/plugins/aplayer/LRC/default/none.lrc',
       },
       {
-        name: 'Snowfall',
-        artist: 'Garoad',
-        url: 'https://link.hhtjim.com/163/1349935236.mp3',
-        cover: 'https://p2.music.126.net/y9JCI5q3mYdusLH-lK684A==/109951163903623211.jpg',
+        name: '同じ高みへ',
+        artist: '麻枝准',
+        url: 'https://link.hhtjim.com/163/22706997.mp3',
+        cover: 'http://p2.music.126.net/PtLd62-khEg8iCutTdE5Vg==/109951163286813093.jpg',
 		lrc: '/plugins/aplayer/LRC/default/none.lrc',
       },
       {
@@ -43,7 +43,7 @@ const ap = new APlayer({
       {
         name: '僕たちはひとつの光',
         artist: 'μ’s',
-        url: 'https://link.hhtjim.com/163/33728058.mp3',
+        url: 'http://ws.stream.qqmusic.qq.com/C400002Hfu1H0pcOiq.m4a?guid=703417739&vkey=CF3FE127F4F7D050F714F5EBC2904A8D797B653B4DCEC4628A9F9584597133CE79FF5039685C8C019BA6A227458283E7A00A5C30CDFE20BA&uin=0&fromtag=66',
         cover: 'https://p2.music.126.net/BDkDi7n_vq2F_eLGHWMspg==/7719671139738599.jpg',
 		lrc: '/plugins/aplayer/LRC/default/We are a light(Movie Edit).lrc',
       },
@@ -57,8 +57,8 @@ const ap = new APlayer({
       {
         name: '朝焼けのスターマイン',
         artist: '今井麻美',
-        url: 'https://link.hhtjim.com/163/32364449.mp3',
-        cover: 'https://p1.music.126.net/UrHFbNNr1e96Z9EWTQPX7w==/2912606303912879.jpg?param=130y130',
+        url: 'https://link.hhtjim.com/163/33684514.mp3',
+        cover: 'https://p1.music.126.net/UrHFbNNr1e96Z9EWTQPX7w==/2912606303912879.jpg',
         lrc: '/plugins/aplayer/LRC/default/Plastic Memory ED.lrc',
       },
       {
