@@ -4,9 +4,9 @@
 
     {%- assign _site_author = site.author -%}
     {%- if _site_author.type == 'organization' -%}
-      {%- assign _site_author_itemtype = 'http://schema.org/Organization' -%}
+      {%- assign _site_author_itemtype = 'https://schema.org/Organization' -%}
     {%- else -%}
-      {%- assign _site_author_itemtype = 'http://schema.org/Person' -%}
+      {%- assign _site_author_itemtype = 'https://schema.org/Person' -%}
     {%- endif -%}
 
     <div itemscope itemtype="{{ _site_author_itemtype }}">
@@ -29,7 +29,7 @@
         {%- include snippets/get-locale-string.html key='COPYRIGHT_DATES' -%}
         {%- assign _locale_copyright_dates = __return -%}
         © {{ site.title }} {{ _locale_copyright_dates }},
-        Powered by <a title="Jekyll is a simple, blog-aware, static site generator." href="http://jekyllrb.com/">Jekyll</a> & <a
+        Powered by <a title="Jekyll is a simple, blog-aware, static site generator." href="https://jekyllrb.com/">Jekyll</a> & <a
         title="TeXt is a super customizable Jekyll theme." href="https://github.com/kitian616/jekyll-TeXt-theme">TeXt Theme</a>.
       </div>
     </div>

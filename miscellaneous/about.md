@@ -1,5 +1,6 @@
 ---
 layout: miscellaneous
+key: about
 sharing: true
 titles:
   # @start locale config
