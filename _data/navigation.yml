@@ -16,7 +16,7 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       홈페이지
       ko-KR   : *KO
-      fr      : &KO       Page d'accueil
+      fr      : &FR       Page d'accueil
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
@@ -24,7 +24,7 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /
-    
+
   - titles:
       # @start locale config
       icon    : &ICON     <span class="iconfont icon-archive"></span>
@@ -68,7 +68,7 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       소개
       ko-KR   : *KO
-      fr      : &KO       À propos
+      fr      : &FR       À propos
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
@@ -76,7 +76,7 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /miscellaneous/about.html
-    
+
   - titles:
       # @start locale config
       icon    : &ICON     <span class="iconfont icon-my-studio"></span>
@@ -94,7 +94,7 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       스튜디오
       ko-KR   : *KO
-      fr      : &KO       Studio
+      fr      : &FR       Studio
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
@@ -102,7 +102,7 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /miscellaneous/studio.html
-    
+
   - titles:
       # @start locale config
       icon    : &ICON     <span class="iconfont icon-links"></span>
@@ -120,7 +120,7 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       체인의 친구들
       ko-KR   : *KO
-      fr      : &KO       Amis chaîne
+      fr      : &FR       Amis chaîne
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
@@ -128,7 +128,7 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /miscellaneous/friends.html
-    
+
   - titles:
       # @start locale config
       icon    : &ICON     <span class="iconfont icon-sponsoresd"></span>
@@ -146,7 +146,7 @@ header:
       zh-HK   : *ZH_HANT
       ko      : &KO       후원
       ko-KR   : *KO
-      fr      : &KO       Commandite
+      fr      : &FR       Commandite
       fr-BE   : *FR
       fr-CA   : *FR
       fr-CH   : *FR
@@ -154,7 +154,7 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /miscellaneous/donate.html
-    
+
 docs-zh:
   - title:      <span class="iconfont icon-word"></span> 一言
     children:
@@ -183,7 +183,7 @@ docs-zh:
         url:    /en/
       - title:  简体中文
         url:    /
-        
+
 docs-en:
   - title:      <span class="iconfont icon-word"></span> Hitokoto
     children:
@@ -208,7 +208,7 @@ docs-en:
         url:    https://space.bilibili.com/28098803/
       - title:  Archive
         url:    /archive
-        
+
   - title:      <span class="iconfont icon-language"></span> Languages
     children:
       - title:  English
