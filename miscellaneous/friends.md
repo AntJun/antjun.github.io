@@ -1,6 +1,5 @@
 ---
 layout: miscellaneous
-key: friends
 sharing: true
 lightbox: true
 titles:
@@ -19,14 +18,14 @@ titles:
   zh-HK   : *ZH_HANT
   ko      : &KO       체인의 친구들
   ko-KR   : *KO
-  fr      : &KO       Amis chaîne
+  fr      : &FR       Amis chaîne
   fr-BE   : *FR
   fr-CA   : *FR
   fr-CH   : *FR
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-key: page-sponsor
+key: page-friends
 mode: immersive
 header:
   theme: light

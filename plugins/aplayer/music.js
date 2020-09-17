@@ -15,7 +15,7 @@ const ap = new APlayer({
       {
         name: 'Unlasting',
         artist: 'LiSA',
-        url: 'http://ws.stream.qqmusic.qq.com/C400000hPD463wBdk6.m4a?guid=703417739&vkey=9C96EDD027B1891E137EB7BDAAE1B9FB6B26FD8498FCA86D1F6B573CBE66259C5B6DAA59F2D0FB8C9F1D6F16690D122BF97E4AA5DCE5E215&uin=0&fromtag=66',
+        url: 'https://ws.stream.qqmusic.qq.com/C400000hPD463wBdk6.m4a?guid=703417739&vkey=4F20831B1C8F613651F2D921B28C349479B3F18AABCA2716B30A90BA8F0F1F5CAD1CD15A986D9527EA35D202A4C02997A2E5AA39CCA29AA3&uin=0&fromtag=66',
         cover: 'https://p1.music.126.net/A_HfZ02gdQPQB3l0aGqa4A==/109951164434510431.jpg',
         lrc: '/plugins/aplayer/LRC/default/Unlasting - LiSA.lrc',
       },
@@ -43,7 +43,7 @@ const ap = new APlayer({
       {
         name: '僕たちはひとつの光',
         artist: 'μ’s',
-        url: 'http://ws.stream.qqmusic.qq.com/C400002Hfu1H0pcOiq.m4a?guid=703417739&vkey=CF3FE127F4F7D050F714F5EBC2904A8D797B653B4DCEC4628A9F9584597133CE79FF5039685C8C019BA6A227458283E7A00A5C30CDFE20BA&uin=0&fromtag=66',
+        url: 'https://ws.stream.qqmusic.qq.com/C400002Hfu1H0pcOiq.m4a?guid=703417739&vkey=B047D757F8B62D03CEF49156A635F4F8E96E91588AEC9D9415B3D66674CD5C851A920C2942EE6221438070B6101138A6DE7B5A3B5E83CE53&uin=0&fromtag=66',
         cover: 'https://p2.music.126.net/BDkDi7n_vq2F_eLGHWMspg==/7719671139738599.jpg',
 		lrc: '/plugins/aplayer/LRC/default/We are a light(Movie Edit).lrc',
       },

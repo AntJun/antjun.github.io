@@ -1,6 +1,5 @@
 ---
 layout: miscellaneous
-key: donate
 sharing: true
 lightbox: true
 titles:
@@ -19,7 +18,7 @@ titles:
   zh-HK   : *ZH_HANT
   ko      : &KO       후원
   ko-KR   : *KO
-  fr      : &KO       Commandite
+  fr      : &FR       Commandite
   fr-BE   : *FR
   fr-CA   : *FR
   fr-CH   : *FR
