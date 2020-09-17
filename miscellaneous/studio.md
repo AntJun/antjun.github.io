@@ -1,6 +1,5 @@
 ---
 layout: miscellaneous
-key: studio
 sharing: true
 titles:
   # @start locale config
@@ -18,14 +17,14 @@ titles:
   zh-HK   : *ZH_HANT
   ko      : &KO       스튜디오
   ko-KR   : *KO
-  fr      : &KO       Studio
+  fr      : &FR       Studio
   fr-BE   : *FR
   fr-CA   : *FR
   fr-CH   : *FR
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-key: page-sponsor
+key: page-studio
 mode: immersive
 header:
   theme: light

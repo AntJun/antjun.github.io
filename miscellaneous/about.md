@@ -1,6 +1,5 @@
 ---
 layout: miscellaneous
-key: about
 sharing: true
 titles:
   # @start locale config
@@ -18,7 +17,7 @@ titles:
   zh-HK   : *ZH_HANT
   ko      : &KO       소개
   ko-KR   : *KO
-  fr      : &KO       À propos
+  fr      : &FR       À propos
   fr-BE   : *FR
   fr-CA   : *FR
   fr-CH   : *FR
