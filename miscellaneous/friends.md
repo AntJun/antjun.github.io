@@ -83,7 +83,7 @@ aside:
             <div class="item__description">
               <p>
                 <h4>
-                  <a href="https://tding.top/" target="_blank">@ dz_paji's blog</a>
+                  <a href="https://blog.honoka.club//" target="_blank">@ dz_paji's blog</a>
                 </h4> Das Ende ist nah!
               </p>
             </div>
@@ -193,7 +193,7 @@ aside:
 ## 添加友链方式
 
 <b> 友链申请需求</b>
-<br/> 1. 可以访问且内容持续更新
+<br/> 1. 可以正常访问且内容持续更新
 <br/> 2. 网站页面整洁，无繁杂广告
 <br/> 3. 不涉及违反《中华人民共和国网络安全法》的相关内容
 {:.warning}
