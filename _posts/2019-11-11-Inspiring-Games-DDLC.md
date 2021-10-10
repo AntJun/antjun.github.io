@@ -48,7 +48,7 @@ DDLC 在 Steam 上的宣传有面带着和善笑容的四个可爱女孩子，�
 
 ## 录像
 
-关于本游戏的视频，需要科学上网（这游戏能在国内放送？别想了）。
+关于本游戏的视频，需要科学上网（这游戏能在国内放送？别想了 ）。
 
 <a class="button button--outline-info button--pill" href="https://www.youtube.com/watch?v=kB1663FTpzU" target="_blank" title="Youtube Video">
 <span class="iconfont icon-youtube"></span> Doki Doki Literature Club! Trailer</a>

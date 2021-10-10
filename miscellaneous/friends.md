@@ -77,13 +77,13 @@ aside:
       <div>
         <div class="item">
 <div class="item__image" markdown="1">
-  <img class="image image--sm" src="https://blog.honoka.club/images/avatar.jpg"/>{:.border.rounded}
+  <img class="image image--sm" src="https://blog.mntpaji.com/images/avatar.png"/>{:.border.rounded}
 </div>
           <div class="item__content">
             <div class="item__description">
               <p>
                 <h4>
-                  <a href="https://blog.honoka.club//" target="_blank">@ dz_paji's blog</a>
+                  <a href="https://blog.mntpaji.com/" target="_blank">@ dz_paji's blog</a>
                 </h4> Das Ende ist nah!
               </p>
             </div>
