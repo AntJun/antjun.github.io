@@ -67,12 +67,12 @@ aside:
 
 **点击文字链接或扫二维码进行支付**
 
-| <a href="https://qr.alipay.com/FKX01742GKQMMVAQW6EIDE" target="_blank">`支付宝`</a> | `微信` |
+| <a href="https://qr.alipay.com/FKX01742GKQMMVAQW6EIDE" target="_blank">`支付宝`</a> | <a href="wxp://f2f0Pve-YuADkheXha9OIdTciRxRcU9CC-_y">`微信`</a> |
 | --- |  --- |
-| ![Alipay](/images/Pay/Alipay01.png) | ![WeChat](/images/Pay/WeChat01.png) |
+| ![Alipay](/images/Pay/AliPay QR (Pure, Border).png) | ![WeChat](/images/Pay/WeChat Pay QR (Pure, Border).png) |
 
 | <a href="https://paypal.me/antjun?locale.x=zh_XC" target="_blank">`PayPal`</a> | <a href="https://i.qianbao.qq.com/wallet/sqrcode.htm?m=tenpay&f=wallet&a=1&ac=CAEQzub89wsYwf2d7gU%3D_xxx_sign&u=3204395854&n=Akira+Ant" target="_blank">`QQ Pay`</a>
 | --- | --- |
-| ![PayPal](/images/Pay/PayPal01.png) | ![QQ](/images/Pay/QQ01.png) |
+| ![PayPal](/images/Pay/PayPal QR (Pure, Border).png) | ![QQ](/images/Pay/QQPay QR (Text Border).png) |
 
 ---

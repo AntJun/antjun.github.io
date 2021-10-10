@@ -327,7 +327,7 @@ aside:
             <div class="item__description">
               <p>
                 <h2>
-                  <a href="https://antjun.com/" target="_blank">个人博客</a>
+                  <a href="https://www.antjun.com/" target="_blank">个人博客</a>
                 </h2> 就是本站了
               </p>
             </div>
@@ -353,7 +353,7 @@ aside:
             <div class="item__description">
               <p>
                 <h2>
-                  <a href="https://blog.csdn.net/Akira_Ant" target="_blank">简书</a>
+                  <a href="https://www.jianshu.com/u/19f732d7d4f6" target="_blank">简书</a>
                 </h2> 你在我简书上看到的，这里也能看到
               </p>
             </div>
