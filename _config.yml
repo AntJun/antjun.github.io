@@ -129,7 +129,7 @@ comments:
   gitalk:
     clientID    : 42cc386a3933de38b896 # GitHub Application Client ID
     clientSecret: eb76d8182d8a77105c73a9b9ed83aab43c9de970  # GitHub Application Client Secret
-    repository  : AntJun-Blog-Comments # GitHub repo
+    repository  : AntJun-Blog-Comment-Repository # GitHub repo
     owner       : AntJun # GitHub repo owner
     admin: AntJun # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       # - your GitHub Id
