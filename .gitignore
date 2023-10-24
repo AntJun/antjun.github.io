@@ -11,8 +11,17 @@
 
 /.vscode/
 
+docker/
+tool/
 node_modules/
 .sass-cache/
+
+.desktop.ini
+.stylelintrc
+.stylelintignore
+.eslintrc
+
+Dockerfile*
 
 /.bundle/
 /vendor/bundle
