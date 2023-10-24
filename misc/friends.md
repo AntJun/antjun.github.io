@@ -1,5 +1,5 @@
 ---
-layout: miscellaneous
+layout: misc
 sharing: true
 lightbox: true
 titles:
