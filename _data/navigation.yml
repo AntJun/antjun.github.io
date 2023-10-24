@@ -75,7 +75,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /miscellaneous/about.html
+    url: /misc/about.html
 
   - titles:
       # @start locale config
@@ -101,7 +101,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /miscellaneous/studio.html
+    url: /misc/studio.html
 
   - titles:
       # @start locale config
@@ -127,7 +127,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /miscellaneous/friends.html
+    url: /misc/friends.html
 
   - titles:
       # @start locale config
@@ -153,7 +153,7 @@ header:
       fr-FR   : *FR
       fr-LU   : *FR
       # @end locale config
-    url: /miscellaneous/donate.html
+    url: /misc/donate.html
 
 docs-zh:
   - title:      <span class="iconfont icon-word"></span> 一言
@@ -164,13 +164,13 @@ docs-zh:
       - title:  归档
         url:    /archive.html
       - title:  关于
-        url:    /miscellaneous/about.html
+        url:    /misc/about.html
       - title:  工作室
-        url:    /miscellaneous/studio.html
+        url:    /misc/studio.html
       - title:  友链
-        url:    /miscellaneous/friends.html
+        url:    /misc/friends.html
       - title:  赞助
-        url:    /miscellaneous/donate.html
+        url:    /misc/donate.html
   - title:      <span class="iconfont icon-extend"></span> 扩展
     children:
       - title:  音乐
@@ -193,13 +193,13 @@ docs-en:
       - title:  Archive
         url:    /archive.html
       - title:  About
-        url:    /miscellaneous/about.html
+        url:    /misc/about.html
       - title:  Studio
-        url:    /miscellaneous/studio.html
+        url:    /misc/studio.html
       - title:  Friends
-        url:    /miscellaneous/friends.html
+        url:    /misc/friends.html
       - title:  Donate
-        url:    /miscellaneous/donate.html
+        url:    /misc/donate.html
   - title:      <span class="iconfont icon-extend"></span> Expansions
     children:
       - title:  Music
