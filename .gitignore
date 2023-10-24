@@ -17,6 +17,7 @@ node_modules/
 .sass-cache/
 
 desktop.ini
+.editorconfig
 .stylelintrc
 .stylelintignore
 .eslintrc
