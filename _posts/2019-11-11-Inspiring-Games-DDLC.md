@@ -1,5 +1,5 @@
 ---
-title: Inspiring Games - Doki Doki Lierature Club
+title: 浅谈 Doki Doki Lierature Club
 tags: ["杂谈", "游戏", "评鉴", "DDLC"]
 key: 100002
 cover: /images/landing-cover/2019-11-11-Natsuki.png
@@ -8,30 +8,25 @@ modify_date: 2020-01-12
 article_header:
   type: overlay
   theme: dark
-  background_color: '#203028'
+  background_color: "#203028"
   background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    gradient: "linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))"
     src: /images/post/2019-11-11-JustHer.jpg
 ---
 
-作为一名贫穷的高中生，本人所能涉及过的游戏还是十分有限的。即使这样，我仍想介绍一下那些对我来说振奋人心的游戏。
-游戏介绍顺序不分先后，因此这篇文章将以一个非专业解说的视角来领会一下 Team Salvato 的 Doki Doki Lierature Club。
+此这篇文章以一个非专业解说的视角解读 Team Salvato 的 Doki Doki Lierature Club。
+
 <!--more-->
+
 {:.info}
 
 ---
 
-## 前言
-
-首先，如果有谁看到了这篇文章，我不向各位推荐这个游戏，不开玩笑，这确实是个恐怖游戏，它可能对一些承受能力较差的人产生不好的影响。
-其次，我不觉得这是个很好的游戏，它针对的是特定的群体且剧情并没有那么出类拔萃，而且有许多负能量的东西。
-但我觉得这个游戏十分新颖、有意思。因此我会以自己的观点去看待某些内容，如果你有歧义，可以评论下一起讨论。
-
 ## 为什么谈论这个游戏
 
-Doki Doki Literature Club（心跳文学部）以下简称 DDLC 。这款游戏早在 2017 年刚发行时我就体验过，尽管在当时我并没有完全通关，但我对于游戏本身有了一定的了解。最近由于 Steam UI 的更新把我之前很多放着吃灰的小游戏都直接显示在了库内，我又再次找到了这个特别的游戏并重新玩了一遍。我发现它这玩意是真的「振奋人心」，不说了，我先去吃粒速效救心丸……
+Doki Doki Literature Club（心跳文学部）以下简称 DDLC 。这款游戏早在 2017 年刚发行时我就体验过，尽管在当时我并没有完全通关，但我对于游戏本身有了一定的了解。最近由于 Steam UI 的更新把我之前很多放着吃灰的小游戏都直接显示在了库内，我又再次重新玩了一遍这个特别的游戏。
 
-这大概是我第一次接触到那么让我震撼的 Metagame（原谅本人浅见寡识，没玩过太多经典），另一个则是 Undertale。
+这大概是我第一次接触到那么让我感到新颖的 Metagame，另一个则是 Undertale。
 
 ## 介绍
 
@@ -39,55 +34,37 @@ Doki Doki Literature Club（心跳文学部）以下简称 DDLC 。这款游戏�
 **<span style="color:red;"><br/> 建议游玩游戏后再看此文章！ </span>**
 {:.warning}
 
-DDLC 在 Steam 上的宣传有面带着和善笑容的四个可爱女孩子，粉色的主题，优雅的音乐，再加上一个普通的 Gal 游戏介绍，一看就必定跟校园恋爱之类的扯上关系。
+DDLC 在 Steam 上的商店页面中典型的二次元美少女，粉色的主题，优雅的音乐，再加上一个标准 GACHA 类剧情介绍，一看就必定跟校园恋爱之类的扯上关系。
 可 Steam 上的 `Psychological Horror` 标签出卖了它，但你能想象这是个恐怖游戏吗？相比于「灯穗奇谈」、「梦幻廻廊」抑或是「尸体派对」之类的恐怖 Gal，这个游戏没有像他们那样给玩家带来极度黑暗的心理扭曲，而它却给了我一种莫名的难受。
 
-其实早些时候听说过那些忽悠人的游戏推荐，我当初并没有详细了解游戏，只是单纯被封面和免费二字所吸引。直到看到「晴天娃娃」才知道它的威力。
+其实早些时候听说过那些忽悠人的游戏推荐，我当初并没有详细了解游戏，只是单纯被封面和免费二字所吸引。小时候被「晴天娃娃」这集吓哭了。
 
-一上来与其他的文字冒险游戏没什么两样，男主与邻居 Sayori 一同上学。在文学部的其他 4 位成员（分别是部长 Monika、副部长 Sayori 和其它两位成员 Yuri 与 Natsuki）的煽动下男主被迫入部。在部长 Monika 的要求下各个成员每天都需要与其它人交换各自的诗。但随着你与部员的感情的升华，事情也渐渐变得奇怪……
-
-## 录像
-
-关于本游戏的视频，需要科学上网（这游戏能在国内放送？别想了 ）。
-
-<a class="button button--outline-info button--pill" href="https://www.youtube.com/watch?v=kB1663FTpzU" target="_blank" title="Youtube Video">
-<span class="iconfont icon-youtube"></span> Doki Doki Literature Club! Trailer</a>
-<a class="button button--outline-success button--pill" href="https://www.youtube.com/channel/UC41-En1dwTQ6SRtDH0oY8bw" target="_blank" title="Author">
-<span class="iconfont icon-user"></span> Team Salvato</a>
-
-<div> {%- include extensions/youtube.html id='kB1663FTpzU' -%}</div>
-
-<a class="button button--outline-info button--pill" href="https://www.youtube.com/watch?v=mGZC61dBIWg" target="_blank" title="Youtube Video">
-<span class="iconfont icon-youtube"></span> RESPECT WHAMEN: THE GAME. Doki Doki Literature Club</a>
-<a class="button button--outline-success button--pill" href="https://www.youtube.com/user/PewDiePie" target="_blank" title="Author">
-<span class="iconfont icon-user"></span> Pewdiepie</a>
-
-<div> {%- include extensions/youtube.html id='mGZC61dBIWg' -%}</div>
+一上来与其他的文字冒险游戏没什么两样，男主与邻居 Sayori 一同上学。在文学部的其他 4 位成员（分别是部长 Monika、副部长 Sayori 和其它两位成员 Yuri 与 Natsuki）的煽动下男主被迫入部。在部长 Monika 的要求下各个成员每天都需要与其它人交换各自的诗。但随着你与部员的感情的升华，事情也渐渐变得不对劲。
 
 ## 深度探索
 
-很多人认为这是一款 Galgame，但我觉得如果用视觉小说来称呼它的话会更贴切。虽说官方在预告片中忽悠的有模有样，不过我觉得游戏更主要的是在于探索，玩这个游戏就像在阅读一个恐怖惊悚的视觉小说；也有人称它为「大型预告片」，因为这个被彩蛋及暗示包裹着的游戏就像是个披着羊皮的狼。整篇下来没有像考场上憋不出作文的考生一样写啰嗦话，给人的体验就像是饥渴难耐的老二被泼了开水一般刺激。但这也是它的魅力之一，如果只是把它当成 galgame 玩的话，说不定很多人就会对剧情一知半解，而你做的是要「跳出游戏」了解它向我们展示的更深层的内容。
+很多观点将此视为一款 Galgame，但在我看来，将其定位为视觉小说更为合适。尽管官方预告展现了非常吸引人的情节，但游戏的主体更偏重于探索与解读。其实玩家在游戏中的体验更像是在沉浸于一部恐怖惊悚的视觉小说之中。有些人将其形容为「大型预告片」，因为这款游戏充满了彩蛋和隐喻。整体而言，它没有冗长和重复，为玩家提供了一种尖锐、直接的体验。这正是其独特魅力所在。如果仅仅从 Galgame 的角度去解读，玩家可能会错过其深层次的内容和寓意。为了深入理解，你需要「跳出游戏」，去探究它背后所要传达的更深层的信息。
 
-下面是一些我收集到关于此游戏的深层内容及隐藏文件等（部分来源已注明）。
+下面是一些我收集到关于此游戏的深层内容及隐藏文件等（来源已注明）。
 
 ### 结局
 
-我目前玩到的结局一共分为三个，我分别称它们为普通结局、完美结局及直接结局。
+我目前玩到的结局一共分为三个，我分别称它们为 NE, TE, BE。
 
 达成条件如下：
 
 ```mermaid
 graph TB;
-    A1["是否在游戏开始前删除了 Monika.chr 或 Sayori.chr 文件?"]
+    A1{"是否在游戏开始前删除了 Monika.chr 或 Sayori.chr 文件?"}
 	A2["完成一周目后启动游戏"]
-    B["是否在 Sayori 自杀前 <br> 利用读取存档的方式收集了 9 张 CG 立绘？"]
+    B{"是否在 Sayori 自杀前 <br> 利用读取存档的方式收集了 9 张 CG 立绘？"}
 	C1["打开游戏后 <br> 直接跳转到 Sayori 上吊场景"]
 	C2["30% 的机率在打开游戏后 <br> 看到四人曝光度满的黑白色立绘"]
 	D["完成三周目"]
 	E["完成三周目"]
-	X["直接结局"]
-	Y["普通结局"]
-	Z["完美结局"]
+	X["BE"]
+	Y["NE"]
+	Z["TE"]
     A1==NO==>A2;
 	A2==>B;
 	A2==>C2;
@@ -108,20 +85,20 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="swiper my-3 swiper-demo swiper-demo--image swiper-demo--3">
 	<div class="swiper__wrapper">
-		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Browse-carefully.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/01.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/02.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/03.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/004.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/005.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/006.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/007.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/008.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/009.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/010.png"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/001.jpg"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/002.jpg"/></div>
-		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/003.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/Browse-carefully.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/01.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/02.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/03.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/004.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/005.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/006.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/007.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/008.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/009.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/010.png"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/001.jpg"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/002.jpg"/></div>
+		<div class="swiper__slide"><img class="lightbox-ignore" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/003.png"/></div>
 	</div>
 	<div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
 	<div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
@@ -129,25 +106,23 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 #### 诗
 
-游戏中主角通过在文学俱乐部互换各自的诗来增进与其它 4 位社员的感情，因此诗在全游戏中的比重非常大，可以说是游戏的精华部分之一。这也是为什么它被称作为诗歌模拟器的原因。
+游戏中主角通过在文学俱乐部互换各自的诗来增进与其它 4 位社员的感情，因此诗在全游戏中的比重非常大，可以说是游戏的精华部分之一。这也是为什么它被称作为诗歌模拟器。
 
 在游戏中我们是通过选择词语写诗来增进与其它社员的感情，而不是给自己看的。每当你选择词语的时候，喜欢这个词语类型的人就会蹦起来，这是也游戏中唯一的攻略的方式。通过查看每个成员的诗可以发现每个人的诗都与他们的性格相对，特别在游戏后期表达的尤其强烈。
 
-![Poem](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/write your poem.png){:.shadow}
+![Poem](https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/write your poem.png){:.shadow}
 
-还是有够可爱的......
+值得注意的是左下角只有三个人，每次写诗时都会少 Monika。
 
-奇怪的是左下角只有三个人，每次写诗时都会少 Monika。问我为什么，只能回答：这是设定的一部分。
+接下来是我个人对游戏中诗的分析。
 
-接下来是我个人对游戏中诗的分析（点击图片浏览大图）。
-
-更详细的分析务必参考：[Understanding All of DDLC's Poems](https://tay.kinja.com/spoiler-understanding-all-of-ddlc-s-poems-1823087306){:target="_blank"}
+更详细的分析务必参考：[Understanding All of DDLC's Poems](https://tay.kinja.com/spoiler-understanding-all-of-ddlc-s-poems-1823087306){:target="\_blank"}
 
 ---
 
 <div class="item">
 	<div class="item__image">
-		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Sayori Poem 01.png"/>
+		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/Sayori Poem 01.png"/>
 	</div>
 	<div class="item__content">
 		<div class="item__header">
@@ -170,8 +145,8 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
 	<div class="item__image">
-		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika Poem 01.png"/>
-		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika Poem 02.png"/>
+		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/Monika Poem 01.png"/>
+		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/Monika Poem 02.png"/>
 	</div>
 	<div class="item__content">
 		<div class="item__header">
@@ -192,7 +167,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
 	<div class="item__image">
-		<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Natsuki 01.png"/>
+		<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/Natsuki 01.png"/>
 	</div>
 	<div class="item__content">
 		<div class="item__header">
@@ -200,7 +175,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 		</div>
 		<div class="item__description">
 			<p>
-					你若了解 Base64 那么你应该明白如何看这首诗。
+					若了解 Base64 那么应该明白如何看这首诗。
 					<br/><br/> 通过解码后的原文如下：
 					<blockquote>
 					睁开你的第三只眼
@@ -215,9 +190,9 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
 	<div class="item__image">
-		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 01.png"/>
-		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 02.png"/>
-		<br/><img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Yuri Poem 02X.png"/>
+		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/Yuri Poem 01.png"/>
+		<img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/Yuri Poem 02.png"/>
+		<br/><img class="image image--sm" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/Yuri Poem 02X.png"/>
 	</div>
 	<div class="item__content">
 		<div class="item__header">
@@ -228,7 +203,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 				在我看来，论最吓人的女主还是得说到 Yuri，这个家伙虽然没有 Monika 的能力，却被制作者们隐藏着最多的秘密。
 				光靠病娇、自残可形容不了她，她的背景被制作者们写的十分宏大。而这两首诗给我的感觉像是极度激动的情况下写的狂想诗。前一首起码能看清，而后一首就是一个沾满血液与尿液的混合物的烂纸，根本看不清要她要说什么。
 				<br/><br/> 《轮》这首诗表现的是 Yuri 的内心波动，就像滚动轮子一样不停翻转。看起来有人在逼迫她？没错，那就是她不停在遭受着 Monika 的「迫害」下发生的狂妄、扭曲的心理。
-				<br/><br/> 其实第二首诗有人发现是使用一种叫 Damagrafik Script 的字体写的。在结尾能译出一段话来（但我仍不知道它上部分是什么意思）。
+				<br/><br/> 第二首诗有人发现是使用一种叫 Damagrafik Script 的字体写的。在结尾能译出一段话来（但我仍不知道它上部分是什么意思）。
 				<blockquote>
 				新鲜的血液从她皮肤的缝隙中渗出，慢慢地使她的胸部变红。随着我的冲动增强，我开始呼吸急促。这些影像不会消失。我不断地把刀刺进她的肉里，用刀片操她的身体，把她弄得一团糟。当我的思绪开始回归时，我的头脑开始变得疯狂。疼痛和思想一起冲击着我的大脑。这是恶心。绝对令人作呕。我怎么能让自己去想这些事情呢?但这是明显的。欲望继续在我的血管里徘徊。我的肌肉疼痛是由于我整个身体都处于一种无法释放的紧张状态。她的第三只眼睛把我拉近了。
 				</blockquote>
@@ -241,8 +216,8 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 <div class="item">
 	<div class="item__image">
-		<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/special poem01.jpg"/>
-		<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/special poem01x.png"/>
+		<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/special poem01.jpg"/>
+		<img class="image image--lg" src="https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/special poem01x.png"/>
 	</div>
 	<div class="item__content">
 		<div class="item__header">
@@ -252,7 +227,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 			<p>
 				游戏中有 11 首特别的诗，这是其中一首。左图为原图，其中被涂黑的部分可以通过调高曝光度的办法来显示（如右图所示）。
 				<br/><br/> 通过看原图的方式我们能看到 13 个字母，连起来为 <i> Nothing is real </i>。
-				<br/><br/> 但通过看原文我们就能发现里面提到了 Elyssa 和 Renier 这两个与游戏毫无相干的名字。作者像是涉入一个有病的家庭，不知这家里 Elyssa 为什么叫得那么惨，他怀疑这一家被 Renier 所害。有人推测这是下一个恐怖游戏的剧情的预告。
+				<br/><br/> 但通过看原文我们就能发现里面提到了 Elyssa 和 Renier 这两个与游戏毫无相干的名字。作者像是涉入一个有病的家庭，不知这家里 Elyssa 为什么叫得那么惨，他怀疑这一家被 Renier 所害。
 			</p>
 		</div>
 	</div>
@@ -261,15 +236,15 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 ### 只属于你的 Monika
 
-玩过的人都知道 Monika 是官方设定游戏中唯一一个有独立意识的角色（但让人伤心的是即使她再多接近现实，仍是一个被设定好的一堆参数罢了）。毫无疑问，Monika 就是这个游戏的核心人物。
+总所周知 Monika 是官方设定游戏中打破第四面墙的角色（但让人伤心的是即使她再多接近现实，仍是一个被设定好的一堆参数罢了）。毫无疑问，Monika 就是这个游戏的核心人物。
 
 在 "Just Monika" 的空间中，Monika 会不断与玩家进行交流。这是制作者精心制作的近两个小时的不重复对话。
 
-![just monika.png](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/just-monika.png){:.shadow}
+![just monika.png](https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/just-monika.png){:.shadow}
 
 游戏中的 Monika 向你展示了她有多爱你，为了讨好你不停讲情话，为了占据你删除其它女主，为了原谅你恢复游戏数据……
 
-在聊天中，她告诉了我们关于面对生活的一些建议。虽然都是一些听腻的鸡汤文，但是却很有亲切感。
+在聊天中，她告诉了我们关于面对生活的一些建议。
 
 #### 习惯
 
@@ -489,13 +464,11 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 >
 > “今天的你也能做件让我为你骄傲的事吗？”
 >
-> “*玩家名字*，我永速会支持你。”
-
-面对面看着 Monika 与你交流，有种「近在咫尺却无法触及」的感觉，不是吗？
+> “_玩家名字_，我永速会支持你。”
 
 #### 互动
 
-如果检测到你在运行游戏时有直播软件，她会给你做鬼脸。
+如果检测到你在运行游戏时有直播软件，会给你做鬼脸。
 
 > “稍等一下...”
 >
@@ -523,7 +496,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 >
 > “你准备好了吗？”
 >
-> *镜头逐渐放大 Monika 的脸部 - >快速恢复正常变焦*
+> _镜头逐渐放大 Monika 的脸部 - >快速恢复正常变焦_
 >
 > “我只是在开玩笑。”
 >
@@ -531,13 +504,13 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 >
 > “但如果你给我一些时间准备”
 >
-> ![Monika 做鬼脸](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Monika-grimace.png){:.shadow}
+> ![Monika 做鬼脸](https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/Monika-grimace.png){:.shadow}
 >
 > “我吓到你了吗？”
 >
 > “啊哈哈！你太可爱了。”
 >
-> “无论如何，*[玩家名字]* ...”
+> “无论如何，_[玩家名字]_ ...”
 >
 > “我不是故意吓你的，我很抱歉。”
 >
@@ -555,7 +528,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 你退出游戏重进后她会抱怨。
 
-> “*[玩家名字]*，你曾想象过死亡是什么感觉吗？ ”
+> “_[玩家名字]_，你曾想象过死亡是什么感觉吗？ ”
 >
 > “我之前经常会思考这件事...”
 >
@@ -597,11 +570,11 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 用你的计算机名用户名来称呼你。
 
-需要注意的是，制作者为了注重玩家隐私，当检测到玩家正在运行着直播软件时就不会出现这条信息了。
+有趣的是，制作者为了注重玩家隐私，当检测到玩家正在运行着直播软件时就不会出现这条信息了。
 
-![用计算机用户名称呼你](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Computer-UserName.png){:.shadow}
+![用计算机用户名称呼你](https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/Computer-UserName.png){:.shadow}
 
-说实话，这让我不禁想到人工智能。若能面对的是一个自主学习的 AI 而不是被指定的程序，游戏界必定会上升到一个新高度，想必这就是制作者所想实现却无能为力的吧。
+不过若能面对的是一个自主学习的 AI 而不是被指定的程序，大概会上升到一个新高度，期待 NVIDIA 的表现。
 
 ### CHR 文件
 
@@ -725,41 +698,37 @@ CHR 类型文件在 `...\Doki Doki Literature Club\characters` 文件目录下�
 	</div>
 </div>
 
-
 #### natsuki.chr
 
-用记事本打开，你能发现都是乱码。
+尝试用 Notepad 打开，发现都是乱码。
 
-![natsuki.jpg01](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/natsuki.chr.png){:.shadow}
+![natsuki.jpg01](https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/natsuki.chr.png){:.shadow}
 
-我们能看到第一行就出现了 JFIF 的后缀信息（也就是 JEPG 格式），这是文件头的魔数（Magic Number），即使即使文件的后缀名被错误地更改过，我们仍能根据它的值判断文件的类型。你也可以使用 linux 的 file 指令查看每个文件的详细信息（Windows 下安装同源的 gnu 程序之后也可以查看）。
+文件首行展示了 JFIF 标识，这是 JPEG 格式的魔数（Magic Number）。魔数允许我们识别文件类型，即便文件后缀被误改。在 Linux 下，可用 `file` 命令查看文件信息；在 Windows 下，安装 GNU 工具集后同样可行。
 
-因此我们直接把后缀名改为 `.jpg`。
+因此我们直接把后缀名改为 `.jpg` 可以得到如下图片。
 
-然后我们得到了这个东西……
-
-![natsuki.jpg01](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/natsuki.jpg){:.shadow}
+![natsuki.jpg01](https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/natsuki.jpg){:.shadow}
 
 感觉像是一个经过处理的人物照片。
 
 用 PS 打开，先将图层颜色反相，再将图像转换为`极坐标`后得到结果。
 
-![natsuki.jpg02](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/natsuki.chr.jpg){:.shadow}
+![natsuki.jpg02](https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/natsuki.chr.jpg){:.shadow}
 
-虽然不知道这是谁，但我敢肯定她不是 Natsuki（笑）。
+目前仍然不清楚图片中是谁。
 
 #### monika.chr
 
-同样是根据打开记事本，找到了让我们用 PNG 格式打开的信息。
+同样方法找到了让我们用 PNG 格式打开的信息。
 改后缀为 `.png` 后发现这个：
 
-![monika.chr](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/monika.png){:.shadow}
+![monika.chr](https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/monika.png){:.shadow}
 
-这里引用的一下 [Mithost](https://www.reddit.com/user/Mithost/){:target="_blank"} 的方法。
+这里引用的一下 [Mithost](https://www.reddit.com/user/Mithost/){:target="\_blank"} 的方法。
 
 > 将图片中间的黑白块视为 0 和 1（也就是二进制），从上至下依次转出来。
 > 接着使用 Alphanumeric 转换器可以转换出 Base64 字符串，再解密一下可以得到一封信：
-
 
 <a class="button button--outline-success button--pill" href="https://twitter.com/dansalvato" target="_blank" title="Author">
 <span class="iconfont icon-user"></span> Dan Salvato</a>
@@ -859,46 +828,40 @@ CHR 类型文件在 `...\Doki Doki Literature Club\characters` 文件目录下�
 	</div>
 </div>
 
-挺奇特的不是吗？很容易的能猜出这是 Monika 写的。这又像是一个预告，貌似在 2018 年公布？
+能猜测出这是 Monika 写的，这又像是一个预告。
 
 #### sayori.chr
 
 用记事本打开，提示我们要用 ogg 格式。按操作改后缀为 `.ogg` 得到一段音频。
 
-别着急，这东西不需要听，我使用 AU(Audition) 打开， 查看频谱视图得到一个 QR 码。
+使用 Audition 等软件打开， 查看频谱视图得到一个 QR 码。
 
-![Spectrum](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/Spectrum.png){:.shadow}
+![Spectrum](https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/Spectrum.png){:.shadow}
 
-扫一下，就跳进了 [projectlibitina.com](http://projectlibitina.com/){:target="_blank"} 这个网站。网页中记录了一个名叫 Libitina 的小女孩的实验测试报告。
+扫一下，就跳进了 [projectlibitina.com](http://projectlibitina.com/){:target="\_blank"} 这个网站。网页中记录了一个名叫 Libitina 的小女孩的实验测试报告。
 
-![projectlibitina](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/projectlibitina.png){:.shadow}
+![projectlibitina](https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/projectlibitina.png){:.shadow}
 
-其中又再次提到了 "Third Eye"，这次是直接在人身上做实验。报告中的描述行为包括：抽搐；啜泣；流泪；噬咬；呕吐；尖叫；攻击测试人员；自残；狂笑。仔细一想，这不就是 Yuri 吗？游戏中只有她完全符合这种描述。由此我们就可以得出结论：实验对象就是 Yuri，Libitina 项目也是关于 Yuri 的。
+其中又再次提到了 "Third Eye"，这次是直接在人身上做实验。报告中的描述行为包括：抽搐；啜泣；流泪；噬咬；呕吐；尖叫；攻击测试人员；自残；狂笑。仔细一想，这不就是 Yuri 吗？游戏中只有她完全符合这种描述。由此可以得出：实验对象是 Yuri，Libitina 项目也是关于 Yuri 的。
 
-信息量有点大，但总之 Team Salvato 给了玩家许多空间去探索、思考，属实在彩蛋这一方面做的细致入微。
+总之 Team Salvato 给了玩家许多空间去探索、思考，在彩蛋这一方面属实做的细致入微。
 {:.info}
 
 ### Yuri 与 Third Eye
 
-是否还记得二周目中 Yuri 是怎么跟你概述她读的那本书 (*The Portrait of Markov*) 的内容的吗？
+是否还记得二周目中 Yuri 是怎么跟你概述她读的那本书 (_The Portrait of Markov_) 的内容的吗？
 
 > “基本上就是关于一个变成了‘人体实验监狱’的宗教营...被困在那里的人们都有一个特点那就是他们会变成渴望鲜血的杀人机器。
-但是不仅如此还会变的更糟糕，他们会选择性的繁殖一些人，方法就是砍掉他们的四肢然后把他们附加到到...”
+> 但是不仅如此还会变的更糟糕，他们会选择性的繁殖一些人，方法就是砍掉他们的四肢然后把他们附加到到...”
 
-不得不说，我很佩服 Yuri 的个人爱好。其实这本书根本不存在，但如果联系到那个关于 Libitina 的报告的话就说得通了。想想看， Yuri 被附加第三只眼与书的内容相吻合，这就表明全书内容就是关于 Yuri 的故事。我也相信 Yuri 跟第三只眼有着密切关系，毕竟游戏中就属她眼睛演绎地最生动了。
+我对 Yuri 的个人偏好深感钦佩。尽管所提及的书籍并不存在，但若与 Libitina 的报告相联系，便具有合理性。考虑到 Yuri 所展现的第三只眼与书中描述高度一致，这或许暗示该书正是描述关于 Yuri 的故事。基于她在游戏中过于出戏的眼神，很难不认为 Yuri 与第三只眼存在联系。
 
-更何况官方都给出了图片明示：
+此外，官方所提供的图片为此提供了明确的证据。
 
 <a class="button button--outline-success button--pill" href="https://twitter.com/JisuArt" target="_blank" title="Author">
 <span class="iconfont icon-user"></span> JisuArt</a>
 
-![Three Eye.png](https://cdn.jsdelivr.net/gh/AntJun/Personal-Blog-Image-Storage/img/three-eye.png){:.shadow}
-
-### 其它
-
-关于游戏此外的信息，因为已经有其它玩家写了更详细的解说，这里将不过多赘述。可以参考其它探索者们的推论。
-
-话说我已经看了这么多理论家讨论官方出下部游戏的推论，但都过去两年多了我依旧没得到什么新作消息。
+![Three Eye.png](https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/three-eye.png){:.shadow}
 
 ## 游戏主题曲/音乐
 
@@ -927,29 +890,19 @@ const am = new APlayer({
 
 ### Your Reality
 
-*Your Reality* 是在游戏完成三周目最后播放的一段音乐。
+_Your Reality_ 是在游戏完成三周目最后播放的一段音乐。
 
 顺便一提，在完美结局中最后播放的视频不会删除角色立绘，并且在最后会得到 Team Salvato 写给玩家的信。
-
-### Doki Doki Forever
-
-这是在 YouTube 上发布的一个关于 DDLC 的 MMD，在这里顺便推荐一下。
-
-<a class="button button--outline-info button--pill" href="https://youtu.be/KpV_xL2FrGA" target="_blank" title="Youtube Video">
-<span class="iconfont icon-youtube"></span> ⌈DDLC⌋永遠的心跳聲！</a>
-<a class="button button--outline-success button--pill" href="https://www.youtube.com/user/MagicalPouchOfMagic" target="_blank" title="Author">
-<span class="iconfont icon-user"></span> MagicalPouchOfMagic</a>
-
-<div> {%- include extensions/youtube.html id='KpV_xL2FrGA' -%}</div>
 
 ## 参考
 
 1. **标题背景图**：
-	- [Azhar, Faiz](https://wall.alphacoders.com/unregistered.php?id=25904){:target="_blank"}. [*"Doki Doki Literature Club!   Monika"*](https://wall.alphacoders.com/big.php?i=877002){:target="_blank"}. 2017-10-21.
+
+   - [Azhar, Faiz](https://wall.alphacoders.com/unregistered.php?id=25904){:target="\_blank"}. [_"Doki Doki Literature Club! Monika"_](https://wall.alphacoders.com/big.php?i=877002){:target="\_blank"}. 2017-10-21.
 
 1. **[深度探索](#深度探索)**：
-	- [Vortex_K](https://tieba.baidu.com/home/main?un=Vortex_K&ie=utf-8&id=tb.1.c8d380a5.m_xDng4PwARBznaRicg1_w?t=1419504273&fr=pb){:target="_blank"}. [*"DDLC 游戏深度解密"*](https://tieba.baidu.com/p/5680171084?see_lz=1){:target="_blank"}.2018-05-03.
-	- [Melnik,Victor](https://medium.com/@annimon119){:target="_blank"}. [*"How to decrypt all character files of Doki Doki Literature Club"*](https://medium.com/@annimon119/how-to-decrypt-all-character-files-of-doki-doki-literature-club-ecbd94fd41ec){:target="_blank"}. Jan 19, 2018.
-	- 匿名用户. [*"游戏 心跳文学部《 Doki Doki Literature Club 》中有哪些细节与彩蛋？"*](https://www.zhihu.com/question/264052228){:target="_blank"}. [CCXR](https://www.zhihu.com/people/LEXAZOB){:target="_blank"}; [H2O2是过氧化氢](https://www.zhihu.com/people/study-64-40){:target="_blank"}, 2018-01-07, 2019-02-01.
+   - [Vortex_K](https://tieba.baidu.com/home/main?un=Vortex_K&ie=utf-8&id=tb.1.c8d380a5.m_xDng4PwARBznaRicg1_w?t=1419504273&fr=pb){:target="\_blank"}. [_"DDLC 游戏深度解密"_](https://tieba.baidu.com/p/5680171084?see_lz=1){:target="\_blank"}.2018-05-03.
+   - [Melnik,Victor](https://medium.com/@annimon119){:target="\_blank"}. [_"How to decrypt all character files of Doki Doki Literature Club"_](https://medium.com/@annimon119/how-to-decrypt-all-character-files-of-doki-doki-literature-club-ecbd94fd41ec){:target="\_blank"}. Jan 19, 2018.
+   - 匿名用户. [_"游戏 心跳文学部《 Doki Doki Literature Club 》中有哪些细节与彩蛋？"_](https://www.zhihu.com/question/264052228){:target="\_blank"}. [CCXR](https://www.zhihu.com/people/LEXAZOB){:target="\_blank"}; [H2O2 是过氧化氢](https://www.zhihu.com/people/study-64-40){:target="\_blank"}, 2018-01-07, 2019-02-01.
 
 ---

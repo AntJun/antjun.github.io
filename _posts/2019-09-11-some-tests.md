@@ -8,6 +8,7 @@ cover: /images/landing-cover/2019-09-11-tests.png
 
 一些无关紧要的代码测试……
 {:.info}
+
 <!--more-->
 
 ---
@@ -34,6 +35,6 @@ The following is some functional test content (don't care about it ~)
 
 ### Icons
 
-<i class="fas fa-bars icon--show"></i> 
+<i class="fas fa-bars icon--show"></i>
 
 ---
