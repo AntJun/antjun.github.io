@@ -1,5 +1,5 @@
 ---
-layout: miscellaneous
+layout: misc
 sharing: true
 lightbox: true
 titles:
@@ -50,7 +50,7 @@ aside:
 ---
 
 赞助前请务必阅读赞助声明！
-<br/> 若有问题请通过 [「关于」](/miscellaneous/about) 页面或页面底部提供的联系方式与我联系。
+<br/> 若有问题请通过 [「关于」](/misc/about) 页面或页面底部提供的联系方式与我联系。
 {:.warning}
 
 ## 赞助声明
