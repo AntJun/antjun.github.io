@@ -1,5 +1,5 @@
 ---
-layout: miscellaneous
+layout: misc
 sharing: true
 titles:
   # @start locale config
@@ -106,7 +106,7 @@ Kotori 是我来自南小鸟/五河琴里的名字的罗马音。
 - 打电动
   - FPS、TPS、RPG 及 GAL 为主，偶尔会和朋友打打休闲联机
 - 视频制作
-  - 许多半成品 
+  - 许多半成品
 - 3D 动画
   - C4D, MMD 为主
 - 网站前端及后端开发
