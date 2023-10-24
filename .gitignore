@@ -16,7 +16,7 @@ tool/
 node_modules/
 .sass-cache/
 
-.desktop.ini
+desktop.ini
 .stylelintrc
 .stylelintignore
 .eslintrc
