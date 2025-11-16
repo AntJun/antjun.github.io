@@ -123,8 +123,8 @@ comments:
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
-    clientID    : 42cc386a3933de38b896 # GitHub Application Client ID
-    clientSecret: eb76d8182d8a77105c73a9b9ed83aab43c9de970  # GitHub Application Client Secret
+    clientID    : # GitHub Application Client ID
+    clientSecret: # GitHub Application Client Secret
     repository  : GitalkBlogComments # GitHub repo
     owner       : AntJun # GitHub repo owner
     admin: AntJun # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
@@ -133,9 +133,9 @@ comments:
   ## Valine
   # please refer to https://valine.js.org/en/ for more info.
   valine:
-    app_id      : #0zwiAfTY7tqTi8MY51ps6fn1-gzGzoHsz # LeanCloud App id
-    app_key     : #W4REnyr8bvIQmlXkXomGst9X # LeanCloud App key
-    placeholder : #'在这里写评论(。・∀・)ノ' # Prompt information
+    app_id      : # LeanCloud App id
+    app_key     : # LeanCloud App key
+    placeholder : # Prompt information
     visitor     : # false (default)
     meta        : # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
 
@@ -146,8 +146,8 @@ pageview:
   provider: leancloud # false (default), "leancloud", "custom"  provider: leancloud
   ## Leancloud
   leancloud:
-    app_id    : 0zwiAfTY7tqTi8MY51ps6fn1-gzGzoHsz # LeanCloud App id
-    app_key   : W4REnyr8bvIQmlXkXomGst9X # LeanCloud App key
+    app_id    : # LeanCloud App id
+    app_key   : # LeanCloud App key
     app_class : AntJun # LeanCloud App class
 
 
