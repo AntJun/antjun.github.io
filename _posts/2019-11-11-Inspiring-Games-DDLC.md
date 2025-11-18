@@ -110,7 +110,7 @@ Sayori 上吊之后进入二周目。社员们行为举止变得异常，特别�
 
 在游戏中我们是通过选择词语写诗来增进与其它社员的感情，而不是给自己看的。每当你选择词语的时候，喜欢这个词语类型的人就会蹦起来，这是也游戏中唯一的攻略的方式。通过查看每个成员的诗可以发现每个人的诗都与他们的性格相对，特别在游戏后期表达的尤其强烈。
 
-![Poem](https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/write your poem.png){:.shadow}
+![Poem]("https://cdn.jsdelivr.net/gh/AntJun/BlogImageHosting/img/write%20your%20poem.png"){:.shadow}
 
 值得注意的是左下角只有三个人，每次写诗时都会少 Monika。
 
