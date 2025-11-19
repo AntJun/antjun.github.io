@@ -8,6 +8,7 @@ gem "jekyll-gist"
 gem "jemoji"
 gem "nokogiri"
 gem "liquid_reading_time"
+gem "activesupport", ">= 6.1.7.5"
 # gem "jekyll-archives"
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -32,10 +33,12 @@ end
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
-  gem "tzinfo", "~> 1.2"
+  gem "tzinfo", "~> 2.0"
   gem "tzinfo-data"
 end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
+
+gem "kramdown-parser-gfm", "~> 1.1"
