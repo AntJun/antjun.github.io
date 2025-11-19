@@ -47,11 +47,11 @@
     "cross-env": "^7.0.0",
     "eslint": "^9.39.1",
     "husky": "^4.2.1",
-    "stylelint": "^13.0.0",
-    "stylelint-config-recommended-scss": "^4.2.0",
+    "stylelint": "^16.25.0",
+    "stylelint-config-recommended-scss": "^16.0.2",
     "stylelint-config-standard": "^19.0.0",
-    "stylelint-order": "^4.0.0",
-    "stylelint-scss": "^3.14.2"
+    "stylelint-order": "^7.0.0",
+    "stylelint-scss": "^6.12.1"
   },
   "husky": {
     "hooks": {
