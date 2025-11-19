@@ -63,8 +63,6 @@ aside:
 
 ## 赞助方式
 
-暂支持 4 种赞助方式
-
 **点击文字链接或扫二维码进行支付**
 
 | <a href="https://qr.alipay.com/FKX01742GKQMMVAQW6EIDE" target="_blank">`支付宝`</a> | <a href="wxp://f2f0Pve-YuADkheXha9OIdTciRxRcU9CC-_y">`微信`</a> |
