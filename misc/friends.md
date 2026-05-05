@@ -95,7 +95,7 @@ aside:
       <div>
         <div class="item">
 <div class="item__image" markdown="1">
-  <img class="image image--sm" src="https://6sheep.gitee.io/10101.demo/comic/10101/headshot/0%20(2).png"/>{:.border.rounded}
+  <img class="image image--sm" src="https://szhshp.org/favicon.ico"/>{:.border.rounded}
 </div>
           <div class="item__content">
             <div class="item__description">
