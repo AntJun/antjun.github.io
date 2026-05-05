@@ -59,24 +59,6 @@ aside:
       <div>
         <div class="item">
 <div class="item__image" markdown="1">
-  <img class="image image--sm" src="https://tding.top/images/avatar.webp"/>{:.border.rounded}
-</div>
-          <div class="item__content">
-            <div class="item__description">
-              <p>
-                <h4>
-                  <a href="https://tding.top/" target="_blank">@ 小丁的个人博客</a>
-                </h4> 世间所有的相遇，都是久别重逢
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="cell cell--6">
-      <div>
-        <div class="item">
-<div class="item__image" markdown="1">
   <img class="image image--sm" src="https://blog.mntpaji.com/images/avatar.png"/>{:.border.rounded}
 </div>
           <div class="item__content">
@@ -139,24 +121,6 @@ aside:
                 <h4>
                   <a href="https://moedog.org/" target="_blank">@ 犬'S BLOG</a>
                 </h4> I'm very vegetable and very poor.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="cell cell--6">
-      <div>
-        <div class="item">
-<div class="item__image" markdown="1">
-  <img class="image image--sm" src="https://zzlake.com/storage/2017/04/Avatar_Dennis-RoundCorner_PNG.png"/>{:.border.rounded}
-</div>
-          <div class="item__content">
-            <div class="item__description">
-              <p>
-                <h4>
-                  <a href="https://zzlake.com/" target="_blank">@ 柏吃支醉的个人小站</a>
-                </h4> 醉生湖 — rich world, poor you
               </p>
             </div>
           </div>
