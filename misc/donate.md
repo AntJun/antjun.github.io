@@ -63,10 +63,8 @@ aside:
 
 ## 赞助方式
 
-**点击文字链接或扫二维码进行支付**
+**暂不支持赞助**
 
-| <a href="https://qr.alipay.com/FKX01742GKQMMVAQW6EIDE" target="_blank">`支付宝`</a> | <a href="wxp://f2f0Pve-YuADkheXha9OIdTciRxRcU9CC-_y">`微信`</a> |
-| --- |  --- |
-| ![Alipay](/images/Pay/AliPay QR (Pure, Border).png) | ![WeChat](/images/Pay/WeChat Pay QR (Pure, Border).png) |
+感谢您的支持，但目前暂不开放赞助渠道。
 
 ---
