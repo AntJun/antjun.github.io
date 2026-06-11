@@ -58,7 +58,7 @@
     var createNode = function(name, attrs) {
       var node = doc.createElement(name), attr;
       for (attr in attrs) {
-        if (attrs.hasOwnProperty(attr)) {
+        if (Object.prototype.hasOwnProperty.call(attrs, attr)) {
           node.setAttribute(attr, attrs[attr]);
         }
       }
