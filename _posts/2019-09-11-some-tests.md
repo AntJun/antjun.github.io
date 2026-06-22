@@ -3,7 +3,6 @@ title: HTML | CSS | JavaScript 代码测试
 tags: ["Code"]
 key: 100000
 modify_date: 2020-04-21
-cover: /images/landing-cover/2019-09-11-tests.png
 ---
 
 一些页面组件与嵌入代码的测试记录。
