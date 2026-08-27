@@ -80,6 +80,8 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /misc/about.html
+    urls:
+      en: /en/misc/about.html
 
   - titles:
       # @start locale config
@@ -106,6 +108,8 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /misc/studio.html
+    urls:
+      en: /en/misc/studio.html
 
   - titles:
       # @start locale config
@@ -132,6 +136,8 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /misc/friends.html
+    urls:
+      en: /en/misc/friends.html
 
   - titles:
       # @start locale config
@@ -158,6 +164,8 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /misc/donate.html
+    urls:
+      en: /en/misc/donate.html
 
 docs-zh:
   - title:  <span class="iconfont icon-navigation"></span> 导航
@@ -191,13 +199,13 @@ docs-en:
       - title:  Archive
         url:    /en/archive.html
       - title:  About
-        url:    /misc/about.html
+        url:    /en/misc/about.html
       - title:  Studio
-        url:    /misc/studio.html
+        url:    /en/misc/studio.html
       - title:  Friends
-        url:    /misc/friends.html
+        url:    /en/misc/friends.html
       - title:  Donate
-        url:    /misc/donate.html
+        url:    /en/misc/donate.html
   - title:      <span class="iconfont icon-extend"></span> Expansions
     children:
       - title:  Music
