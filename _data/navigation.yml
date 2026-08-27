@@ -156,9 +156,6 @@ header:
     url: /misc/donate.html
 
 docs-zh:
-  - title:      <span class="iconfont icon-word"></span> 一言
-    children:
-      - title: 「<p id="hitokoto" style="display:inline">...</p>」</br>—— <p id="from" style="display:inline">...</p>
   - title:  <span class="iconfont icon-navigation"></span> 导航
     children:
       - title:  归档
@@ -185,9 +182,6 @@ docs-zh:
         url:    /
 
 docs-en:
-  - title:      <span class="iconfont icon-word"></span> Hitokoto
-    children:
-      - title: 「<p id="hitokoto" style="display:inline">...</p>」</br>—— <p id="from" style="display:inline">...</p>
   - title:  <span class="iconfont icon-navigation"></span> Navigation
     children:
       - title:  Archive

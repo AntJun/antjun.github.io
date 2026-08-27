@@ -40,24 +40,4 @@ articles:
   <script>
   {%- include scripts/home.js -%}
 </script>
-
-  <!-- Load "Hitokoto" (JS) -->
-  <!-- Compatible with lower version browsers (Including IE)（REMOVABLE） -->
-  <script src="https://cdn.jsdelivr.net/npm/bluebird@3/js/browser/bluebird.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/whatwg-fetch@2.0.3/fetch.min.js"></script>
-  <!-- Load [Content] and [Source] -->
-  <script>
-  var xhr = new XMLHttpRequest();
-  xhr.open('get', 'https://v1.hitokoto.cn/?c=a');
-  xhr.onreadystatechange = function () {
-    if (xhr.readyState === 4) {
-      var data = JSON.parse(xhr.responseText);
-	  var hitokoto = document.getElementById('hitokoto');
-      var from = document.getElementById('from');
-	  hitokoto.innerText = data.hitokoto;
-      from.innerText = data.from;
-    }
-  }
-  xhr.send();
-</script>
   {{ content }}
