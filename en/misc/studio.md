@@ -73,31 +73,22 @@ The list below records everyone who joined or collaborated with us, in memory of
 {:.warning}
 
 - AntJun
-- 舞晗坤
+- WHK
 - dz_paji
-- Star_leap 繁星飞跃
+- Star_leap
 - Xin_Ruan
-- 安素
-- 神琦
-- 小谎言
-- 梦知
-- 特有风范
-- Dark 炎麟君
-- 史努比游览
-- 金秋
-- 松田陆风
-- 绵羊
-- dy 冷子
-- 豆比金领
-- 黄昏
-- LSP 建筑
-
-## Afterword
-
-I am grateful that Minecraft gave me the opportunity to create. It is more than a game: it crossed the barrier between us and the screen and gave me room to invent and experiment.
-Its freedom let me accomplish things in many areas, from sharing map saves to making animations, from controlling games with commands to writing programs, and from working alone to joining groups and eventually a studio. It is unquestionably one of the strongest memories of my youth, and I cannot deny how important it was to me.
-
-After NetEase became Minecraft's operator in China—or perhaps simply after I entered high school—my enthusiasm for the game steadily declined. I was sorry to see a game that had been brilliant for six years ultimately fall into the hands of business interests.
-Life continued, however. New environments and new friends kept appearing, pushing me to find other things that could bring me enjoyment and forcing me to make my own choices.
+- AN
+- Divine Jade
+- Little Lie
+- Dream Knower
+- Dark
+- Snoopy Wanderer
+- JinQiu
+- Pinefield Landwind
+- Sheep
+- dy
+- db
+- huanghun
+- LSP
 
 ---
