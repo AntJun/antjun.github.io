@@ -1,0 +1,12 @@
+<div id="aplayer" data-aplayer-page></div>
+<script>
+  (function() {
+    var manager = window.AntJunAPlayer;
+    if (!manager || !manager.isEnabled()) {
+      return;
+    }
+    manager.loadCore('{{ "/plugins/aplayer/APlayer.min.js" | relative_url }}', function() {
+      manager.loadScript('{{ "/plugins/aplayer/music.js" | relative_url }}', 'playlist');
+    });
+  })();
+</script>

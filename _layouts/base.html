@@ -19,11 +19,15 @@ layout: none
 	  </script>
   </head>
   <body>
+    <script>
+      {%- include scripts/components/aplayer-preference.js -%}
+    </script>
     <div class="root" data-is-touch="false">
       {{ content }}
     </div>
     <script>
       {%- include scripts/common.js -%}
+      {%- include scripts/components/aplayer-toggle.js -%}
     </script>
   </body>
 </html>

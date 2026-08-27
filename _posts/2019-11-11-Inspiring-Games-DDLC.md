@@ -817,10 +817,17 @@ Linda很快就知道了我叫做Maria（我不是），而且我在附近的一�
 
 ## 游戏主题曲/音乐
 
-<div id="Audio"></div>
-<script src="/plugins/aplayer/APlayer.min.js"></script>
+<div id="Audio" data-aplayer-page></div>
 <script>
-const am = new APlayer({
+(function() {
+  var container = document.getElementById('Audio');
+  var manager = window.AntJunAPlayer;
+  if (!manager || !manager.isEnabled()) {
+    container.hidden = true;
+    return;
+  }
+  manager.loadCore('{{ "/plugins/aplayer/APlayer.min.js" | relative_url }}', function() {
+    new APlayer({
     container: document.getElementById('Audio'),
     autoplay: false,
     lrcType: 3,
@@ -837,7 +844,9 @@ const am = new APlayer({
         cover: 'https://p2.music.126.net/znrPiEufQsk2dFjeRzsTsA==/109951163151121215.jpg',
         lrc: '/plugins/aplayer/LRC/posts/Doki Doki Forever.lrc'
     }]
-});
+    });
+  });
+})();
 </script>
 
 ### Your Reality

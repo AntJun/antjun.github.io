@@ -7,14 +7,25 @@
         <li class="toc-h1">{{ _item.title }}</li>
         {%- if _item.children -%}
           {%- for _child in _item.children -%}
-            {%- include snippets/get-nav-url.html path=_child.url -%}
-            {%- assign _nav_url = __return -%}
-            {%- include snippets/get-nav-url.html path=page.url -%}
-            {%- assign _page_url = __return -%}
-            {%- if _nav_url == _page_url -%}
-              <li class="toc-h2 active"><a href="{{ _nav_url }}">{{ _child.title }}</a></li>
+            {%- if _child.action == 'toggle-aplayer' -%}
+              <li class="toc-h2">
+                <button
+                  type="button"
+                  class="aplayer-toggle js-aplayer-toggle"
+                  aria-pressed="false"
+                  data-label-off="{{ _child.title_off | default: _child.title }}"
+                  data-label-on="{{ _child.title_on | default: _child.title }}">{{ _child.title_off | default: _child.title }}</button>
+              </li>
             {%- else -%}
-              <li class="toc-h2"><a href="{{ _nav_url }}">{{ _child.title }}</a></li>
+              {%- include snippets/get-nav-url.html path=_child.url -%}
+              {%- assign _nav_url = __return -%}
+              {%- include snippets/get-nav-url.html path=page.url -%}
+              {%- assign _page_url = __return -%}
+              {%- if _nav_url == _page_url -%}
+                <li class="toc-h2 active"><a href="{{ _nav_url }}">{{ _child.title }}</a></li>
+              {%- else -%}
+                <li class="toc-h2"><a href="{{ _nav_url }}">{{ _child.title }}</a></li>
+              {%- endif -%}
             {%- endif -%}
           {%- endfor -%}
         {%- endif -%}

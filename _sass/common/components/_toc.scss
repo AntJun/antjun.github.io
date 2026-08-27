@@ -122,3 +122,25 @@ ul.toc--navigator {
     }
   }
 }
+
+.aplayer-toggle {
+  display: inline-block;
+  padding: 0 0 0 map-get($spacers, 2);
+  margin: map-get($spacers, 1) 0;
+  color: $text-color-l;
+  font: inherit;
+  font-size: map-get($base, font-size-sm);
+  font-weight: map-get($base, font-weight-bold);
+  line-height: map-get($base, line-height-sm);
+  text-align: left;
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+
+  &:hover,
+  &:focus,
+  &[aria-pressed='true'] {
+    color: $main-color-1;
+    outline: none;
+  }
+}
