@@ -178,6 +178,10 @@ markdown    : kramdown
 highlighter : rouge
 permalink   : date
 
+collections:
+  en_posts:
+    output: true
+
 exclude:
   - CHANGELOG.md
   - HOW_TO_RELEASE.md
@@ -204,6 +208,21 @@ defaults:
       layout: article
       sharing: true
       license: true
+      aside:
+        toc: true
+      show_edit_on_github: true
+      show_subscribe: true
+      pageview: true
+  - scope:
+      path: ""
+      type: en_posts
+    values:
+      layout: article
+      lang: en
+      sharing: true
+      license: true
+      sidebar:
+        nav: docs-en
       aside:
         toc: true
       show_edit_on_github: true

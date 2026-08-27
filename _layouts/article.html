@@ -5,10 +5,17 @@ lightbox: true
 ---
 
 <!-- Word count and reading time estimation -->
+{%- include snippets/get-lang.html -%}
+{%- assign _article_lang = __return | slice: 0, 2 -%}
 <div class="fade-in-words">
   <div class="first-words">
     <center>
-      <b><span><span class="iconfont icon-statistics"></span> 本文总共 {{ page.content | strip_html | strip_newlines | remove: " " | size }} 字 | <span class="iconfont icon-time"></span> 阅读全文大约需要 {{ page.content | strip_html | strip_newlines | remove: " " | size | divided_by: 350 | plus: 1 }} 分钟 </span></b>
+      {%- if _article_lang == 'zh' -%}
+        <b><span><span class="iconfont icon-statistics"></span> 本文总共 {{ page.content | strip_html | strip_newlines | remove: " " | size }} 字 | <span class="iconfont icon-time"></span> 阅读全文大约需要 {{ page.content | strip_html | strip_newlines | remove: " " | size | divided_by: 350 | plus: 1 }} 分钟 </span></b>
+      {%- else -%}
+        {%- assign _word_count = page.content | strip_html | number_of_words -%}
+        <b><span><span class="iconfont icon-statistics"></span> {{ _word_count }} words | <span class="iconfont icon-time"></span> About {{ _word_count | plus: 199 | divided_by: 200 }} min read</span></b>
+      {%- endif -%}
     </center>
   </div>
 </div>

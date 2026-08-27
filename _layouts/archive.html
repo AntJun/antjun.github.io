@@ -29,7 +29,11 @@ titles:
 <div class="layout--archive js-all">
   {%- include tags.html -%}
   <div class="js-result layout--archive__result d-none">
-    {%- include article-list.html articles=site.posts type='brief' show_info=true reverse=true group_by='year' -%}
+    {%- assign _archive_articles = site.posts -%}
+    {%- if page.articles.data_source == 'site.en_posts' -%}
+      {%- assign _archive_articles = site.en_posts -%}
+    {%- endif -%}
+    {%- include article-list.html articles=_archive_articles type='brief' show_info=true reverse=true group_by='year' -%}
   </div>
 </div>
 

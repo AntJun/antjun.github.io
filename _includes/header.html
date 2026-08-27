@@ -22,8 +22,14 @@
       {%- if site.data.navigation.header -%}
       <nav class="navigation">
         <ul>
+          {%- include snippets/get-lang.html -%}
+          {%- assign _page_lang = __return -%}
           {%- for _item in site.data.navigation.header -%}
-            {%- include snippets/get-nav-url.html path=_item.url -%}
+            {%- assign _item_url = _item.url -%}
+            {%- if _item.urls and _item.urls[_page_lang] -%}
+              {%- assign _item_url = _item.urls[_page_lang] -%}
+            {%- endif -%}
+            {%- include snippets/get-nav-url.html path=_item_url -%}
             {%- assign _nav_url = __return -%}
             {%- include snippets/get-nav-url.html path=page.url -%}
             {%- assign _page_url = __return -%}

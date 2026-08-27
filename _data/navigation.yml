@@ -24,6 +24,8 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /
+    urls:
+      en: /en/
 
   - titles:
       # @start locale config
@@ -50,6 +52,8 @@ header:
       fr-LU   : *FR
       # @end locale config
     url: /archive.html
+    urls:
+      en: /en/archive.html
 
   - titles:
       # @start locale config
@@ -185,7 +189,7 @@ docs-en:
   - title:  <span class="iconfont icon-navigation"></span> Navigation
     children:
       - title:  Archive
-        url:    /archive.html
+        url:    /en/archive.html
       - title:  About
         url:    /misc/about.html
       - title:  Studio
@@ -200,12 +204,10 @@ docs-en:
         url:    http://music.163.com/playlist?id=3183686521&userid=349534750
       - title:  Videos
         url:    https://space.bilibili.com/28098803/
-      - title:  Archive
-        url:    /archive
 
   - title:      <span class="iconfont icon-language"></span> Languages
     children:
       - title:  English
-        url:    /en
+        url:    /en/
       - title:  简体中文
         url:    /
