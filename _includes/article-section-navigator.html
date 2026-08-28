@@ -1,4 +1,19 @@
-{%- if page.sidebar.nav -%}
+{%- if page.collection == 'en_posts' -%}
+  {%- assign _en_posts = site.en_posts | sort: 'date' -%}
+  {%- assign _find_cur = false -%}
+
+  {%- for _post in _en_posts -%}
+    {%- if _post.url == page.url -%}
+      {%- assign _find_cur = true -%}
+    {%- elsif _find_cur -%}
+      {%- assign _next = _post -%}
+      {%- break -%}
+    {%- else -%}
+      {%- assign _previous = _post -%}
+    {%- endif -%}
+  {%- endfor -%}
+
+{%- elsif page.sidebar.nav -%}
   {%- assign _sidebar_nav = site.data.navigation[page.sidebar.nav] -%}
   {%- if _sidebar_nav -%}
     {%- assign _find_cur = false -%}
