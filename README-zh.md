@@ -1,6 +1,4 @@
-
-
-## Ant_Jun's Blog
+# Ant_Jun's Blog
 
 欢迎来到 Ant_Jun 的个人博客，也可以称之为 Akira_Ant 的博客或者「音乃木坂 Coffee House」。
 

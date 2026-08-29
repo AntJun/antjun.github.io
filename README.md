@@ -1,4 +1,4 @@
-## Ant_Jun's Blog
+# Ant_Jun's Blog
 
 Welcome to Ant_Jun's Blog. It can also be called Akira_Ant's Blog or "Otonokizaka Coffee House".
 
