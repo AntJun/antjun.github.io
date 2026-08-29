@@ -179,7 +179,7 @@ highlighter : rouge
 permalink   : date
 
 collections:
-  en_posts:
+  posts_en:
     output: true
 
 exclude:
@@ -215,14 +215,12 @@ defaults:
       pageview: true
   - scope:
       path: ""
-      type: en_posts
+      type: posts_en
     values:
       layout: article
       lang: en
       sharing: true
       license: true
-      sidebar:
-        nav: docs-en
       aside:
         toc: true
       show_edit_on_github: true

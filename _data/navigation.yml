@@ -184,8 +184,8 @@ docs-zh:
     children:
       - title:      音乐
         action:     toggle-aplayer
-        title_off:  音乐（关闭）
-        title_on:   音乐（开启）
+        title_off:  "文章内音乐播放器：关闭"
+        title_on:   "文章内音乐播放器：开启"
       - title:  视频
         url:    https://space.bilibili.com/28098803/
   - title:      <span class="iconfont icon-language"></span> 其他语言
@@ -208,8 +208,8 @@ docs-en:
     children:
       - title:      Music
         action:     toggle-aplayer
-        title_off:  Music (Off)
-        title_on:   Music (On)
+        title_off:  "In-article music player: Off"
+        title_on:   "In-article music player: On"
       - title:  Videos
         url:    https://space.bilibili.com/28098803/
 

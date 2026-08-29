@@ -1,8 +1,8 @@
-{%- if page.collection == 'en_posts' -%}
-  {%- assign _en_posts = site.en_posts | sort: 'date' -%}
+{%- if page.collection == 'posts_en' -%}
+  {%- assign _posts_en = site.posts_en | sort: 'date' -%}
   {%- assign _find_cur = false -%}
 
-  {%- for _post in _en_posts -%}
+  {%- for _post in _posts_en -%}
     {%- if _post.url == page.url -%}
       {%- assign _find_cur = true -%}
     {%- elsif _find_cur -%}

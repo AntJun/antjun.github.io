@@ -30,8 +30,8 @@ titles:
   {%- include tags.html -%}
   <div class="js-result layout--archive__result d-none">
     {%- assign _archive_articles = site.posts -%}
-    {%- if page.articles.data_source == 'site.en_posts' -%}
-      {%- assign _archive_articles = site.en_posts -%}
+    {%- if page.articles.data_source == 'site.posts_en' -%}
+      {%- assign _archive_articles = site.posts_en -%}
     {%- endif -%}
     {%- include article-list.html articles=_archive_articles type='brief' show_info=true reverse=true group_by='year' -%}
   </div>
