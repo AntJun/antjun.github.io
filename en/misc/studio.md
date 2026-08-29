@@ -43,30 +43,31 @@ Between 2016 and 2017, we completed many collaborative tasks, including server p
 
 ## History
 
-- September 29, 2015
-  - The Ant discussion group was created
-    <br/> This was AntJun's first Minecraft discussion group, intended as a place for Minecraft enthusiasts to communicate. At the time, I created and released many of my own projects as a Minecraft player. After those projects attracted some attention in 2016, I created this group to bring more players together.
+### September 29, 2015: The Ant Discussion Group Was Founded
 
-- May 1, 2016
-  - The Ant discussion group was renamed Ant Studio
-    <br/> I wanted to expand the team quickly, so Ant Studio became the name of the organization. It remained an entertainment-oriented, nonprofit group with few members, a small scale, and no legal registration.
-  - Studio collaborations
-    <br/> The studio began communicating with other Minecraft studios, including Xuanlingyi Studio, Yanlin Studio, and Phantom Studio. There were no formal joint projects, only limited discussions and exchanges.
+This was AntJun's first Minecraft discussion group. It was conceived as a place where players could exchange creations and experiences. As my Minecraft projects began attracting attention in 2016, the group also brought together more players with similar interests.
 
-- October 1, 2016
-  - Ant Server began operating
-    <br/> Ant Server, also known as the Minecraft “Sunset Valley” server, was a small-to-medium public Minecraft server built by studio members. It ran on Alibaba Cloud and supported Ant Skin. Members continued updating and maintaining it while it was online, but the server closed after a little more than six months because of insufficient funding.
+### May 1, 2016: Renaming and Collaboration
 
-- January 1, 2017
-  - Ant Skin was launched
-    <br/> Ant Skin was a Minecraft skin site built jointly by dzpaji and AntJun and powered by [Blessing Skin](https://skin.prinzeugen.net/). It later closed when the hosting plan expired and nobody renewed it.
+To expand the team, the Ant discussion group was formally renamed Ant Studio. It remained a small, entertainment-oriented nonprofit group and was never incorporated as a legal entity.
 
-- July 2017
-  - The studio became dormant
-    <br/> I may eventually publish a detailed blog post about June 26, 2017 and what happened afterward.
+During the same period, we began exchanging ideas with other Minecraft teams, including Dazzling Wing Studio, Flame Scale Studio, and Phantom Studio. We did not undertake any formal joint projects; the collaboration consisted mainly of small-scale discussions and sharing experiences.
 
-- 2018–2019
-  - No activity
+### October 1, 2016: Ant Server Went Online
+
+Ant Server, also known as the Minecraft “Sunset Valley” server, was a small-to-medium public Minecraft server built by studio members. It ran on Alibaba Cloud and supported Ant Skin. Members maintained and updated it throughout its operation, but insufficient funding forced it to close after a little more than six months.
+
+### January 1, 2017: Ant Skin Went Online
+
+Ant Skin was a Minecraft skin site built jointly by dzpaji and AntJun and powered by [Blessing Skin](https://skin.prinzeugen.net/). It later closed when the hosting plan expired and nobody renewed it.
+
+### July 2017: The Studio Became Dormant
+
+The studio ceased its activities during this period. I may eventually publish a separate blog post describing what happened on and after June 26, 2017.
+
+### 2018–2019: No Further Activity
+
+The studio did not resume operations or publish any further updates.
 
 ## Members
 
