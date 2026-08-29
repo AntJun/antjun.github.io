@@ -836,13 +836,13 @@ Linda很快就知道了我叫做Maria（我不是），而且我在附近的一�
         artist: 'Dan Salvato / Jillian Ashcraft',
         url: 'https://link.hhtjim.com/163/523658880.mp3',
         cover: 'https://p2.music.126.net/ghX7rNUU76E2Smbdn66tDA==/109951163112595927.jpg',
-        lrc: '/plugins/aplayer/LRC/posts/Your Reality - Dan Salvato, Jillian Ashcraft.lrc'
+        lrc: '/assets/lrc/posts/Your Reality - Dan Salvato, Jillian Ashcraft.lrc'
     },{
         name: '永远的文学部~Doki Doki Forever',
         artist: 'Android233 / CHI-CHI / Rachie / OR3O / Kathy-chan',
         url: 'https://link.hhtjim.com/163/545904228.mp3',
         cover: 'https://p2.music.126.net/znrPiEufQsk2dFjeRzsTsA==/109951163151121215.jpg',
-        lrc: '/plugins/aplayer/LRC/posts/Doki Doki Forever.lrc'
+        lrc: '/assets/lrc/posts/Doki Doki Forever.lrc'
     }]
     });
   });
