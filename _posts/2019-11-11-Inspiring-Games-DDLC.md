@@ -2,7 +2,7 @@
 title: 浅谈 Doki Doki Literature Club
 tags: ["杂谈", "游戏", "评鉴", "DDLC"]
 key: 100002
-cover: /images/landing-cover/2019-11-11-Natsuki.png
+cover: /assets/images/landing-cover/2019-11-11-Natsuki.png
 author: Akira Ant
 modify_date: 2020-01-12
 article_header:
@@ -11,7 +11,7 @@ article_header:
   background_color: "#203028"
   background_image:
     gradient: "linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))"
-    src: /images/post/2019-11-11-JustHer.jpg
+    src: /assets/images/post/2019-11-11-JustHer.jpg
 ---
 
 本文以一个非专业玩家的视角解读 Team Salvato 的 Doki Doki Literature Club。

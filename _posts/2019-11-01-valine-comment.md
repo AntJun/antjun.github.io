@@ -2,7 +2,7 @@
 title: Valine 评论系统与 LeanCloud 配置教程
 tags: ["技术", "教程", "Code", "Valine", "评论"]
 key: 100001
-cover: /images/landing-cover/2019-11-01-Valine.png
+cover: /assets/images/landing-cover/2019-11-01-Valine.png
 author: Akira Ant
 modify_date: 2020-01-12
 article_header:
@@ -11,7 +11,7 @@ article_header:
   background_color: "#203028"
   background_image:
     gradient: "linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))"
-    src: /images/post/2019-11-01-valine.png
+    src: /assets/images/post/2019-11-01-valine.png
 ---
 
 欢迎使用 Valine 评论系统！一款基于 LeanCloud 的快速、简洁且高效的无后端评论系统。
