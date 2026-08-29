@@ -38,8 +38,8 @@ author:
   name      : Akira Ant # Your Name
   url       : https://www.antjun.com/
   avatar    : /avatar.png # path or url of avatar image (square)
-  bio       : Ant Studio CEO
-  email     : AntJun_2016#antjun.com
+  bio       :
+  email     : antjun_2016#antjun.com
   facebook  : ant.akira.940 # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : AntCN16 # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: AntJun/antjun.blog
+repository: AntJun/antjun.github.io
 repository_tree: master
 
 
@@ -114,20 +114,20 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: gitalk # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: disqus # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
-    shortname: # the Disqus shortname for the site
+    shortname:  akira-ants-blog # the Disqus shortname for the site
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
   gitalk:
     clientID    : # GitHub Application Client ID
     clientSecret: # GitHub Application Client Secret
-    repository  : GitalkBlogComments # GitHub repo
-    owner       : AntJun # GitHub repo owner
-    admin: AntJun # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+    repository  : # GitHub repo
+    owner       : # GitHub repo owner
+    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       # - your GitHub Id
 
   ## Valine
@@ -143,12 +143,12 @@ comments:
 ## => Pageview
 ##############################
 pageview:
-  provider: leancloud # false (default), "leancloud", "custom"  provider: leancloud
+  provider: false # false (default), "leancloud", "custom"  provider: leancloud
   ## Leancloud
   leancloud:
     app_id    : # LeanCloud App id
     app_key   : # LeanCloud App key
-    app_class : AntJun # LeanCloud App class
+    app_class : # LeanCloud App class
 
 
 ## => Search
@@ -164,11 +164,11 @@ search:
 ## => Analytics
 ##############################
 analytics:
-  provider: google # false (default), "google", "custom"
+  provider: false # false (default), "google", "custom"
 
   ## Google Analytics
   google:
-    tracking_id : UA-151020755-1 # Google Analytics id for the site
+    tracking_id : # Google Analytics id for the site
     anonymize_ip: false # Anonymize IP tracking for Analytics
 
 
