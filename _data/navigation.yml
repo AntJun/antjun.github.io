@@ -189,11 +189,7 @@ docs-zh:
       - title:  视频
         url:    https://space.bilibili.com/28098803/
   - title:      <span class="iconfont icon-language"></span> 其他语言
-    children:
-      - title:  English
-        url:    /en/
-      - title:  简体中文
-        url:    /
+    language_selector: true
 
 docs-en:
   - title:  <span class="iconfont icon-navigation"></span> Navigation
@@ -218,8 +214,4 @@ docs-en:
         url:    https://space.bilibili.com/28098803/
 
   - title:      <span class="iconfont icon-language"></span> Languages
-    children:
-      - title:  English
-        url:    /en/
-      - title:  简体中文
-        url:    /
+    language_selector: true

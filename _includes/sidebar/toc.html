@@ -5,8 +5,12 @@
     <ul class="toc toc--navigator">
       {%- for _item in _sidebar_nav -%}
         <li class="toc-h1">{{ _item.title }}</li>
-        {%- if _item.children -%}
-          {%- for _child in _item.children -%}
+        {%- assign _children = _item.children -%}
+        {%- if _item.language_selector -%}
+          {%- assign _children = site.data.languages.languages -%}
+        {%- endif -%}
+        {%- if _children -%}
+          {%- for _child in _children -%}
             {%- if _child.action == 'toggle-aplayer' -%}
               <li class="toc-h2">
                 <button
@@ -22,9 +26,9 @@
               {%- include snippets/get-nav-url.html path=page.url -%}
               {%- assign _page_url = __return -%}
               {%- if _nav_url == _page_url -%}
-                <li class="toc-h2 active"><a href="{{ _nav_url }}">{{ _child.title }}</a></li>
+                <li class="toc-h2 active"><a href="{{ _nav_url | escape }}"{%- if _child.language %} data-site-language="{{ _child.language | escape }}"{%- endif -%}>{{ _child.title | escape }}</a></li>
               {%- else -%}
-                <li class="toc-h2"><a href="{{ _nav_url }}">{{ _child.title }}</a></li>
+                <li class="toc-h2"><a href="{{ _nav_url | escape }}"{%- if _child.language %} data-site-language="{{ _child.language | escape }}"{%- endif -%}>{{ _child.title | escape }}</a></li>
               {%- endif -%}
             {%- endif -%}
           {%- endfor -%}

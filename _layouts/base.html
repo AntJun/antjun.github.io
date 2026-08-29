@@ -5,6 +5,12 @@ layout: none
 {%- include snippets/get-lang.html -%}
 <html lang="{{ __return }}">
   <head>
+	<script id="site-language-config" type="application/json" data-baseurl="{{ site.baseurl }}">
+		{{- site.data.languages | jsonify | replace: '<', '\u003c' | replace: '>', '\u003e' | replace: '&', '\u0026' -}}
+	</script>
+	<script>
+		{%- include scripts/components/language-preference.js -%}
+	</script>
 	<!-- Load "iconfont" (HTML) -->
 	<link rel="stylesheet" href="https://at.alicdn.com/t/font_2056686_xuo4iku89np.css">
 
