@@ -26,25 +26,14 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-sponsor
-mode: immersive
 header:
   theme: light
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /images/pin-cover/bg-donate.jpg
 aside:
   toc: true
 ---
 
 <div class="fade-in-words">
-<div class="first-words"><center><b>这里是 Ant Jun 的赞助页，您在这可以找到向我赞助的方式</b></center>
-<div class="second-words"><center><b> 封面图来自：<a href="https://www.pixiv.net/member.php?id=212801" style="color:red;" target="_blank">Anmi </a></b></center>
-</div>
-</div>
+<div class="first-words"><center><b>这里是 Ant Jun 的赞助页，您在这可以找到向我赞助的方式</b></center></div>
 </div>
 
 ---

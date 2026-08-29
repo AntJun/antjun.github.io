@@ -25,24 +25,14 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
-mode: immersive
 header:
   theme: light
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /images/pin-cover/bg-about.jpg
 aside:
   toc: true
 ---
+
 <div class="fade-in-words">
-<div class="first-words"><center><b>这里是介绍页面，您在这可以了解到我本人及本站的详细信息</b></center>
-<div class="second-words"><center><b> 封面图来自：<a href="https://www.pixiv.net/member.php?id=10772" style="color:red;" target="_blank">電鬼 </a></b></center>
-</div>
-</div>
+<div class="first-words"><center><b>这里是介绍页面，您在这可以了解到我本人及本站的详细信息</b></center></div>
 </div>
 
 ---
@@ -68,8 +58,6 @@ aside:
 本站包含转载自其它作品的内容。对于转载内容，本站尊重原创者劳动，已注明原作品名称及出处。
 但由于人为因素的限制，难免有疏忽、失误和遗漏，或者内容来源无法查明。
 如果出现类似这些情况，不管是被转载内容的原作者，还是读者，请及时联系我，以确保第一时间予以修正。
-
-主页封面图来自：<a href="https://x.com/coneyrivard" style="color:red;" target="_blank">幻像黒兎</a>
 
 所有文章均遵守 [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/){:target="\_blank"} 许可协议。
 

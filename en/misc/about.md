@@ -7,8 +7,6 @@ sharing: true
 key: page-about-en
 header:
   theme: light
-sidebar:
-  nav: docs-en
 aside:
   toc: true
 ---
@@ -41,8 +39,6 @@ Except in unusual circumstances, the blog is updated on an irregular schedule.
 This site contains material reproduced from other works. I respect the work of the original creators and identify the original title and source wherever possible.
 Human error may still lead to oversights, mistakes, missing attribution, or sources that cannot be confirmed.
 If you notice such a problem, whether you are the original creator or a reader, please contact me so I can correct it promptly.
-
-The home-page cover artwork is by <a href="https://x.com/coneyrivard" style="color:red;" target="_blank">幻像黒兎</a>.
 
 All articles are licensed under [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/){:target="\_blank"}.
 

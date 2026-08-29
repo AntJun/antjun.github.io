@@ -8,8 +8,6 @@ lightbox: true
 key: page-friends-en
 header:
   theme: light
-sidebar:
-  nav: docs-en
 aside:
   toc: false
 ---
@@ -131,7 +129,6 @@ Friend links that are no longer reachable are listed here.
 <b>Requirements</b>
 <br/> 1. The site is accessible and continues to receive updates.
 <br/> 2. Its pages are tidy and do not contain excessive advertising.
-<br/> 3. Its content does not violate the Cybersecurity Law of the People's Republic of China.
 {:.warning}
 
 <b>Application format</b>

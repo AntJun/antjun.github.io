@@ -7,8 +7,6 @@ sharing: true
 key: page-sponsor-en
 header:
   theme: light
-sidebar:
-  nav: docs-en
 aside:
   toc: true
 ---

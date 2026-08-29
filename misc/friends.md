@@ -26,25 +26,14 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-friends
-mode: immersive
 header:
   theme: light
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /images/pin-cover/bg-friends.jpg
 aside:
   toc: false
 ---
 
 <div class="fade-in-words">
-<div class="first-words"><center><b> 这里是 Ant Jun 的友情链接界面，欢迎各位交换友链 </b></center>
-<div class="second-words"><center><b> 封面图来自：<a href="https://www.pixiv.net/member.php?id=16242151" style="color:red;" target="_blank">あんだ </a></b></center>
-</div>
-</div>
+<div class="first-words"><center><b> 这里是 Ant Jun 的友情链接界面，欢迎各位交换友链 </b></center></div>
 </div>
 
 ---
@@ -159,7 +148,6 @@ aside:
 <b> 友链申请需求</b>
 <br/> 1. 可以正常访问且内容持续更新
 <br/> 2. 网站页面整洁，无繁杂广告
-<br/> 3. 不涉及违反《中华人民共和国网络安全法》的相关内容
 {:.warning}
 
 <b> 友链申请格式</b>
